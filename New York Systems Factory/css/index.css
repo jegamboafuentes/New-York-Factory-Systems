@@ -1,4 +1,4 @@
-.basicPrice s s{
+.basicPrice{
     font-size: 130%;
 }
 
@@ -8,4 +8,9 @@
 
 .textCenter{
     text-align: center;
+}
+
+.underConstruction{
+    text-align: center;
+    font-size: 150%;
 }
