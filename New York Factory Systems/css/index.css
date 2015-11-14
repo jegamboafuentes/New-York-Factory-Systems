@@ -1,0 +1,16 @@
+.basicPrice{
+    font-size: 130%;
+}
+
+.pointerCursor{
+    cursor:pointer;
+}
+
+.textCenter{
+    text-align: center;
+}
+
+.underConstruction{
+    text-align: center;
+    font-size: 150%;
+}
