@@ -1,3 +1,3 @@
-$(window).load(function(){
-    $('#underConstructionModal').modal('show');
-});
+//$(window).load(function(){
+//    $('#underConstructionModal').modal('show');
+//});
