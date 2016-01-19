@@ -11,6 +11,12 @@ if ($sqlRow != 1) {
 } else {
     $userName = mysql_result($sqlQuery, 0);
 }
+//Get files titles and path
+$sqlSytaxTitles = 'select client_req_files.title from client_req_files , client, client_req where client.id_client = client_req.id_client and client_req.id_client_req = client_req_files.id_client_req and client.id_client = "' . $idClient . '"';
+$sqlSyntaxPaths = 'select client_req_files.path  from client_req_files , client, client_req where client.id_client = client_req.id_client and client_req.id_client_req = client_req_files.id_client_req and client.id_client = "' . $idClient . '"';
+$sqlQueryTitles = mysql_query($sqlSytaxTitles);
+$sqlQueryPaths = mysql_query($sqlSyntaxPaths);
+$numberOfFiles = mysql_num_rows($sqlQueryTitles);
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -91,6 +97,7 @@ if ($sqlRow != 1) {
                 <div class="row">
                     <div class="col-lg-12">
                         <h1><?php echo $userName; ?></h1>
+                        <!--/////////////////////////////////////////////////////////////////////////-->
                         <p><strong>Progress: </strong> You can see the progress of your system right here: </p>
                         <a class="btn btn-default page-scroll" href="../../../clients/progressclient/index.html">click me</a>
                     </div>
@@ -104,6 +111,7 @@ if ($sqlRow != 1) {
                 <div class="row">
                     <div class="col-lg-12">
                         <h1>Progress</h1>
+                        Working in this part
                     </div>
                 </div>
             </div>
@@ -116,6 +124,39 @@ if ($sqlRow != 1) {
                     <div class="col-lg-12">
                         <h1><?php echo $userName; ?></h1>
                     </div>
+                    <div class="col-lg-12">
+                        <h4>Documents: </h4>               
+                        <table class="table table-bordered table-hover">
+                            <thead>
+                                <tr>
+                                    <th class="text-center">
+                                        Title
+                                    </th>
+                                    <th class="text-center">
+                                        File
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <?php
+                                $iteratorTable = 0;
+                                for ($iteratorTable; $iteratorTable < $numberOfFiles; $iteratorTable++) {
+                                    echo "<tr>";
+                                    echo "
+                                    <td>
+                                        <p>".mysql_result($sqlQueryTitles,$iteratorTable)."</p>
+                                    </td>
+                                    <td>
+                                        <a href=\"".mysql_result($sqlQueryPaths,$iteratorTable)."\"><span class=\"glyphicon glyphicon-file\" aria-hidden=\"true\"></span></a>
+                                    </td>";
+                                    echo"</tr>";
+                                }
+                                ?>
+                            <a ></a>
+                            </tbody>
+                        </table>
+                    </div>
+
                 </div>
             </div>
         </section>

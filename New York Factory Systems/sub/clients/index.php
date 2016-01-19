@@ -1,5 +1,6 @@
 <?php
 session_start(); //Esto inicia la sesión 
+$_SESSION['logout']="";
 if (isset($_SESSION['user'])) { //Si existe la variable de sesión 'user': 
     $_SESSION['time'] = time(); //Se crea la variable de sesión 'time' con el valor de time() (ejemplo: 1339168896)
     if (isset($_SESSION['time'])) { //Si existe la variable de sesión 'time': 
@@ -18,7 +19,6 @@ if (isset($_SESSION['error'])) { //Si existe la variable de sesión 'error':
     }
     unset($_SESSION['error']); //Destruye la variable de sesión 'error' 
 }
-$_SESSION['logout'];
 if ( isset($_SESSION['user']) && $_SESSION['logout']=="logout" ) { //Si existe la variable de sesión 'user' 
     $_SESSION['time'] = time(); //Se establece el valor time() de la variable de sesión 'time'. 
     header('Location: menu/index.php'); //Redirecciona a la carpeta 'home' 
