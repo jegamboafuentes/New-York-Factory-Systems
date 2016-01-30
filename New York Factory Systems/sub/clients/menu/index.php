@@ -1,9 +1,9 @@
 <?php
-   ob_start();
-   include('../session.php');
-   $userName = $login_session;
-   $test = $sql;
-   error_reporting(E_ALL);
+ob_start();
+include('../session.php');
+include('../configurations.php');
+$idClient = $login_session;
+error_reporting(E_ALL);
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -61,14 +61,10 @@
                             <a class="page-scroll" href="#about">Progress</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="#services"><?php echo $userName; ?></a>
+                            <a class="page-scroll" href="#services"><?php echo $idClient; ?></a>
                         </li>
                         <li>
-                            <form action="../logout.php" method="POST">
-                                <button type="submit" class="btn btn-default">
-                                    Log Out
-                                </button>
-                            </form>
+                            <a href="../logout.php"><span class="glyphicon glyphicon-minus-sign" aria-hidden="true"></span> logout</a>
                         </li>
                     </ul>
                     <div></div>
@@ -76,18 +72,31 @@
                 <!-- /.navbar-collapse -->
             </div>
             <!-- /.container -->
-        </nav>
-
+        </nav>        
         <!-- Intro Section -->
         <section id="intro" class="intro-section">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h1><?php echo $userName; ?></h1>
-                        <!--/////////////////////////////////////////////////////////////////////////-->
+                        <h1><?php echo $idClient; ?></h1>
                         <p><strong>Progress: </strong> You can see the progress of your system right here: </p>
-                        <a class="btn btn-default page-scroll" href="../../../clients/progressclient/index.html">click me</a>
-                        <p><?php echo $test; ?></p>
+                        <?php
+                        $urlProgressHTML = $clientsPath."/clients/" . $idClient . "/main/index.html";
+                        $urlProgressPHP = $clientsPath."/clients/" . $idClient . "/main/index.php";
+                        $file_headersHTML = @get_headers($urlProgressHTML);
+                        $file_headersPHP = @get_headers($urlProgressPHP);
+                        if ($file_headersHTML[0] == 'HTTP/1.1 404 Not Found' && $file_headersPHP[0] == 'HTTP/1.1 404 Not Found') {
+                            $clientWebPage=$clientsPath."/clients/progressclient/index.html";
+                        } else {
+                            if($file_headersPHP[0] == 'HTTP/1.1 404 Not Found'){
+                                $clientWebPage=$urlProgressHTML;
+                            }else{
+                                $clientWebPage=$urlProgressPHP;
+                            }
+                            
+                        }
+                        ?>
+                        <a class="btn btn-default page-scroll" href="<?php echo $clientWebPage;?>">click me</a>
                     </div>
                 </div>
             </div>
@@ -110,7 +119,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h1><?php echo $userName; ?></h1>
+                        <h1><?php echo $idClient; ?></h1>
                     </div>
                     <div class="col-lg-12">
                         <h4>Documents: </h4>               
@@ -132,10 +141,10 @@
                                     echo "<tr>";
                                     echo "
                                     <td>
-                                        <p>".mysql_result($sqlQueryTitles,$iteratorTable)."</p>
+                                        <p>" . mysql_result($sqlQueryTitles, $iteratorTable) . "</p>
                                     </td>
                                     <td>
-                                        <a href=\"".mysql_result($sqlQueryPaths,$iteratorTable)."\"><span class=\"glyphicon glyphicon-file\" aria-hidden=\"true\"></span></a>
+                                        <a href=\"" . mysql_result($sqlQueryPaths, $iteratorTable) . "\"><span class=\"glyphicon glyphicon-file\" aria-hidden=\"true\"></span></a>
                                     </td>";
                                     echo"</tr>";
                                 }

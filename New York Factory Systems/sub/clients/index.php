@@ -19,7 +19,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $_SESSION['login_user'] = $myusername;
         header("location: menu/index.php");
     } else {
-        $error = "User or password are incorrect.";
+        $error = -1;
     }
 }
 ?>
@@ -81,8 +81,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                             </div>
                         </form>
                         <div>
-                            <h2>Status</h2>
-                            <?php echo $error; ?>
+                            <?php
+                            if (isset($error)) {
+                                echo "
+                                <div class = \"alert alert-danger\">
+                                Your email or password are incorrect.
+                                </div>";
+                            }
+                            ?>
                         </div>
                     </ul>
                 </div>
