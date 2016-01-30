@@ -26,32 +26,49 @@ if ( isset($_SESSION['user']) && $_SESSION['logout']=="logout" ) { //Si existe l
     ?> 
     <!DOCTYPE html>
     <html lang="en">
-
         <head>
-
             <meta charset="utf-8">
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1">
             <meta name="description" content="">
             <meta name="author" content="">
-
             <title>NYFS - Clients</title>
-
             <!-- Bootstrap Core CSS -->
             <link href="css/bootstrap.min.css" rel="stylesheet">
-
             <!-- Custom CSS -->
             <style>
                 body {
                     padding-top: 70px;
                 }
             </style>
-
-            <script type="text/javascript" src="menu/js/loginValidation.jss"></script> 
+            <script type="text/javascript"> 
+            function CheckForm() 
+            { 
+                var User= document.getElementById('inUser').value; //Se crea la variable User conteniendo el valor del input con id 'inUser'
+                var Pass= document.getElementById('inPass').value; 
+                var errormsg= 'Debe completar: n' //Se crea un mensaje de error en la variable errormsg
+                if(User == '') //Si la variable 'User' no tiene contenido: 
+                    { 
+                    var error= true; //crea la variable 'error' con valor verdadero (existe)
+                    var errormsg= errormsg + 'Nombre de Usuarion'; 
+                    } 
+                if(Pass == '') 
+                    { 
+                    var error= true; 
+                    var errormsg= errormsg + 'Contraseñan'; 
+                    } 
+                if(error) //Si existe la variable 'error' (si el valor es verdadero, true):
+                { 
+                    alert(errormsg) //Muestra un mensaje de alerta con el contenido de la variable 'errormsg'
+                } 
+                else //sino 
+                { 
+                    document.getElementById('loginForm').submit(); //Hace un submit en el form con id 'loginForm'
+                } 
+            } 
+        </script> 
         </head>
-
         <body>
-
             <!-- Navigation -->
             <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
                 <div class="container">
@@ -68,10 +85,8 @@ if ( isset($_SESSION['user']) && $_SESSION['logout']=="logout" ) { //Si existe l
                 </div>
                 <!-- /.container -->
             </nav>
-
             <!-- Page Content -->
             <div class="container">
-
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h1>New York Factory Systems</h1>
@@ -92,23 +107,16 @@ if ( isset($_SESSION['user']) && $_SESSION['logout']=="logout" ) { //Si existe l
                                     <button type="submit" class="btn btn-primary">Submit</button>
                                 </div>
                             </form>
-
                         </ul>
                     </div>
                 </div>
                 <!-- /.row -->
-
             </div>
             <!-- /.container -->
-
             <!-- jQuery Version 1.11.1 -->
             <script src="js/jquery.js"></script>
-
             <!-- Bootstrap Core JavaScript -->
             <script src="js/bootstrap.min.js"></script>
-
         </body>
-
     </html>
-
-<?php } ?> 
+<?php }?> 

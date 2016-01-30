@@ -1,6 +1,7 @@
 <?php 
     session_start(); 
-    require_once '../clients/bdconexion/sqlConnection.php'; //Requiere el archivo 'SqlConnection.php 
+    error_reporting(E_ALL);
+    require_once '../clients/bdconexion/sqlConnection.php'; //Requiere el archivo 'SqlConnection.php require_once 'SqlConnection.php'; //Requiere el archivo 'SqlConnection.php 
     class login //Crea la clase 'login' 
     { 
         public function __construct($usr,$inUsr,$inPss) //Crea la función '__construct' con el las tres variables.
@@ -20,19 +21,25 @@
         { 
             if(!isset($this->PostUser)) //Si NO existe la variable 'PostUser': 
             { 
-                header("Location: index.php"); 
+                header("Location: ../"); 
             } 
             if(!isset($this->PostPass)) 
             { 
-                header("Location: index.php"); 
+                header("Location: ../"); 
             }    
         } 
     } 
     $check= new login($_SESSION['user'],$_POST['inUser'],$_POST['inPass']); //Se crea una nueva clase 'login' con los valores 'Username'=$_SESSION['user'] ; 'PostUser'=$_SESSION['inUser'] ; 'PostPass'=$_SESSION['inPass']
     $check-> checkSession(); //Se ejecuta la función 'checkSession()' 
     $check-> checkForm(); //Se ejecuta la función 'checkForm() 
-     
-    $sqlSyntax= 'SELECT ID_CLIENT_CONTACT,PASSWORD FROM CLIENT_SECURITY WHERE ID_CLIENT_CONTACT = "'.$_POST['inUser'].'" AND PASSWORD = "'.$_POST['inPass'].'"'; //Se crea la sintaxis para la base de datos
+    $link = mysql_connect("localhost", "snake22099", "pumas2209");
+        if (!$link) {
+            echo "<p>Could not connect to the server '" . "localhost" . "'</p>\n";
+            echo mysql_error();
+        }else{
+            echo "<p>Successfully connected to the server '" . "localhost" . "'</p>\n";
+        }
+    $sqlSyntax= 'SELECT ID_CLIENT_CONTACT,PASSWORD FROM CLIENT_SECURITY WHERE ID_CLIENT_CONTACT = "'.$_POST['inUser'].'" AND PASSWORD = "'.$_POST['inPass'].'"'; //Se crea la sintaxis para la base de datos$sqlSyntax= 'SELECT user_username,user_password FROM users WHERE user_username = "'.$_POST['inUser'].'" AND user_password = "'.$_POST['inPass'].'"'; //Se crea la sintaxis para la base de datos
     $sqlQuery= mysql_query($sqlSyntax); //Se ejecuta el query de $sqlSyntax 
     $sqlSyntax2= 'SELECT ID_CLIENT FROM CLIENT_SECURITY WHERE ID_CLIENT_CONTACT = "'.$_POST['inUser'].'"';  //Se crea la siguiente sintaxis
     $sqlQuery2= mysql_query($sqlSyntax2); //Se ejecuta el segundo query 
@@ -50,9 +57,8 @@
     } 
     else //Si el valor de filas devuelto es distinto de 1: 
     { 
-        //$_SESSION['error']= 'Usuario o contraseña incorrectos';
-        $_SESSION['error']= 'User or Password incorrect';
-        header('Location: index.php'); 
+        $_SESSION['error']= 'Usuario o contraseña incorrectos'; //Se le asigna un mensaje de error a la variable de sesión 'error'
+        header('Location: ../../'); 
     } 
 
-?> 
+?>
