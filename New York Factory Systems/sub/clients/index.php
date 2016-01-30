@@ -1,31 +1,27 @@
 <?php
-   include("/bdconexion/sqlConnection.php");
-   session_start();
-   
-   if($_SERVER["REQUEST_METHOD"] == "POST") {
-      // username and password sent from form 
-      
-      $myusername = mysqli_real_escape_string($db,$_POST['username']);
-      $mypassword = mysqli_real_escape_string($db,$_POST['password']); 
-      
-      $sql = 'SELECT ID_CLIENT FROM CLIENT_SECURITY WHERE ID_CLIENT_CONTACT = "'.$myusername.'" AND PASSWORD = "'.$mypassword.'"';
-      $result = mysqli_query($db,$sql);
-      $row = mysqli_fetch_array($result,MYSQLI_ASSOC);
-      $active = $row['ID_CLIENT'];
-      
-      $count = mysqli_num_rows($result);
-      
-      // If result matched $myusername and $mypassword, table row must be 1 row
-      if($count == 1) {
-         //session_register("myusername");
-         $_SESSION['myusername'] = $myusername;
-         $_SESSION['login_user'] = $myusername;
-         
-         header("location: menu/index.php");
-      }else {
-         $error = "Your Login Name or Password is invalid";
-      }
-   }
+ob_start();
+include("./bdconexion/sqlConnection.php");
+session_start();
+error_reporting(E_ALL);
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // username and password sent from form 
+    $myusername = mysqli_real_escape_string($db, $_POST['username']);
+    $mypassword = mysqli_real_escape_string($db, $_POST['password']);
+    $sql = "select id_client from client_security where id_client_contact = '$myusername' AND PASSWORD = '$mypassword';";
+    $result = mysqli_query($db, $sql);
+    $row = mysqli_fetch_array($result, MYSQLI_ASSOC);
+    $active = $row['id_client'];
+    $count = mysqli_num_rows($result);
+    // If result matched $myusername and $mypassword, table row must be 1 row
+    if ($count == 1) {
+        //session_register("myusername");
+        $_SESSION['myusername'] = $myusername;
+        $_SESSION['login_user'] = $myusername;
+        header("location: menu/index.php");
+    } else {
+        $error = "User or password are incorrect.";
+    }
+}
 ?>
 <!DOCTYPE html>
 <html lang="en">

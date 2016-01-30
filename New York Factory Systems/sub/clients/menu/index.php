@@ -1,7 +1,9 @@
 <?php
+   ob_start();
    include('../session.php');
    $userName = $login_session;
    $test = $sql;
+   error_reporting(E_ALL);
 ?>
 <!DOCTYPE html>
 <html lang="en">
