@@ -1,22 +1,7 @@
 <?php
-session_start();
-require_once '../bdconexion/sqlConnection.php';
-$userName = "Client";
-$idClient = $_SESSION['user'];
-$sqlSyntax = 'SELECT NAME_CLIENT FROM CLIENT WHERE ID_CLIENT="' . $idClient . '"';
-$sqlQuery = mysql_query($sqlSyntax);
-$sqlRow = mysql_num_rows($sqlQuery);
-if ($sqlRow != 1) {
-    
-} else {
-    $userName = mysql_result($sqlQuery, 0);
-}
-//Get files titles and path
-$sqlSytaxTitles = 'select client_req_files.title from client_req_files , client, client_req where client.id_client = client_req.id_client and client_req.id_client_req = client_req_files.id_client_req and client.id_client = "' . $idClient . '"';
-$sqlSyntaxPaths = 'select client_req_files.path  from client_req_files , client, client_req where client.id_client = client_req.id_client and client_req.id_client_req = client_req_files.id_client_req and client.id_client = "' . $idClient . '"';
-$sqlQueryTitles = mysql_query($sqlSytaxTitles);
-$sqlQueryPaths = mysql_query($sqlSyntaxPaths);
-$numberOfFiles = mysql_num_rows($sqlQueryTitles);
+   include('../session.php');
+   $userName = $login_session;
+   $test = $sql;
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -100,6 +85,7 @@ $numberOfFiles = mysql_num_rows($sqlQueryTitles);
                         <!--/////////////////////////////////////////////////////////////////////////-->
                         <p><strong>Progress: </strong> You can see the progress of your system right here: </p>
                         <a class="btn btn-default page-scroll" href="../../../clients/progressclient/index.html">click me</a>
+                        <p><?php echo $test; ?></p>
                     </div>
                 </div>
             </div>

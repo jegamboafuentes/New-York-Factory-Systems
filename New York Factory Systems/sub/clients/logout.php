@@ -1,5 +1,7 @@
 <?php
-    session_abort();
-    $_SESSION['logout'] = 'logout';
-    header('Location: index.php');
+   session_start();
+   
+   if(session_destroy()) {
+      header("Location: index.php");
+   }
 ?>
