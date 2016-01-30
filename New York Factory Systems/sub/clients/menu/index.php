@@ -96,7 +96,7 @@ error_reporting(E_ALL);
                             
                         }
                         ?>
-                        <a class="btn btn-default page-scroll" href="<?php echo $clientWebPage;?>">click me</a>
+                        <a class="btn btn-default page-scroll" href="<?php echo $clientWebPage;?>" target="_blank">click me</a>
                     </div>
                 </div>
             </div>
