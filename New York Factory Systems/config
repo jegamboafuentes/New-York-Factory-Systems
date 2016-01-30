@@ -5,3 +5,12 @@
 	symlinks = false
 	ignorecase = true
 	hideDotFiles = dotGitOnly
+[remote "origins"]
+	url = https://github.com/jegamboafuentes/Every-Day-New-Yorker.git
+	fetch = +refs/heads/*:refs/remotes/origins/*
+[remote "client"]
+	url = https://github.com/jegamboafuentes/Every-Day-New-Yorker.git
+	fetch = +refs/heads/*:refs/remotes/client/*
+[remote "origin"]
+	url = https://github.com/jegamboafuentes/Every-Day-New-Yorker.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
