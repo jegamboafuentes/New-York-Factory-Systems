@@ -76,7 +76,7 @@
                 <a href="#services" onclick = $("#menu-close").click(); >Services</a>
             </li>
             <li>
-                <a href="#portfolio" onclick = $("#menu-close").click(); >Portfolio</a>
+                <a href="#portfolio" onclick = $("#menu-close").click(); >Our work</a>
             </li>
             <li>
                 <a href="#contact" onclick = $("#menu-close").click(); >Contact</a>
@@ -90,7 +90,6 @@
             <h1>New York Factory Systems</h1>
             <h3>Fully Optomized Digital Marketing Platforms for your SMB</h3>
             <br>
-            <a href="#about" class="btn btn-dark btn-lg">See more</a>
         </div>
     </header>
 
@@ -328,6 +327,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
+                    <p><a class="btn btn-success btn-lg" role="button" data-toggle="modal" data-target="#exampleModal">Send us a message</a></p>
                     <h4><strong>New York Factory Systems</strong>
                     </h4>
                     <p>Brooklyn, NY <br></p>
@@ -342,7 +342,41 @@
             </div>
         </div>
     </footer>
-    
+    <!--Modal for send message-->                
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+              <h4 class="modal-title" id="exampleModalLabel">Contact us</h4>
+            </div>
+            <div class="modal-body">
+              <form>
+                <div class="form-group">
+                  <div class="input-group input-group-lg">
+                    <span class="input-group-addon" id="sizing-addon1">email</span>
+                    <input type="text" class="form-control" placeholder="example@example.com" aria-describedby="sizing-addon1">
+                  </div>
+                  <br>
+                  <div class="input-group input-group-lg">
+                    <span class="input-group-addon" id="sizing-addon1">name</span>
+                    <input type="text" class="form-control" placeholder="your name" aria-describedby="sizing-addon1">
+                  </div>
+                </div>
+                <div class="form-group">
+                  <label for="message-text" class="control-label">Message:</label>
+                  <textarea class="form-control" id="message-text"></textarea>
+                </div>
+              </form>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Send message</button>
+            </div>
+          </div>
+        </div>
+    </div>
+    <!--Modal for send message-->
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
