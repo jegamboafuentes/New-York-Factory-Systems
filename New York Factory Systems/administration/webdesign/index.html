@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>NY-FS Web design</title>
+
+        <!-- Bootstrap Core CSS -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Custom CSS -->
+        <link href="css/simple-sidebar.css" rel="stylesheet">
+        
+        <!-- prettify CSS -->
+        <link href="css/prettify.css" rel="stylesheet">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+    </head>
+
+    <body>
+
+        <div id="wrapper">
+
+            <!-- Sidebar -->
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                        <a href="webDesign.html">
+                            NY-FS Web design
+                        </a>
+                    </li>
+                    <li>
+                        <a href="templates/bootsrap/nyfsTemplatesBootsrap.html">Bootstrap</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /#sidebar-wrapper -->
+
+            <!-- Page Content -->
+            <div id="page-content-wrapper">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <h1>New York Factory Systems - Web design</h1>
+                            <p>This are the steps for the Web design, follow each steps, for the correctly design.</p>
+                            <br>
+                            <h2>Steps for design the web page of the client:</h2>
+                        </div>
+                        <!-- Wizard -->
+                        <!--http://vadimg.com/twitter-bootstrap-wizard-example/examples/basic-progressbar.html-->
+                        <div class="col-lg-12">
+                            <div id="rootwizard">
+                                <div class="navbar">
+                                    <div class="navbar-inner">
+                                        <div class="container">
+                                            <ul>
+                                                <li><a href="#tab1" data-toggle="tab">1</a></li>
+                                                <li><a href="#tab2" data-toggle="tab">2</a></li>
+                                                <li><a href="#tab3" data-toggle="tab">3</a></li>
+                                                <li><a href="#tab4" data-toggle="tab">4</a></li>
+                                                <li><a href="#tab5" data-toggle="tab">5</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="bar" class="progress">
+                                    <div class="bar progress-bar"></div>
+                                </div>
+                                <div class="tab-content">
+                                    <div class="tab-pane" id="tab1">
+                                        <h3>Selection the technologie</h3>
+                                        <p>Choose a technology for the type of the client.<p>
+                                    </div>
+                                    <div class="tab-pane" id="tab2">
+                                        <h3>Selection a template</h3>
+                                        <p>Choose a template for the cilent.<p>
+                                    </div>
+                                    <div class="tab-pane" id="tab3">
+                                        <h3>Web designer</h3>
+                                        <p>With the selection of the template of the client, 
+                                            this template have to send to the web designer, 
+                                            he will made 3 proposals, editing colors, images, fonts, etc... 
+                                            depending on the necessities of the client.<p>
+                                    </div>
+                                    <div class="tab-pane" id="tab4">
+                                        <h3>Edits by client</h3>
+                                        <p>When the client choose the final design, he can make 5 changes on it.<p>
+                                    </div>
+                                    <div class="tab-pane" id="tab5">
+                                        <h3>Delivery</h3>
+                                        <p>The design is finish and the software developer starts the work.<p>
+                                    </div>
+                                    <div class="tab-pane" id="tab6">
+                                        6
+                                    </div>
+                                    <div class="tab-pane" id="tab7">
+                                        7
+                                    </div>
+                                    <ul class="pager wizard">
+                                        <li class="previous first" style="display:none;"><a href="#">First</a></li>
+                                        <li class="previous"><a href="#">Previous</a></li>
+                                        <li class="next last" style="display:none;"><a href="#">Last</a></li>
+                                        <li class="next"><a href="#">Next</a></li>
+                                    </ul>
+                                </div>	
+                            </div>
+                        </div>
+
+                        <!--END Wizard -->
+                    </div>
+                </div>
+            </div>
+            <!-- /#page-content-wrapper -->
+        </div>
+        <!-- /#wrapper -->
+
+        <!-- jQuery -->
+        <script src="js/jquery.js"></script>
+
+        <!-- Bootstrap Core JavaScript -->
+        <script src="js/bootstrap.min.js"></script>
+
+        <!-- Bootstrap Core Wizard -->
+        <script src="js/jquery.bootstrap.wizard.js"></script>
+        <script src="js/prettify.js"></script>
+
+        <!-- Web design My Java Script -->
+        <script src="js/webDesign.js"></script>
+
+        <!-- Menu Toggle Script -->
+        <script>
+            $("#menu-toggle").click(function (e) {
+                e.preventDefault();
+                $("#wrapper").toggleClass("toggled");
+            });
+        </script>
+
+    </body>
+
+</html>
