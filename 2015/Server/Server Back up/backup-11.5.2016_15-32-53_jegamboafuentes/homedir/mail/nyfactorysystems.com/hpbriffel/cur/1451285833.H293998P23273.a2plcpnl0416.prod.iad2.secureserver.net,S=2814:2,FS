@@ -1,0 +1,60 @@
+Return-path: <hpbriffel@gmail.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Sun, 27 Dec 2015 23:57:13 -0700
+Received: from mail-io0-f169.google.com ([209.85.223.169]:35596)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <hpbriffel@gmail.com>)
+	id 1aDRk1-00062s-7J
+	for hpbriffel@nyfactorysystems.com; Sun, 27 Dec 2015 23:57:13 -0700
+Received: by mail-io0-f169.google.com with SMTP id q126so297815424iof.2
+        for <hpbriffel@nyfactorysystems.com>; Sun, 27 Dec 2015 22:57:13 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :content-type;
+        bh=nlmR5DyyhqAOioQoxaIwrxG5T4bh6A5F2tO2HeSIG8A=;
+        b=PoxpaNNsye9pdcQvyy0k1E1UOh2UClUVbainUyubDr8KxdlCeiMHj5olfSRjKfBgGe
+         v/a/jQ0wcPrKrZBUEbaWMHjLdYxvaU9gOevprOz2sbJlsCnXZBrFAx1fn+IdkmYIUWRC
+         n8pUy2yKBnAMu5s2+4tVMyKzYMdeAkR/OUW2usWoqKrb1tlU2nkk8812qH+axGCLFQbv
+         FW4Ebl2yMZyGlzQkA1oy+Aq+LuHnF5XRh9urCbfw/lV2chh5ASu1XRQmAIZUWhnR40h/
+         7Q1pRDP7d189lydI+ORgbucHLxTdokokYtrZ5tEF9wY7Upmmo1pHYFJ/UMSt2oFX7ZwE
+         3aww==
+X-Received: by 10.107.128.37 with SMTP id b37mr20787215iod.183.1451253345520;
+ Sun, 27 Dec 2015 13:55:45 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.107.136.193 with HTTP; Sun, 27 Dec 2015 13:55:16 -0800 (PST)
+In-Reply-To: <F5F2A6FF-9B82-4D3D-8FB1-B831980F8A2D@nyfactorysystems.com>
+References: <F5F2A6FF-9B82-4D3D-8FB1-B831980F8A2D@nyfactorysystems.com>
+From: Henry Briffel <hpbriffel@gmail.com>
+Date: Sun, 27 Dec 2015 16:55:16 -0500
+Message-ID: <CAPw96TZ+rECYmv2N+Kjb+mPESqudTfzBuGwZi-GEGTqONi6p5g@mail.gmail.com>
+Subject: Re: hey gurl lol
+To: "hpbriffel@nyfactorysystems.com" <hpbriffel@nyfactorysystems.com>
+Content-Type: multipart/alternative; boundary=001a113f8f662391d90527e84049
+
+--001a113f8f662391d90527e84049
+Content-Type: text/plain; charset=UTF-8
+
+It works!
+
+On Sun, Dec 27, 2015 at 4:44 PM hpbriffel@nyfactorysystems.com <
+hpbriffel@nyfactorysystems.com> wrote:
+
+> Hey gurl test
+>
+
+--001a113f8f662391d90527e84049
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div style=3D"white-space:pre-wrap">It works!</div><br><di=
+v class=3D"gmail_quote"><div dir=3D"ltr">On Sun, Dec 27, 2015 at 4:44 PM <a=
+ href=3D"mailto:hpbriffel@nyfactorysystems.com" target=3D"_blank">hpbriffel=
+@nyfactorysystems.com</a> &lt;<a href=3D"mailto:hpbriffel@nyfactorysystems.=
+com" target=3D"_blank">hpbriffel@nyfactorysystems.com</a>&gt; wrote:<br></d=
+iv><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left=
+:1px #ccc solid;padding-left:1ex">Hey gurl test<br>
+</blockquote></div></div>
+
+--001a113f8f662391d90527e84049--

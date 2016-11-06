@@ -1,0 +1,69 @@
+Return-path: <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Sat, 30 Jan 2016 00:54:58 -0700
+Received: from m69-169.mailgun.net ([166.78.69.169]:44065)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtp (Exim 4.85)
+	(envelope-from <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>)
+	id 1aPQN0-002FR1-PF
+	for hpbriffel@nyfactorysystems.com; Sat, 30 Jan 2016 00:54:58 -0700
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=github.com; q=dns/txt;
+ s=mailo; t=1454140488; h=Content-Transfer-Encoding: Content-Type:
+ Mime-Version: Subject: Message-ID: To: Reply-To: From: Date: Sender;
+ bh=9Nd89/CP+dLXrtYWltSzBNTlFGPZBWaeiNsDxlOA8Yw=; b=Be2r/6NP1p8pkMB3j8GLSsdRPcdRAGgiGTtjLG6MxkuEyw723mpXrTW9cUB2gTxA9QMjQR32
+ QWxahaOnLspNz8R9gmSjwk1sxnIVEIXuh4lRAeCcBdToLrT34B3E3rJMq6GPltJCg5EYbOam
+ CesQICbyLG32hy3Y+s6doYFvhEI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=github.com; s=mailo; q=dns;
+ h=Sender: Date: From: Reply-To: To: Message-ID: Subject: Mime-Version:
+ Content-Type: Content-Transfer-Encoding;
+ b=FWQD8L0JtytO8iZau9KOolfo+tZuAJjH4KYNBbrqFaouv0huulV8uUWpEVsGyGp2/fk/Ga
+ lspNC4lg3em99xe8XH/+Its+2uxxM568VzxWSN28MJNSsfWf94Z9hseERee8Tjs4U4KxKYMA
+ jjtK+M4Xqxzok9vAjA3EC2NGAuvzY=
+Sender: jegamboafuentes=gmail.com@github.com
+X-Mailgun-Sid: WyI4OWEzZSIsICJocGJyaWZmZWxAbnlmYWN0b3J5c3lzdGVtcy5jb20iLCAiNDBmIl0=
+Received: from github.com (Unknown [192.30.252.34])
+ by mxa.mailgun.org with ESMTP id 56ac6c48.7f74b90adea0-in6;
+ Sat, 30 Jan 2016 07:54:48 -0000 (UTC)
+Date: Fri, 29 Jan 2016 23:54:47 -0800
+From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+Reply-To: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+To: hpbriffel@nyfactorysystems.com
+Message-ID: <56ac6c47aeb6c_fbf3f9267a792a011952b@hookshot-fe2-cp1-prd.iad.github.net.mail>
+Subject: [jegamboafuentes/New-York-Factory-Systems] 378ede: Login completed
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="--==_mimepart_56ac6c47ae72a_fbf3f9267a792a01194b9";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_56ac6c47ae72a_fbf3f9267a792a01194b9
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+  Branch: refs/heads/master
+  Home:   https://github.com/jegamboafuentes/New-York-Factory-Systems
+  Commit: 378ede65bb97e0f367f0719048aa195351b6227f
+      https://github.com/jegamboafuentes/New-York-Factory-Systems/commit/378ede65bb97e0f367f0719048aa195351b6227f
+  Author: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+  Date:   2016-01-30 (Sat, 30 Jan 2016)
+
+  Changed paths:
+    A New York Factory Systems/sub/clients/bdconexion/dev/sqlConnection.php
+    R New York Factory Systems/sub/clients/bdconexion/dev/sqlData.php
+    A New York Factory Systems/sub/clients/bdconexion/prod/sqlConnection.php
+    R New York Factory Systems/sub/clients/bdconexion/prod/sqlData.php
+    M New York Factory Systems/sub/clients/bdconexion/sqlConnection.php
+    R New York Factory Systems/sub/clients/bdconexion/sqlData.php
+    M New York Factory Systems/sub/clients/index.php
+    M New York Factory Systems/sub/clients/logout.php
+    M New York Factory Systems/sub/clients/menu/index.php
+    A New York Factory Systems/sub/clients/session.php
+
+  Log Message:
+  -----------
+  Login completed
+
+
+
+----==_mimepart_56ac6c47ae72a_fbf3f9267a792a01194b9--

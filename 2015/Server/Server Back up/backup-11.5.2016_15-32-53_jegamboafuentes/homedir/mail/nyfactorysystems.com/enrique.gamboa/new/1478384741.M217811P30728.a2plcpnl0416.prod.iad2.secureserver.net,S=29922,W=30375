@@ -1,0 +1,453 @@
+Return-Path: <bounce+a97ce2.40f-enrique.gamboa=nyfactorysystems.com@github.com>
+Delivered-To: enrique.gamboa@nyfactorysystems.com
+Received: from a2plcpnl0416.prod.iad2.secureserver.net
+	by a2plcpnl0416.prod.iad2.secureserver.net (Dovecot) with LMTP id ZvXkDGVcHlgIeAAAtdAT+w
+	for <enrique.gamboa@nyfactorysystems.com>; Sat, 05 Nov 2016 15:25:41 -0700
+Return-path: <bounce+a97ce2.40f-enrique.gamboa=nyfactorysystems.com@github.com>
+Envelope-to: enrique.gamboa@nyfactorysystems.com
+Delivery-date: Sat, 05 Nov 2016 15:25:41 -0700
+Received: from m69-169.mailgun.net ([166.78.69.169]:28239)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtp (Exim 4.87)
+	(envelope-from <bounce+a97ce2.40f-enrique.gamboa=nyfactorysystems.com@github.com>)
+	id 1c39PB-0007ih-3o
+	for enrique.gamboa@nyfactorysystems.com; Sat, 05 Nov 2016 15:25:41 -0700
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=github.com; q=dns/txt;
+ s=mailo; t=1478384680; h=Content-Transfer-Encoding: Content-Type:
+ Mime-Version: Subject: Message-ID: To: Reply-To: From: Date: Sender;
+ bh=5rMx0l8TtRRePAUr4uPe8S2G3UscZ467onrgahJBX/g=; b=Y3VVdc5lmG8X1II/QLjnmFwwouGYPFlpYAblXFERP3WAwCdCjgrQZfnskHR0AKNtDy942/6B
+ TZxuVoWbId3tBaI/cuHlHsCNkWugfiU8yK2z/NC+HcWq7y+zDxYpntVQd7dmIWcGcqwMmuwr
+ ZrIbCYoRcmjxZI7+wj2MdYKA0Lc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=github.com; s=mailo; q=dns;
+ h=Sender: Date: From: Reply-To: To: Message-ID: Subject: Mime-Version:
+ Content-Type: Content-Transfer-Encoding;
+ b=QcXJo2FVsVQ0O9jnnT+42X0OqPF8abYKTtkEVbazv8LAHJTgq4jmoOeDFZy85ppCJ2sJwO
+ 5FrpOLWQK7anfB9wBBjA69hoiamivDkdvHmG8lcLQGMKNWLwQgZD4k02xOtN/213tr5nZfS6
+ Z02C9r0HKm2KSUBB9EAnlC65prH3w=
+Sender: jegamboafuentes=gmail.com@github.com
+X-Mailgun-Sending-Ip: 166.78.69.169
+X-Mailgun-Sid: WyIwNTc4MiIsICJlbnJpcXVlLmdhbWJvYUBueWZhY3RvcnlzeXN0ZW1zLmNvbSIsICI0MGYiXQ==
+Received: from github.com (Unknown [192.30.252.40])
+ by mxa.mailgun.org with ESMTP id 581e5c28.7f54a04df480-in03;
+ Sat, 05 Nov 2016 22:24:40 -0000 (UTC)
+Date: Sat, 05 Nov 2016 15:24:40 -0700
+From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+Reply-To: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+To: enrique.gamboa@nyfactorysystems.com
+Message-ID: <581e5c282bcea_6fd33feb86ba113c319c3@hookshot-fe6-cp1-prd.iad.github.net.mail>
+Subject: [jegamboafuentes/New-York-Factory-Systems] 6f9a6f: Changing server
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="--==_mimepart_581e5c282b497_6fd33feb86ba113c31837";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_581e5c282b497_6fd33feb86ba113c31837
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+  Branch: refs/heads/master
+  Home:   https://github.com/jegamboafuentes/New-York-Factory-Systems
+  Commit: 6f9a6fbdb63d8241088f5a5cf9ebdf0736caf4d2
+      https://github.com/jegamboafuentes/New-York-Factory-Systems/commit/6f9a6fbdb63d8241088f5a5cf9ebdf0736caf4d2
+  Author: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+  Date:   2016-11-05 (Sat, 05 Nov 2016)
+
+  Changed paths:
+    A 2015/New York Factory Systems/HEAD
+    A 2015/New York Factory Systems/LICENSE
+    A 2015/New York Factory Systems/README.md
+    A 2015/New York Factory Systems/administration/webdesign/LICENSE
+    A 2015/New York Factory Systems/administration/webdesign/README.md
+    A 2015/New York Factory Systems/administration/webdesign/css/bootstrap-theme.css
+    A 2015/New York Factory Systems/administration/webdesign/css/bootstrap-theme.css.map
+    A 2015/New York Factory Systems/administration/webdesign/css/bootstrap-theme.min.css
+    A 2015/New York Factory Systems/administration/webdesign/css/bootstrap.css
+    A 2015/New York Factory Systems/administration/webdesign/css/bootstrap.css.map
+    A 2015/New York Factory Systems/administration/webdesign/css/bootstrap.min.css
+    A 2015/New York Factory Systems/administration/webdesign/css/prettify.css
+    A 2015/New York Factory Systems/administration/webdesign/css/simple-sidebar.css
+    A 2015/New York Factory Systems/administration/webdesign/fonts/glyphicons-halflings-regular.eot
+    A 2015/New York Factory Systems/administration/webdesign/fonts/glyphicons-halflings-regular.svg
+    A 2015/New York Factory Systems/administration/webdesign/fonts/glyphicons-halflings-regular.ttf
+    A 2015/New York Factory Systems/administration/webdesign/fonts/glyphicons-halflings-regular.woff
+    A 2015/New York Factory Systems/administration/webdesign/fonts/glyphicons-halflings-regular.woff2
+    A 2015/New York Factory Systems/administration/webdesign/index.html
+    A 2015/New York Factory Systems/administration/webdesign/js/bootstrap.js
+    A 2015/New York Factory Systems/administration/webdesign/js/bootstrap.min.js
+    A 2015/New York Factory Systems/administration/webdesign/js/bower.json
+    A 2015/New York Factory Systems/administration/webdesign/js/jquery.bootstrap.wizard.js
+    A 2015/New York Factory Systems/administration/webdesign/js/jquery.bootstrap.wizard.min.js
+    A 2015/New York Factory Systems/administration/webdesign/js/jquery.js
+    A 2015/New York Factory Systems/administration/webdesign/js/npm.js
+    A 2015/New York Factory Systems/administration/webdesign/js/prettify.js
+    A 2015/New York Factory Systems/administration/webdesign/js/webDesign.js
+    A 2015/New York Factory Systems/administration/webdesign/templates/bootsrap/LICENSE
+    A 2015/New York Factory Systems/administration/webdesign/templates/bootsrap/README.md
+    A 2015/New York Factory Systems/administration/webdesign/templates/bootsrap/css/4-col-portfolio.css
+    A 2015/New York Factory Systems/administration/webdesign/templates/bootsrap/css/bootstrap.css
+    A 2015/New York Factory Systems/administration/webdesign/templates/bootsrap/css/bootstrap.min.css
+    A 2015/New York Factory Systems/administration/webdesign/templates/bootsrap/fonts/glyphicons-halflings-regular.eot
+    A 2015/New York Factory Systems/administration/webdesign/templates/bootsrap/fonts/glyphicons-halflings-regular.svg
+    A 2015/New York Factory Systems/administration/webdesign/templates/bootsrap/fonts/glyphicons-halflings-regular.ttf
+    A 2015/New York Factory Systems/administration/webdesign/templates/bootsrap/fonts/glyphicons-halflings-regular.woff
+    A 2015/New York Factory Systems/administration/webdesign/templates/bootsrap/fonts/glyphicons-halflings-regular.woff2
+    A 2015/New York Factory Systems/administration/webdesign/templates/bootsrap/js/bootstrap.js
+    A 2015/New York Factory Systems/administration/webdesign/templates/bootsrap/js/bootstrap.min.js
+    A 2015/New York Factory Systems/administration/webdesign/templates/bootsrap/js/jquery.js
+    A 2015/New York Factory Systems/administration/webdesign/templates/bootsrap/nyfsTemplatesBootsrap.html
+    A 2015/New York Factory Systems/clients/progressclient/LICENSE
+    A 2015/New York Factory Systems/clients/progressclient/README.md
+    A 2015/New York Factory Systems/clients/progressclient/css/bootstrap.css
+    A 2015/New York Factory Systems/clients/progressclient/css/bootstrap.min.css
+    A 2015/New York Factory Systems/clients/progressclient/fonts/glyphicons-halflings-regular.eot
+    A 2015/New York Factory Systems/clients/progressclient/fonts/glyphicons-halflings-regular.svg
+    A 2015/New York Factory Systems/clients/progressclient/fonts/glyphicons-halflings-regular.ttf
+    A 2015/New York Factory Systems/clients/progressclient/fonts/glyphicons-halflings-regular.woff
+    A 2015/New York Factory Systems/clients/progressclient/fonts/glyphicons-halflings-regular.woff2
+    A 2015/New York Factory Systems/clients/progressclient/index.html
+    A 2015/New York Factory Systems/clients/progressclient/js/bootstrap.js
+    A 2015/New York Factory Systems/clients/progressclient/js/bootstrap.min.js
+    A 2015/New York Factory Systems/clients/progressclient/js/jquery.js
+    A 2015/New York Factory Systems/config
+    A 2015/New York Factory Systems/css/bootstrap-theme.css
+    A 2015/New York Factory Systems/css/bootstrap-theme.css.map
+    A 2015/New York Factory Systems/css/bootstrap-theme.min.css
+    A 2015/New York Factory Systems/css/bootstrap-theme.min.css.map
+    A 2015/New York Factory Systems/css/bootstrap.css
+    A 2015/New York Factory Systems/css/bootstrap.css.map
+    A 2015/New York Factory Systems/css/bootstrap.min.css
+    A 2015/New York Factory Systems/css/bootstrap.min.css.map
+    A 2015/New York Factory Systems/css/index.css
+    A 2015/New York Factory Systems/css/stylish-portfolio.css
+    A 2015/New York Factory Systems/description
+    A 2015/New York Factory Systems/font-awesome/css/font-awesome.css
+    A 2015/New York Factory Systems/font-awesome/css/font-awesome.min.css
+    A 2015/New York Factory Systems/font-awesome/fonts/FontAwesome.otf
+    A 2015/New York Factory Systems/font-awesome/fonts/fontawesome-webfont.eot
+    A 2015/New York Factory Systems/font-awesome/fonts/fontawesome-webfont.svg
+    A 2015/New York Factory Systems/font-awesome/fonts/fontawesome-webfont.ttf
+    A 2015/New York Factory Systems/font-awesome/fonts/fontawesome-webfont.woff
+    A 2015/New York Factory Systems/font-awesome/less/bordered-pulled.less
+    A 2015/New York Factory Systems/font-awesome/less/core.less
+    A 2015/New York Factory Systems/font-awesome/less/fixed-width.less
+    A 2015/New York Factory Systems/font-awesome/less/font-awesome.less
+    A 2015/New York Factory Systems/font-awesome/less/icons.less
+    A 2015/New York Factory Systems/font-awesome/less/larger.less
+    A 2015/New York Factory Systems/font-awesome/less/list.less
+    A 2015/New York Factory Systems/font-awesome/less/mixins.less
+    A 2015/New York Factory Systems/font-awesome/less/path.less
+    A 2015/New York Factory Systems/font-awesome/less/rotated-flipped.less
+    A 2015/New York Factory Systems/font-awesome/less/spinning.less
+    A 2015/New York Factory Systems/font-awesome/less/stacked.less
+    A 2015/New York Factory Systems/font-awesome/less/variables.less
+    A 2015/New York Factory Systems/font-awesome/scss/_bordered-pulled.scss
+    A 2015/New York Factory Systems/font-awesome/scss/_core.scss
+    A 2015/New York Factory Systems/font-awesome/scss/_fixed-width.scss
+    A 2015/New York Factory Systems/font-awesome/scss/_icons.scss
+    A 2015/New York Factory Systems/font-awesome/scss/_larger.scss
+    A 2015/New York Factory Systems/font-awesome/scss/_list.scss
+    A 2015/New York Factory Systems/font-awesome/scss/_mixins.scss
+    A 2015/New York Factory Systems/font-awesome/scss/_path.scss
+    A 2015/New York Factory Systems/font-awesome/scss/_rotated-flipped.scss
+    A 2015/New York Factory Systems/font-awesome/scss/_spinning.scss
+    A 2015/New York Factory Systems/font-awesome/scss/_stacked.scss
+    A 2015/New York Factory Systems/font-awesome/scss/_variables.scss
+    A 2015/New York Factory Systems/font-awesome/scss/font-awesome.scss
+    A 2015/New York Factory Systems/fonts/glyphicons-halflings-regular.eot
+    A 2015/New York Factory Systems/fonts/glyphicons-halflings-regular.svg
+    A 2015/New York Factory Systems/fonts/glyphicons-halflings-regular.ttf
+    A 2015/New York Factory Systems/fonts/glyphicons-halflings-regular.woff
+    A 2015/New York Factory Systems/fonts/glyphicons-halflings-regular.woff2
+    A 2015/New York Factory Systems/hooks/applypatch-msg.sample
+    A 2015/New York Factory Systems/hooks/commit-msg.sample
+    A 2015/New York Factory Systems/hooks/post-update.sample
+    A 2015/New York Factory Systems/hooks/pre-applypatch.sample
+    A 2015/New York Factory Systems/hooks/pre-commit.sample
+    A 2015/New York Factory Systems/hooks/pre-push.sample
+    A 2015/New York Factory Systems/hooks/pre-rebase.sample
+    A 2015/New York Factory Systems/hooks/prepare-commit-msg.sample
+    A 2015/New York Factory Systems/hooks/update.sample
+    A 2015/New York Factory Systems/img/bg.jpg
+    A 2015/New York Factory Systems/img/callout.jpg
+    A 2015/New York Factory Systems/img/ico/ico.ico
+    A 2015/New York Factory Systems/img/ico/ico.png
+    A 2015/New York Factory Systems/img/loolLike/example1.jpg
+    A 2015/New York Factory Systems/img/loolLike/example2.jpg
+    A 2015/New York Factory Systems/img/loolLike/example3.jpg
+    A 2015/New York Factory Systems/img/loolLike/example4.jpg
+    A 2015/New York Factory Systems/img/loolLike/s1.jpg
+    A 2015/New York Factory Systems/img/loolLike/s10.jpg
+    A 2015/New York Factory Systems/img/loolLike/s11.jpg
+    A 2015/New York Factory Systems/img/loolLike/s12.jpg
+    A 2015/New York Factory Systems/img/loolLike/s13.jpg
+    A 2015/New York Factory Systems/img/loolLike/s2.jpg
+    A 2015/New York Factory Systems/img/loolLike/s3.jpg
+    A 2015/New York Factory Systems/img/loolLike/s5.jpg
+    A 2015/New York Factory Systems/img/loolLike/s6.jpg
+    A 2015/New York Factory Systems/img/loolLike/s7.jpg
+    A 2015/New York Factory Systems/img/loolLike/s8.jpg
+    A 2015/New York Factory Systems/img/loolLike/s9.jpg
+    A 2015/New York Factory Systems/img/portfolio-1.jpg
+    A 2015/New York Factory Systems/img/portfolio-2.jpg
+    A 2015/New York Factory Systems/img/portfolio-3.jpg
+    A 2015/New York Factory Systems/img/portfolio-4.jpg
+    A 2015/New York Factory Systems/index.html
+    A 2015/New York Factory Systems/info/exclude
+    A 2015/New York Factory Systems/js/bootstrap-combined.min.css
+    A 2015/New York Factory Systems/js/bootstrap.js
+    A 2015/New York Factory Systems/js/bootstrap.min.js
+    A 2015/New York Factory Systems/js/contactus.js
+    A 2015/New York Factory Systems/js/index.js
+    A 2015/New York Factory Systems/js/jquery.js
+    A 2015/New York Factory Systems/js/jquery.min.js
+    A 2015/New York Factory Systems/js/npm.js
+    A 2015/New York Factory Systems/nbproject/project.properties
+    A 2015/New York Factory Systems/nbproject/project.xml
+    A 2015/New York Factory Systems/nyfactorysystems.com-Jan-2016.gz
+    A 2015/New York Factory Systems/objects/info/Our work part.txt
+    A 2015/New York Factory Systems/php/contactus.php
+    A 2015/New York Factory Systems/sqlConnection.php
+    A 2015/New York Factory Systems/sub/clients/LICENSE
+    A 2015/New York Factory Systems/sub/clients/README.md
+    A 2015/New York Factory Systems/sub/clients/bdconexion/dev/sqlConnection.php
+    A 2015/New York Factory Systems/sub/clients/bdconexion/prod/sqlConnection.php
+    A 2015/New York Factory Systems/sub/clients/bdconexion/prod/testConnection.php
+    A 2015/New York Factory Systems/sub/clients/bdconexion/sqlConnection.php
+    A 2015/New York Factory Systems/sub/clients/configurations.php
+    A 2015/New York Factory Systems/sub/clients/css/bootstrap.css
+    A 2015/New York Factory Systems/sub/clients/css/bootstrap.min.css
+    A 2015/New York Factory Systems/sub/clients/fonts/glyphicons-halflings-regular.eot
+    A 2015/New York Factory Systems/sub/clients/fonts/glyphicons-halflings-regular.svg
+    A 2015/New York Factory Systems/sub/clients/fonts/glyphicons-halflings-regular.ttf
+    A 2015/New York Factory Systems/sub/clients/fonts/glyphicons-halflings-regular.woff
+    A 2015/New York Factory Systems/sub/clients/fonts/glyphicons-halflings-regular.woff2
+    A 2015/New York Factory Systems/sub/clients/index.php
+    A 2015/New York Factory Systems/sub/clients/js/bootstrap.js
+    A 2015/New York Factory Systems/sub/clients/js/bootstrap.min.js
+    A 2015/New York Factory Systems/sub/clients/js/jquery.js
+    A 2015/New York Factory Systems/sub/clients/logout.php
+    A 2015/New York Factory Systems/sub/clients/menu/LICENSE
+    A 2015/New York Factory Systems/sub/clients/menu/README.md
+    A 2015/New York Factory Systems/sub/clients/menu/css/bootstrap.css
+    A 2015/New York Factory Systems/sub/clients/menu/css/bootstrap.min.css
+    A 2015/New York Factory Systems/sub/clients/menu/css/scrolling-nav.css
+    A 2015/New York Factory Systems/sub/clients/menu/fonts/glyphicons-halflings-regular.eot
+    A 2015/New York Factory Systems/sub/clients/menu/fonts/glyphicons-halflings-regular.svg
+    A 2015/New York Factory Systems/sub/clients/menu/fonts/glyphicons-halflings-regular.ttf
+    A 2015/New York Factory Systems/sub/clients/menu/fonts/glyphicons-halflings-regular.woff
+    A 2015/New York Factory Systems/sub/clients/menu/fonts/glyphicons-halflings-regular.woff2
+    A 2015/New York Factory Systems/sub/clients/menu/index.php
+    A 2015/New York Factory Systems/sub/clients/menu/js/bootstrap.js
+    A 2015/New York Factory Systems/sub/clients/menu/js/bootstrap.min.js
+    A 2015/New York Factory Systems/sub/clients/menu/js/jquery.easing.min.js
+    A 2015/New York Factory Systems/sub/clients/menu/js/jquery.js
+    A 2015/New York Factory Systems/sub/clients/menu/js/loginValidation.js
+    A 2015/New York Factory Systems/sub/clients/menu/js/scrolling-nav.js
+    A 2015/New York Factory Systems/sub/clients/nbproject/project.properties
+    A 2015/New York Factory Systems/sub/clients/nbproject/project.xml
+    A 2015/New York Factory Systems/sub/clients/session.php
+    A 2015/README.md
+    R New York Factory Systems/HEAD
+    R New York Factory Systems/LICENSE
+    R New York Factory Systems/README.md
+    R New York Factory Systems/administration/webdesign/LICENSE
+    R New York Factory Systems/administration/webdesign/README.md
+    R New York Factory Systems/administration/webdesign/css/bootstrap-theme.css
+    R New York Factory Systems/administration/webdesign/css/bootstrap-theme.css.map
+    R New York Factory Systems/administration/webdesign/css/bootstrap-theme.min.css
+    R New York Factory Systems/administration/webdesign/css/bootstrap.css
+    R New York Factory Systems/administration/webdesign/css/bootstrap.css.map
+    R New York Factory Systems/administration/webdesign/css/bootstrap.min.css
+    R New York Factory Systems/administration/webdesign/css/prettify.css
+    R New York Factory Systems/administration/webdesign/css/simple-sidebar.css
+    R New York Factory Systems/administration/webdesign/fonts/glyphicons-halflings-regular.eot
+    R New York Factory Systems/administration/webdesign/fonts/glyphicons-halflings-regular.svg
+    R New York Factory Systems/administration/webdesign/fonts/glyphicons-halflings-regular.ttf
+    R New York Factory Systems/administration/webdesign/fonts/glyphicons-halflings-regular.woff
+    R New York Factory Systems/administration/webdesign/fonts/glyphicons-halflings-regular.woff2
+    R New York Factory Systems/administration/webdesign/index.html
+    R New York Factory Systems/administration/webdesign/js/bootstrap.js
+    R New York Factory Systems/administration/webdesign/js/bootstrap.min.js
+    R New York Factory Systems/administration/webdesign/js/bower.json
+    R New York Factory Systems/administration/webdesign/js/jquery.bootstrap.wizard.js
+    R New York Factory Systems/administration/webdesign/js/jquery.bootstrap.wizard.min.js
+    R New York Factory Systems/administration/webdesign/js/jquery.js
+    R New York Factory Systems/administration/webdesign/js/npm.js
+    R New York Factory Systems/administration/webdesign/js/prettify.js
+    R New York Factory Systems/administration/webdesign/js/webDesign.js
+    R New York Factory Systems/administration/webdesign/templates/bootsrap/LICENSE
+    R New York Factory Systems/administration/webdesign/templates/bootsrap/README.md
+    R New York Factory Systems/administration/webdesign/templates/bootsrap/css/4-col-portfolio.css
+    R New York Factory Systems/administration/webdesign/templates/bootsrap/css/bootstrap.css
+    R New York Factory Systems/administration/webdesign/templates/bootsrap/css/bootstrap.min.css
+    R New York Factory Systems/administration/webdesign/templates/bootsrap/fonts/glyphicons-halflings-regular.eot
+    R New York Factory Systems/administration/webdesign/templates/bootsrap/fonts/glyphicons-halflings-regular.svg
+    R New York Factory Systems/administration/webdesign/templates/bootsrap/fonts/glyphicons-halflings-regular.ttf
+    R New York Factory Systems/administration/webdesign/templates/bootsrap/fonts/glyphicons-halflings-regular.woff
+    R New York Factory Systems/administration/webdesign/templates/bootsrap/fonts/glyphicons-halflings-regular.woff2
+    R New York Factory Systems/administration/webdesign/templates/bootsrap/js/bootstrap.js
+    R New York Factory Systems/administration/webdesign/templates/bootsrap/js/bootstrap.min.js
+    R New York Factory Systems/administration/webdesign/templates/bootsrap/js/jquery.js
+    R New York Factory Systems/administration/webdesign/templates/bootsrap/nyfsTemplatesBootsrap.html
+    R New York Factory Systems/clients/progressclient/LICENSE
+    R New York Factory Systems/clients/progressclient/README.md
+    R New York Factory Systems/clients/progressclient/css/bootstrap.css
+    R New York Factory Systems/clients/progressclient/css/bootstrap.min.css
+    R New York Factory Systems/clients/progressclient/fonts/glyphicons-halflings-regular.eot
+    R New York Factory Systems/clients/progressclient/fonts/glyphicons-halflings-regular.svg
+    R New York Factory Systems/clients/progressclient/fonts/glyphicons-halflings-regular.ttf
+    R New York Factory Systems/clients/progressclient/fonts/glyphicons-halflings-regular.woff
+    R New York Factory Systems/clients/progressclient/fonts/glyphicons-halflings-regular.woff2
+    R New York Factory Systems/clients/progressclient/index.html
+    R New York Factory Systems/clients/progressclient/js/bootstrap.js
+    R New York Factory Systems/clients/progressclient/js/bootstrap.min.js
+    R New York Factory Systems/clients/progressclient/js/jquery.js
+    R New York Factory Systems/config
+    R New York Factory Systems/css/bootstrap-theme.css
+    R New York Factory Systems/css/bootstrap-theme.css.map
+    R New York Factory Systems/css/bootstrap-theme.min.css
+    R New York Factory Systems/css/bootstrap-theme.min.css.map
+    R New York Factory Systems/css/bootstrap.css
+    R New York Factory Systems/css/bootstrap.css.map
+    R New York Factory Systems/css/bootstrap.min.css
+    R New York Factory Systems/css/bootstrap.min.css.map
+    R New York Factory Systems/css/index.css
+    R New York Factory Systems/css/stylish-portfolio.css
+    R New York Factory Systems/description
+    R New York Factory Systems/font-awesome/css/font-awesome.css
+    R New York Factory Systems/font-awesome/css/font-awesome.min.css
+    R New York Factory Systems/font-awesome/fonts/FontAwesome.otf
+    R New York Factory Systems/font-awesome/fonts/fontawesome-webfont.eot
+    R New York Factory Systems/font-awesome/fonts/fontawesome-webfont.svg
+    R New York Factory Systems/font-awesome/fonts/fontawesome-webfont.ttf
+    R New York Factory Systems/font-awesome/fonts/fontawesome-webfont.woff
+    R New York Factory Systems/font-awesome/less/bordered-pulled.less
+    R New York Factory Systems/font-awesome/less/core.less
+    R New York Factory Systems/font-awesome/less/fixed-width.less
+    R New York Factory Systems/font-awesome/less/font-awesome.less
+    R New York Factory Systems/font-awesome/less/icons.less
+    R New York Factory Systems/font-awesome/less/larger.less
+    R New York Factory Systems/font-awesome/less/list.less
+    R New York Factory Systems/font-awesome/less/mixins.less
+    R New York Factory Systems/font-awesome/less/path.less
+    R New York Factory Systems/font-awesome/less/rotated-flipped.less
+    R New York Factory Systems/font-awesome/less/spinning.less
+    R New York Factory Systems/font-awesome/less/stacked.less
+    R New York Factory Systems/font-awesome/less/variables.less
+    R New York Factory Systems/font-awesome/scss/_bordered-pulled.scss
+    R New York Factory Systems/font-awesome/scss/_core.scss
+    R New York Factory Systems/font-awesome/scss/_fixed-width.scss
+    R New York Factory Systems/font-awesome/scss/_icons.scss
+    R New York Factory Systems/font-awesome/scss/_larger.scss
+    R New York Factory Systems/font-awesome/scss/_list.scss
+    R New York Factory Systems/font-awesome/scss/_mixins.scss
+    R New York Factory Systems/font-awesome/scss/_path.scss
+    R New York Factory Systems/font-awesome/scss/_rotated-flipped.scss
+    R New York Factory Systems/font-awesome/scss/_spinning.scss
+    R New York Factory Systems/font-awesome/scss/_stacked.scss
+    R New York Factory Systems/font-awesome/scss/_variables.scss
+    R New York Factory Systems/font-awesome/scss/font-awesome.scss
+    R New York Factory Systems/fonts/glyphicons-halflings-regular.eot
+    R New York Factory Systems/fonts/glyphicons-halflings-regular.svg
+    R New York Factory Systems/fonts/glyphicons-halflings-regular.ttf
+    R New York Factory Systems/fonts/glyphicons-halflings-regular.woff
+    R New York Factory Systems/fonts/glyphicons-halflings-regular.woff2
+    R New York Factory Systems/hooks/applypatch-msg.sample
+    R New York Factory Systems/hooks/commit-msg.sample
+    R New York Factory Systems/hooks/post-update.sample
+    R New York Factory Systems/hooks/pre-applypatch.sample
+    R New York Factory Systems/hooks/pre-commit.sample
+    R New York Factory Systems/hooks/pre-push.sample
+    R New York Factory Systems/hooks/pre-rebase.sample
+    R New York Factory Systems/hooks/prepare-commit-msg.sample
+    R New York Factory Systems/hooks/update.sample
+    R New York Factory Systems/img/bg.jpg
+    R New York Factory Systems/img/callout.jpg
+    R New York Factory Systems/img/ico/ico.ico
+    R New York Factory Systems/img/ico/ico.png
+    R New York Factory Systems/img/loolLike/example1.jpg
+    R New York Factory Systems/img/loolLike/example2.jpg
+    R New York Factory Systems/img/loolLike/example3.jpg
+    R New York Factory Systems/img/loolLike/example4.jpg
+    R New York Factory Systems/img/loolLike/s1.jpg
+    R New York Factory Systems/img/loolLike/s10.jpg
+    R New York Factory Systems/img/loolLike/s11.jpg
+    R New York Factory Systems/img/loolLike/s12.jpg
+    R New York Factory Systems/img/loolLike/s13.jpg
+    R New York Factory Systems/img/loolLike/s2.jpg
+    R New York Factory Systems/img/loolLike/s3.jpg
+    R New York Factory Systems/img/loolLike/s5.jpg
+    R New York Factory Systems/img/loolLike/s6.jpg
+    R New York Factory Systems/img/loolLike/s7.jpg
+    R New York Factory Systems/img/loolLike/s8.jpg
+    R New York Factory Systems/img/loolLike/s9.jpg
+    R New York Factory Systems/img/portfolio-1.jpg
+    R New York Factory Systems/img/portfolio-2.jpg
+    R New York Factory Systems/img/portfolio-3.jpg
+    R New York Factory Systems/img/portfolio-4.jpg
+    R New York Factory Systems/index.html
+    R New York Factory Systems/info/exclude
+    R New York Factory Systems/js/bootstrap-combined.min.css
+    R New York Factory Systems/js/bootstrap.js
+    R New York Factory Systems/js/bootstrap.min.js
+    R New York Factory Systems/js/contactus.js
+    R New York Factory Systems/js/index.js
+    R New York Factory Systems/js/jquery.js
+    R New York Factory Systems/js/jquery.min.js
+    R New York Factory Systems/js/npm.js
+    R New York Factory Systems/nbproject/project.properties
+    R New York Factory Systems/nbproject/project.xml
+    R New York Factory Systems/nyfactorysystems.com-Jan-2016.gz
+    R New York Factory Systems/objects/info/Our work part.txt
+    R New York Factory Systems/php/contactus.php
+    R New York Factory Systems/sqlConnection.php
+    R New York Factory Systems/sub/clients/LICENSE
+    R New York Factory Systems/sub/clients/README.md
+    R New York Factory Systems/sub/clients/bdconexion/dev/sqlConnection.php
+    R New York Factory Systems/sub/clients/bdconexion/prod/sqlConnection.php
+    R New York Factory Systems/sub/clients/bdconexion/prod/testConnection.php
+    R New York Factory Systems/sub/clients/bdconexion/sqlConnection.php
+    R New York Factory Systems/sub/clients/configurations.php
+    R New York Factory Systems/sub/clients/css/bootstrap.css
+    R New York Factory Systems/sub/clients/css/bootstrap.min.css
+    R New York Factory Systems/sub/clients/fonts/glyphicons-halflings-regular.eot
+    R New York Factory Systems/sub/clients/fonts/glyphicons-halflings-regular.svg
+    R New York Factory Systems/sub/clients/fonts/glyphicons-halflings-regular.ttf
+    R New York Factory Systems/sub/clients/fonts/glyphicons-halflings-regular.woff
+    R New York Factory Systems/sub/clients/fonts/glyphicons-halflings-regular.woff2
+    R New York Factory Systems/sub/clients/index.php
+    R New York Factory Systems/sub/clients/js/bootstrap.js
+    R New York Factory Systems/sub/clients/js/bootstrap.min.js
+    R New York Factory Systems/sub/clients/js/jquery.js
+    R New York Factory Systems/sub/clients/logout.php
+    R New York Factory Systems/sub/clients/menu/LICENSE
+    R New York Factory Systems/sub/clients/menu/README.md
+    R New York Factory Systems/sub/clients/menu/css/bootstrap.css
+    R New York Factory Systems/sub/clients/menu/css/bootstrap.min.css
+    R New York Factory Systems/sub/clients/menu/css/scrolling-nav.css
+    R New York Factory Systems/sub/clients/menu/fonts/glyphicons-halflings-regular.eot
+    R New York Factory Systems/sub/clients/menu/fonts/glyphicons-halflings-regular.svg
+    R New York Factory Systems/sub/clients/menu/fonts/glyphicons-halflings-regular.ttf
+    R New York Factory Systems/sub/clients/menu/fonts/glyphicons-halflings-regular.woff
+    R New York Factory Systems/sub/clients/menu/fonts/glyphicons-halflings-regular.woff2
+    R New York Factory Systems/sub/clients/menu/index.php
+    R New York Factory Systems/sub/clients/menu/js/bootstrap.js
+    R New York Factory Systems/sub/clients/menu/js/bootstrap.min.js
+    R New York Factory Systems/sub/clients/menu/js/jquery.easing.min.js
+    R New York Factory Systems/sub/clients/menu/js/jquery.js
+    R New York Factory Systems/sub/clients/menu/js/loginValidation.js
+    R New York Factory Systems/sub/clients/menu/js/scrolling-nav.js
+    R New York Factory Systems/sub/clients/nbproject/project.properties
+    R New York Factory Systems/sub/clients/nbproject/project.xml
+    R New York Factory Systems/sub/clients/session.php
+    R README.md
+
+  Log Message:
+  -----------
+  Changing server
+
+
+
+----==_mimepart_581e5c282b497_6fd33feb86ba113c31837--

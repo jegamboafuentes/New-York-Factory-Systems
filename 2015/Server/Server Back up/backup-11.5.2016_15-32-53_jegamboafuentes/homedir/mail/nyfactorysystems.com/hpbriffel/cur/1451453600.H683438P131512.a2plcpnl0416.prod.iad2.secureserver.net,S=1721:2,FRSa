@@ -1,0 +1,52 @@
+Return-path: <enrique.gamboa@nyfactorysystems.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Tue, 29 Dec 2015 22:33:20 -0700
+Received: from localhost ([127.0.0.1]:48008 helo=a2plcpnl0416.prod.iad2.secureserver.net)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.85)
+	(envelope-from <enrique.gamboa@nyfactorysystems.com>)
+	id 1aE9Nw-000YCs-JD; Tue, 29 Dec 2015 22:33:20 -0700
+Received: from 74.73.166.141 ([74.73.166.141]) by
+ a2plcpnl0416.prod.iad2.secureserver.net (Horde Framework) with HTTP; Wed, 30
+ Dec 2015 05:33:15 +0000
+Date: Wed, 30 Dec 2015 05:33:15 +0000
+Message-ID: <20151230053315.Horde.Vj1xEjqcGAZIp2dwgumF1w3@a2plcpnl0416.prod.iad2.secureserver.net>
+From: enrique.gamboa@nyfactorysystems.com
+To: "hpbriffel@nyfactorysystems.com" <hpbriffel@nyfactorysystems.com>
+Cc: "sales@nyfactorysystems.com" <sales@nyfactorysystems.com>
+Subject: Web pages developed with NYFS technologies
+User-Agent: Internet Messaging Program (IMP) H5 (6.1.4)
+Content-Type: text/plain; charset=UTF-8; format=flowed; DelSp=Yes
+MIME-Version: 1.0
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Hi Henry, this is a list of 5 pages developed with NYFS  
+technologies(NYFS Technologies are in the last email).
+
+Some of them has a combination of NYFS technologies, in this case the  
+main framework used for the Front-end is: Bootrsap
+
+The client can have a web page like that:
+
+Hyde + Hyde
+http://www.hydearchitects.com/
+[Architect firm]
+
+Cozar
+http://cozar.me/
+[Graphic design]
+
+Plaza Classic Film Festival
+http://plazaclassic.com/
+[Film festival]
+
+1Bite2Go
+http://www.1bite2go.com/en/
+[café & deli]
+
+Daniella Draper
+https://danielladraper.com/
+[Fashion]
+
+

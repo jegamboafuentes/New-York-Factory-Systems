@@ -1,0 +1,110 @@
+Return-path: <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Mon, 18 Jan 2016 12:27:35 -0700
+Received: from m69-170.mailgun.net ([166.78.69.170]:56079)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtp (Exim 4.85)
+	(envelope-from <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>)
+	id 1aLFSh-001vwb-DR
+	for hpbriffel@nyfactorysystems.com; Mon, 18 Jan 2016 12:27:35 -0700
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=github.com; q=dns/txt;
+ s=mailo; t=1453145244; h=Content-Transfer-Encoding: Content-Type:
+ Mime-Version: Subject: Message-ID: To: Reply-To: From: Date: Sender;
+ bh=JawdZN9r9OhX7V+RqKLPsmLTrEqoqqyAedJGM+kpQFc=; b=mpAvfMAFakiAlPe/LO3JGzVPOT+yDcxUK5Ia/08rHWhmiSEBwbxjTQhZ1IfcK1dRTZB1xqBP
+ NRQov6OcxIbY5+DqmPizt1uzh5Z41G11RdkAFHfyITk0iUZ8pKAqJTmiBVepYH5vu1r9j/mo
+ CBBsSRt9x3S9xspM43tR+jjftPA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=github.com; s=mailo; q=dns;
+ h=Sender: Date: From: Reply-To: To: Message-ID: Subject: Mime-Version:
+ Content-Type: Content-Transfer-Encoding;
+ b=wYVN1W1ZDWFdV8Gl8uvBBUoCBf5ZDr94bQ5dczrnbdOmKqit7o3Q4BcnSoB0Mb6LS75Roy
+ 74GhMuEEbczCPtjjJXUBfftW6rdjUbkAUP3QrGYkiqAcxSSBr1C6z8rfUUK4286utGF/rja0
+ phu7KnxtzQDXWDkOxd+jHgPhV3ey8=
+Sender: jegamboafuentes=gmail.com@github.com
+X-Mailgun-Sid: WyI4OWEzZSIsICJocGJyaWZmZWxAbnlmYWN0b3J5c3lzdGVtcy5jb20iLCAiNDBmIl0=
+Received: from github.com (Unknown [192.30.252.34])
+ by mxa.mailgun.org with ESMTP id 569d3c9c.7fdcd489e6c0-in07;
+ Mon, 18 Jan 2016 19:27:24 -0000 (UTC)
+Date: Mon, 18 Jan 2016 11:27:24 -0800
+From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+Reply-To: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+To: hpbriffel@nyfactorysystems.com
+Message-ID: <569d3c9c94197_174d3fb1157c729c49179@hookshot-fe2-cp1-prd.iad.github.net.mail>
+Subject: [jegamboafuentes/New-York-Factory-Systems] a17a2f: Clients platform,
+ created a client platorm, for ea...
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="--==_mimepart_569d3c9c93bf6_174d3fb1157c729c490ac";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_569d3c9c93bf6_174d3fb1157c729c490ac
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+  Branch: refs/heads/master
+  Home:   https://github.com/jegamboafuentes/New-York-Factory-Systems
+  Commit: a17a2fc2d0621d9664bbdf6bec8928c30df13517
+      https://github.com/jegamboafuentes/New-York-Factory-Systems/commit/a17a2fc2d0621d9664bbdf6bec8928c30df13517
+  Author: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+  Date:   2016-01-18 (Mon, 18 Jan 2016)
+
+  Changed paths:
+    M .gitignore
+    A New York Factory Systems/clients/progressclient/LICENSE
+    A New York Factory Systems/clients/progressclient/README.md
+    A New York Factory Systems/clients/progressclient/css/bootstrap.css
+    A New York Factory Systems/clients/progressclient/css/bootstrap.min.css
+    A New York Factory Systems/clients/progressclient/fonts/glyphicons-halflings-regular.eot
+    A New York Factory Systems/clients/progressclient/fonts/glyphicons-halflings-regular.svg
+    A New York Factory Systems/clients/progressclient/fonts/glyphicons-halflings-regular.ttf
+    A New York Factory Systems/clients/progressclient/fonts/glyphicons-halflings-regular.woff
+    A New York Factory Systems/clients/progressclient/fonts/glyphicons-halflings-regular.woff2
+    A New York Factory Systems/clients/progressclient/index.html
+    A New York Factory Systems/clients/progressclient/js/bootstrap.js
+    A New York Factory Systems/clients/progressclient/js/bootstrap.min.js
+    A New York Factory Systems/clients/progressclient/js/jquery.js
+    A New York Factory Systems/sub/clients/LICENSE
+    A New York Factory Systems/sub/clients/README.md
+    A New York Factory Systems/sub/clients/bdconexion/sqlConnection.php
+    A New York Factory Systems/sub/clients/bdconexion/sqlData.php
+    A New York Factory Systems/sub/clients/css/bootstrap.css
+    A New York Factory Systems/sub/clients/css/bootstrap.min.css
+    A New York Factory Systems/sub/clients/fonts/glyphicons-halflings-regular.eot
+    A New York Factory Systems/sub/clients/fonts/glyphicons-halflings-regular.svg
+    A New York Factory Systems/sub/clients/fonts/glyphicons-halflings-regular.ttf
+    A New York Factory Systems/sub/clients/fonts/glyphicons-halflings-regular.woff
+    A New York Factory Systems/sub/clients/fonts/glyphicons-halflings-regular.woff2
+    A New York Factory Systems/sub/clients/index.php
+    A New York Factory Systems/sub/clients/js/bootstrap.js
+    A New York Factory Systems/sub/clients/js/bootstrap.min.js
+    A New York Factory Systems/sub/clients/js/jquery.js
+    A New York Factory Systems/sub/clients/login.php
+    A New York Factory Systems/sub/clients/logout.php
+    A New York Factory Systems/sub/clients/menu/LICENSE
+    A New York Factory Systems/sub/clients/menu/README.md
+    A New York Factory Systems/sub/clients/menu/css/bootstrap.css
+    A New York Factory Systems/sub/clients/menu/css/bootstrap.min.css
+    A New York Factory Systems/sub/clients/menu/css/scrolling-nav.css
+    A New York Factory Systems/sub/clients/menu/fonts/glyphicons-halflings-regular.eot
+    A New York Factory Systems/sub/clients/menu/fonts/glyphicons-halflings-regular.svg
+    A New York Factory Systems/sub/clients/menu/fonts/glyphicons-halflings-regular.ttf
+    A New York Factory Systems/sub/clients/menu/fonts/glyphicons-halflings-regular.woff
+    A New York Factory Systems/sub/clients/menu/fonts/glyphicons-halflings-regular.woff2
+    A New York Factory Systems/sub/clients/menu/index.php
+    A New York Factory Systems/sub/clients/menu/js/bootstrap.js
+    A New York Factory Systems/sub/clients/menu/js/bootstrap.min.js
+    A New York Factory Systems/sub/clients/menu/js/jquery.easing.min.js
+    A New York Factory Systems/sub/clients/menu/js/jquery.js
+    A New York Factory Systems/sub/clients/menu/js/loginValidation.js
+    A New York Factory Systems/sub/clients/menu/js/scrolling-nav.js
+    A New York Factory Systems/sub/clients/nbproject/project.properties
+    A New York Factory Systems/sub/clients/nbproject/project.xml
+
+  Log Message:
+  -----------
+  Clients platform, created a client platorm, for each client can mannage the job
+
+
+
+----==_mimepart_569d3c9c93bf6_174d3fb1157c729c490ac--

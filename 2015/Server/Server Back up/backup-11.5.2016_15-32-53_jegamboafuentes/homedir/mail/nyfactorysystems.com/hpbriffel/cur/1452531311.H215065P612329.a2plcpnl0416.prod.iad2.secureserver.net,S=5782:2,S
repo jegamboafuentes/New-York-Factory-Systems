@@ -1,0 +1,130 @@
+Return-path: <jegamboafuentes@gmail.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Mon, 11 Jan 2016 09:55:11 -0700
+Received: from mail-io0-f171.google.com ([209.85.223.171]:35639)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <jegamboafuentes@gmail.com>)
+	id 1aIfkN-002ZHL-4x
+	for hpbriffel@nyfactorysystems.com; Mon, 11 Jan 2016 09:55:11 -0700
+Received: by mail-io0-f171.google.com with SMTP id 77so323586922ioc.2
+        for <hpbriffel@nyfactorysystems.com>; Mon, 11 Jan 2016 08:55:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=lnmEqU5Vlta3FWUj5hhjeZq11vtfYyG79EvWRK9aC2U=;
+        b=cY3fx8JJLPtLFdz718bFpbxQ80eWZjseZTpOSTw3xpit1CdwZeyAH1G1vnfVNuyVFU
+         bxxRrjVGF26TsVo4XOsxD1gYc3ZoREDp5hecrKmquUTwQz22b3ur/BN5A3J8o3RQhYPR
+         5AMmlGRnP4tlkdO9I5RtRIZIfcCK23XaO0qF5QmXyg/N6CwRPZftvBeN5M5ZSA1jRoMX
+         QrUrDtxxxIEc4ndQRDQ1U/DB4I1rX4SmHesYjyyY7zGIWSZuRLzA+8KLfbeHD8fYN4j6
+         0q/MTZ5m5bUlioxoCH0NvQvi4c4D8v9lMCkGXCt9wOJhvaZu4YHpgwJBoA2yiqUJWsY2
+         vU8w==
+MIME-Version: 1.0
+X-Received: by 10.107.10.215 with SMTP id 84mr134401672iok.106.1452531305499;
+ Mon, 11 Jan 2016 08:55:05 -0800 (PST)
+Received: by 10.36.18.205 with HTTP; Mon, 11 Jan 2016 08:55:05 -0800 (PST)
+In-Reply-To: <F73C426B-DFC7-4243-B6C1-2474E291AB73@nyfactorysystems.com>
+References: <5693055661c71_1bc03fb40ffe12a0947a0@hookshot-fe1-cp1-prd.iad.github.net.mail>
+	<F73C426B-DFC7-4243-B6C1-2474E291AB73@nyfactorysystems.com>
+Date: Mon, 11 Jan 2016 11:55:05 -0500
+Message-ID: <CABAAHFjGpQTRCDvsULXQvYhXu7biDGJxB3xYNAObLHj3aYANVA@mail.gmail.com>
+Subject: Re: [jegamboafuentes/New-York-Factory-Systems] aa2990: de-index
+ involvio, involvio reprted the problem wi...
+From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+To: "hpbriffel@nyfactorysystems.com" <hpbriffel@nyfactorysystems.com>
+Content-Type: multipart/alternative; boundary=001a113fbc0e7d53fb052911cc38
+
+--001a113fbc0e7d53fb052911cc38
+Content-Type: text/plain; charset=UTF-8
+
+Ok great Henry.
+
+Have a nice week.
+
+On Monday, January 11, 2016, hpbriffel@nyfactorysystems.com <
+hpbriffel@nyfactorysystems.com> wrote:
+
+> Hey I'll text u after work today about time to get together. Not really
+> able to be on phone today. :) thanks
+>
+> Sent from my iPhone
+>
+> > On Jan 10, 2016, at 8:28 PM, Jorge Enrique Gamboa Fuentes <
+> jegamboafuentes@gmail.com <javascript:;>> wrote:
+> >
+> >  Branch: refs/heads/master
+> >  Home:   https://github.com/jegamboafuentes/New-York-Factory-Systems
+> >  Commit: aa29902a59614d32625e02dc05dc4d7af1d986fa
+> >
+> https://github.com/jegamboafuentes/New-York-Factory-Systems/commit/aa29902a59614d32625e02dc05dc4d7af1d986fa
+> >  Author: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com
+> <javascript:;>>
+> >  Date:   2016-01-10 (Sun, 10 Jan 2016)
+> >
+> >  Changed paths:
+> >    R New York Factory Systems/img/loolLike/s4.jpg
+> >    M New York Factory Systems/index.html
+> >
+> >  Log Message:
+> >  -----------
+> >  de-index involvio, involvio reprted the problem with, a index in our
+> web page, i removed and put a new legend in the buttom of the slide part of
+> examples, we have to review with Danielle, if this text works for our
+> copyright
+> >
+> >
+>
+
+
+-- 
+Enrique Gamboa
+646 830 3874
+
+--001a113fbc0e7d53fb052911cc38
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Ok great Henry.<div><br></div><div>Have a nice week.=C2=A0<span></span></di=
+v><div><br>On Monday, January 11, 2016, <a href=3D"mailto:hpbriffel@nyfacto=
+rysystems.com">hpbriffel@nyfactorysystems.com</a> &lt;<a href=3D"mailto:hpb=
+riffel@nyfactorysystems.com">hpbriffel@nyfactorysystems.com</a>&gt; wrote:<=
+br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left=
+:1px #ccc solid;padding-left:1ex">Hey I&#39;ll text u after work today abou=
+t time to get together. Not really able to be on phone today. :) thanks<br>
+<br>
+Sent from my iPhone<br>
+<br>
+&gt; On Jan 10, 2016, at 8:28 PM, Jorge Enrique Gamboa Fuentes &lt;<a href=
+=3D"javascript:;" onclick=3D"_e(event, &#39;cvml&#39;, &#39;jegamboafuentes=
+@gmail.com&#39;)">jegamboafuentes@gmail.com</a>&gt; wrote:<br>
+&gt;<br>
+&gt;=C2=A0 Branch: refs/heads/master<br>
+&gt;=C2=A0 Home:=C2=A0 =C2=A0<a href=3D"https://github.com/jegamboafuentes/=
+New-York-Factory-Systems" target=3D"_blank">https://github.com/jegamboafuen=
+tes/New-York-Factory-Systems</a><br>
+&gt;=C2=A0 Commit: aa29902a59614d32625e02dc05dc4d7af1d986fa<br>
+&gt;=C2=A0 =C2=A0 =C2=A0 <a href=3D"https://github.com/jegamboafuentes/New-=
+York-Factory-Systems/commit/aa29902a59614d32625e02dc05dc4d7af1d986fa" targe=
+t=3D"_blank">https://github.com/jegamboafuentes/New-York-Factory-Systems/co=
+mmit/aa29902a59614d32625e02dc05dc4d7af1d986fa</a><br>
+&gt;=C2=A0 Author: Jorge Enrique Gamboa Fuentes &lt;<a href=3D"javascript:;=
+" onclick=3D"_e(event, &#39;cvml&#39;, &#39;jegamboafuentes@gmail.com&#39;)=
+">jegamboafuentes@gmail.com</a>&gt;<br>
+&gt;=C2=A0 Date:=C2=A0 =C2=A02016-01-10 (Sun, 10 Jan 2016)<br>
+&gt;<br>
+&gt;=C2=A0 Changed paths:<br>
+&gt;=C2=A0 =C2=A0 R New York Factory Systems/img/loolLike/s4.jpg<br>
+&gt;=C2=A0 =C2=A0 M New York Factory Systems/index.html<br>
+&gt;<br>
+&gt;=C2=A0 Log Message:<br>
+&gt;=C2=A0 -----------<br>
+&gt;=C2=A0 de-index involvio, involvio reprted the problem with, a index in=
+ our web page, i removed and put a new legend in the buttom of the slide pa=
+rt of examples, we have to review with Danielle, if this text works for our=
+ copyright<br>
+&gt;<br>
+&gt;<br>
+</blockquote></div><br><br>-- <br>Enrique Gamboa<br>646 830 3874<br>
+
+--001a113fbc0e7d53fb052911cc38--

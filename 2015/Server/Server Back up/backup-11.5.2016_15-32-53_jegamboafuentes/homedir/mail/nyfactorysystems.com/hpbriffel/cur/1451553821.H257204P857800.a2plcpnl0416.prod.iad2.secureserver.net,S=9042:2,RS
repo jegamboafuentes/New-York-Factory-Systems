@@ -1,0 +1,161 @@
+Return-path: <enrique.gamboa@nyfactorysystems.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Thu, 31 Dec 2015 02:23:41 -0700
+Received: from cpe-74-73-166-141.nyc.res.rr.com ([74.73.166.141]:50098 helo=[192.168.0.12])
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.85)
+	(envelope-from <enrique.gamboa@nyfactorysystems.com>)
+	id 1aEZSP-003b97-56; Thu, 31 Dec 2015 02:23:41 -0700
+From: Enrique Gamboa - New York Factory Systems <enrique.gamboa@nyfactorysystems.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-40525F7F-38DD-4C90-92FB-5BA6D27DB281
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Subject: Fwd: [jegamboafuentes/New-York-Factory-Systems] c27039: New Examples module, New module in main page, with...
+Message-Id: <E24B2F10-5FAD-4358-8ADD-93D445F61B81@nyfactorysystems.com>
+Date: Thu, 31 Dec 2015 04:23:35 -0500
+References: <5684f11bbda51_609b3fd55c4e72a0105385@hookshot-fe5-cp1-prd.iad.github.net.mail>
+To: "Henry P. Briffel" <hpbriffel@nyfactorysystems.com>,
+ Jorge Megia <sales@nyfactorysystems.com>
+X-Mailer: iPhone Mail (13C75)
+
+
+--Apple-Mail-40525F7F-38DD-4C90-92FB-5BA6D27DB281
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Hey Guys the module examples, is now deployed on the main web page.=20
+
+Enrique Gamboa
+New York Factory Systems=20
+(646) 830 3874
+
+Begin forwarded message:
+
+> From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+> Date: December 31, 2015 at 4:10:51 AM EST
+> To: enrique.gamboa@nyfactorysystems.com
+> Subject: [jegamboafuentes/New-York-Factory-Systems] c27039: New Examples m=
+odule, New module in main page, with...
+> Reply-To: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+>=20
+>  Branch: refs/heads/master
+>  Home:   https://github.com/jegamboafuentes/New-York-Factory-Systems
+>  Commit: c27039d1c28a32fd8f3adf76217a3bf462f2e659
+>      https://github.com/jegamboafuentes/New-York-Factory-Systems/commit/c2=
+7039d1c28a32fd8f3adf76217a3bf462f2e659
+>  Author: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+>  Date:   2015-12-31 (Thu, 31 Dec 2015)
+>=20
+>  Changed paths:
+>    A New York Factory Systems/css/bootstrap-theme.css
+>    A New York Factory Systems/css/bootstrap-theme.css.map
+>    A New York Factory Systems/css/bootstrap-theme.min.css
+>    A New York Factory Systems/css/bootstrap-theme.min.css.map
+>    M New York Factory Systems/css/bootstrap.css
+>    A New York Factory Systems/css/bootstrap.css.map
+>    M New York Factory Systems/css/bootstrap.min.css
+>    A New York Factory Systems/css/bootstrap.min.css.map
+>    M New York Factory Systems/css/index.css
+>    M New York Factory Systems/css/stylish-portfolio.css
+>    A New York Factory Systems/img/loolLike/example1.jpg
+>    A New York Factory Systems/img/loolLike/example2.jpg
+>    A New York Factory Systems/img/loolLike/example3.jpg
+>    A New York Factory Systems/img/loolLike/example4.jpg
+>    A New York Factory Systems/img/loolLike/s1.jpg
+>    A New York Factory Systems/img/loolLike/s10.jpg
+>    A New York Factory Systems/img/loolLike/s11.jpg
+>    A New York Factory Systems/img/loolLike/s12.jpg
+>    A New York Factory Systems/img/loolLike/s13.jpg
+>    A New York Factory Systems/img/loolLike/s2.jpg
+>    A New York Factory Systems/img/loolLike/s3.jpg
+>    A New York Factory Systems/img/loolLike/s4.jpg
+>    A New York Factory Systems/img/loolLike/s5.jpg
+>    A New York Factory Systems/img/loolLike/s6.jpg
+>    A New York Factory Systems/img/loolLike/s7.jpg
+>    A New York Factory Systems/img/loolLike/s8.jpg
+>    A New York Factory Systems/img/loolLike/s9.jpg
+>    M New York Factory Systems/index.html
+>    M New York Factory Systems/js/bootstrap.js
+>    M New York Factory Systems/js/bootstrap.min.js
+>    M New York Factory Systems/js/index.js
+>    A New York Factory Systems/js/npm.js
+>=20
+>  Log Message:
+>  -----------
+>  New Examples module, New module in main page, with some web pages example=
+s
+>=20
+>=20
+
+--Apple-Mail-40525F7F-38DD-4C90-92FB-5BA6D27DB281
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div>Hey Guys the module examples, is now d=
+eployed on the main web page.&nbsp;<br><br>Enrique Gamboa<div>New York Facto=
+ry Systems&nbsp;</div><div>(646) 830 3874</div></div><div><br>Begin forwarde=
+d message:<br><br></div><blockquote type=3D"cite"><div><b>From:</b> Jorge En=
+rique Gamboa Fuentes &lt;<a href=3D"mailto:jegamboafuentes@gmail.com">jegamb=
+oafuentes@gmail.com</a>&gt;<br><b>Date:</b> December 31, 2015 at 4:10:51 AM E=
+ST<br><b>To:</b> <a href=3D"mailto:enrique.gamboa@nyfactorysystems.com">enri=
+que.gamboa@nyfactorysystems.com</a><br><b>Subject:</b> <b>[jegamboafuentes/N=
+ew-York-Factory-Systems] c27039: New Examples module, New module in main pag=
+e, with...</b><br><b>Reply-To:</b> Jorge Enrique Gamboa Fuentes &lt;<a href=3D=
+"mailto:jegamboafuentes@gmail.com">jegamboafuentes@gmail.com</a>&gt;<br><br>=
+</div></blockquote><blockquote type=3D"cite"><div><span> &nbsp;Branch: refs/=
+heads/master</span><br><span> &nbsp;Home: &nbsp;&nbsp;<a href=3D"https://git=
+hub.com/jegamboafuentes/New-York-Factory-Systems">https://github.com/jegambo=
+afuentes/New-York-Factory-Systems</a></span><br><span> &nbsp;Commit: c27039d=
+1c28a32fd8f3adf76217a3bf462f2e659</span><br><span> &nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;<a href=3D"https://github.com/jegamboafuentes/New-York-Factory-Systems/=
+commit/c27039d1c28a32fd8f3adf76217a3bf462f2e659">https://github.com/jegamboa=
+fuentes/New-York-Factory-Systems/commit/c27039d1c28a32fd8f3adf76217a3bf462f2=
+e659</a></span><br><span> &nbsp;Author: Jorge Enrique Gamboa Fuentes &lt;<a h=
+ref=3D"mailto:jegamboafuentes@gmail.com">jegamboafuentes@gmail.com</a>&gt;</=
+span><br><span> &nbsp;Date: &nbsp;&nbsp;2015-12-31 (Thu, 31 Dec 2015)</span>=
+<br><span></span><br><span> &nbsp;Changed paths:</span><br><span> &nbsp;&nbs=
+p;&nbsp;A New York Factory Systems/css/bootstrap-theme.css</span><br><span> &=
+nbsp;&nbsp;&nbsp;A New York Factory Systems/css/bootstrap-theme.css.map</spa=
+n><br><span> &nbsp;&nbsp;&nbsp;A New York Factory Systems/css/bootstrap-them=
+e.min.css</span><br><span> &nbsp;&nbsp;&nbsp;A New York Factory Systems/css/=
+bootstrap-theme.min.css.map</span><br><span> &nbsp;&nbsp;&nbsp;M New York Fa=
+ctory Systems/css/bootstrap.css</span><br><span> &nbsp;&nbsp;&nbsp;A New Yor=
+k Factory Systems/css/bootstrap.css.map</span><br><span> &nbsp;&nbsp;&nbsp;M=
+ New York Factory Systems/css/bootstrap.min.css</span><br><span> &nbsp;&nbsp=
+;&nbsp;A New York Factory Systems/css/bootstrap.min.css.map</span><br><span>=
+ &nbsp;&nbsp;&nbsp;M New York Factory Systems/css/index.css</span><br><span>=
+ &nbsp;&nbsp;&nbsp;M New York Factory Systems/css/stylish-portfolio.css</spa=
+n><br><span> &nbsp;&nbsp;&nbsp;A New York Factory Systems/img/loolLike/examp=
+le1.jpg</span><br><span> &nbsp;&nbsp;&nbsp;A New York Factory Systems/img/lo=
+olLike/example2.jpg</span><br><span> &nbsp;&nbsp;&nbsp;A New York Factory Sy=
+stems/img/loolLike/example3.jpg</span><br><span> &nbsp;&nbsp;&nbsp;A New Yor=
+k Factory Systems/img/loolLike/example4.jpg</span><br><span> &nbsp;&nbsp;&nb=
+sp;A New York Factory Systems/img/loolLike/s1.jpg</span><br><span> &nbsp;&nb=
+sp;&nbsp;A New York Factory Systems/img/loolLike/s10.jpg</span><br><span> &n=
+bsp;&nbsp;&nbsp;A New York Factory Systems/img/loolLike/s11.jpg</span><br><s=
+pan> &nbsp;&nbsp;&nbsp;A New York Factory Systems/img/loolLike/s12.jpg</span=
+><br><span> &nbsp;&nbsp;&nbsp;A New York Factory Systems/img/loolLike/s13.jp=
+g</span><br><span> &nbsp;&nbsp;&nbsp;A New York Factory Systems/img/loolLike=
+/s2.jpg</span><br><span> &nbsp;&nbsp;&nbsp;A New York Factory Systems/img/lo=
+olLike/s3.jpg</span><br><span> &nbsp;&nbsp;&nbsp;A New York Factory Systems/=
+img/loolLike/s4.jpg</span><br><span> &nbsp;&nbsp;&nbsp;A New York Factory Sy=
+stems/img/loolLike/s5.jpg</span><br><span> &nbsp;&nbsp;&nbsp;A New York Fact=
+ory Systems/img/loolLike/s6.jpg</span><br><span> &nbsp;&nbsp;&nbsp;A New Yor=
+k Factory Systems/img/loolLike/s7.jpg</span><br><span> &nbsp;&nbsp;&nbsp;A N=
+ew York Factory Systems/img/loolLike/s8.jpg</span><br><span> &nbsp;&nbsp;&nb=
+sp;A New York Factory Systems/img/loolLike/s9.jpg</span><br><span> &nbsp;&nb=
+sp;&nbsp;M New York Factory Systems/index.html</span><br><span> &nbsp;&nbsp;=
+&nbsp;M New York Factory Systems/js/bootstrap.js</span><br><span> &nbsp;&nbs=
+p;&nbsp;M New York Factory Systems/js/bootstrap.min.js</span><br><span> &nbs=
+p;&nbsp;&nbsp;M New York Factory Systems/js/index.js</span><br><span> &nbsp;=
+&nbsp;&nbsp;A New York Factory Systems/js/npm.js</span><br><span></span><br>=
+<span> &nbsp;Log Message:</span><br><span> &nbsp;-----------</span><br><span=
+> &nbsp;New Examples module, New module in main page, with some web pages ex=
+amples</span><br><span></span><br><span></span><br></div></blockquote></body=
+></html>=
+
+--Apple-Mail-40525F7F-38DD-4C90-92FB-5BA6D27DB281--

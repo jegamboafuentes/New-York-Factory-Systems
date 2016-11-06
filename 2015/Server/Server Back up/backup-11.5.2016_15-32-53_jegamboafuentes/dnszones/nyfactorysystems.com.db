@@ -1,0 +1,56 @@
+; cPanel first:11.50.0.23 (update_time):1453174555 11.50.0.23: Cpanel::ZoneFile::VERSION:1.3 hostname:a2plcpnl0416.prod.iad2.secureserver.net latest:11.50.0.23
+; Zone file for nyfactorysystems.com
+$TTL 14400
+@      86400	IN      SOA     10.255.250.30. hostingex.godaddy.com. (
+		2016011911	; serial, todays date+todays
+		86400		; refresh, seconds
+		7200		; retry, seconds
+		3600000		; expire, seconds
+		86400 )		; minimum, seconds
+
+nyfactorysystems.com. 86400 IN NS 10.255.250.30.
+nyfactorysystems.com. 86400 IN NS 10.255.251.30.
+
+
+nyfactorysystems.com. IN A 107.180.50.224
+
+nyfactorysystems.com. IN MX 0 nyfactorysystems.com.
+
+mail IN CNAME nyfactorysystems.com.
+www IN CNAME nyfactorysystems.com.
+ftp IN A 107.180.50.224
+cpanel IN A 107.180.50.224
+webdisk IN A 107.180.50.224
+cpcalendars IN A 107.180.50.224
+cpcontacts IN A 107.180.50.224
+whm IN A 107.180.50.224
+webmail IN A 107.180.50.224
+autoconfig IN A 107.180.50.224
+autodiscover IN A 107.180.50.224
+_autodiscover._tcp IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+_caldav._tcp IN SRV 0 0 2079 a2plcpnl0416.prod.iad2.secureserver.net.
+_caldavs._tcp IN SRV 0 0 2080 a2plcpnl0416.prod.iad2.secureserver.net.
+_carddav._tcp IN SRV 0 0 2079 a2plcpnl0416.prod.iad2.secureserver.net.
+_carddavs._tcp IN SRV 0 0 2080 a2plcpnl0416.prod.iad2.secureserver.net.
+_caldav._tcp IN TXT path=/
+_caldavs._tcp IN TXT path=/
+_carddav._tcp IN TXT path=/
+_carddavs._tcp IN TXT path=/
+default._domainkey IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt3Yuzv8ugTph/iS/NRXRNOy+/jaKwF1Xw7j6MtiTt3mGqvECOnBNOTbDK9XjQDoJudaMDUPUs7/3WjNPunAyQIAUw60bbw3tuGIWusdaN2rGXZXqUmvlQVeUXRmJ5BXZj+37wQyUI8jNbEPTXfrg6ZxLn/2auCWFiaIvAyH2LvFM8BYsZQKYp/ZMwSvJvc73T" KV2BfMHi5SRQ2tQ6PGYL/BBd/JGD8gwPImZM+gsmXMIdrs9iWKCzWWyt+Hb92tWD0lLfVVCIUtkm7WMuo5Y3Ki716Q6AvZItujUSmuouw7k46WzMTC9gx31Hj0z749TzAVkDcKsEFrAg3N4taFgwwIDAQAB\;
+clients 14400 IN A  107.180.50.224
+www.clients 14400 IN A  107.180.50.224
+autoconfig.clients IN A 107.180.50.224
+webdisk.clients IN A 107.180.50.224
+cpcalendars.clients IN A 107.180.50.224
+autodiscover.clients IN A 107.180.50.224
+_autodiscover._tcp.clients IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+_caldav._tcp.clients IN SRV 0 0 2079 a2plcpnl0416.prod.iad2.secureserver.net.
+_caldavs._tcp.clients IN SRV 0 0 2080 a2plcpnl0416.prod.iad2.secureserver.net.
+_carddav._tcp.clients IN SRV 0 0 2079 a2plcpnl0416.prod.iad2.secureserver.net.
+_carddavs._tcp.clients IN SRV 0 0 2080 a2plcpnl0416.prod.iad2.secureserver.net.
+_caldav._tcp.clients IN TXT path=/
+_caldavs._tcp.clients IN TXT path=/
+_carddav._tcp.clients IN TXT path=/
+_carddavs._tcp.clients IN TXT path=/
+cpcontacts.clients IN A 107.180.50.224
+default._domainkey.clients IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtaZDkpWb+5eEf7TgPMUSia1pHfu3ihzKUm0vD3OpBROj8W9tbnwORNJEwhPLwxUHKNL2/Qn8QN+1LkP9/ULov+L5A92kHsx2SyPOn7nY6QFM3H0n0p01eB8qEID92YBODBP0DM0K9yKtEj6Q+f/9TFH1ivdKKuodCFYLw+6IzFefafsTlEWQz31rKlqb67Bd3" UdmY7YE6BrxPFYNtTF/0ksIn3INaHtJOh1YZQXEKoICHZDzkrujz4OJqPqvPabBUkzH7dJoasYC6zSC/Iu4+7AO7ol919DfGqaZwMD9BqqXRJNAe50L0METt4CN064oBOZ4mSmhnsYeqZmTGGAP7QIDAQAB\;

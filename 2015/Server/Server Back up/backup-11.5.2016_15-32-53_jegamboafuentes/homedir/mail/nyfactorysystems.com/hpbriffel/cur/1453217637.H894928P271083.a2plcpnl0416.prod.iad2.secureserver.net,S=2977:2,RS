@@ -1,0 +1,89 @@
+Return-path: <enrique.gamboa@nyfactorysystems.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Tue, 19 Jan 2016 08:33:57 -0700
+Received: from ip-64-134-67-177.public.wayport.net ([64.134.67.177]:51003 helo=[192.168.180.151])
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.85)
+	(envelope-from <enrique.gamboa@nyfactorysystems.com>)
+	id 1aLYI9-0018V9-Lo
+	for hpbriffel@nyfactorysystems.com; Tue, 19 Jan 2016 08:33:57 -0700
+From: Enrique Gamboa - New York Factory Systems <enrique.gamboa@nyfactorysystems.com>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+Subject: Re: Clients.nyfactorysystems
+Message-Id: <0F61B7DD-6D78-4112-88E3-A3D425ACC013@nyfactorysystems.com>
+Date: Tue, 19 Jan 2016 10:33:52 -0500
+References: <DB63576A-0478-4B40-B48C-13E17E296264@nyfactorysystems.com> <5A63E620-D167-4CBC-8585-DB9FC7FE5A0D@nyfactorysystems.com>
+In-Reply-To: <5A63E620-D167-4CBC-8585-DB9FC7FE5A0D@nyfactorysystems.com>
+To: "hpbriffel@nyfactorysystems.com" <hpbriffel@nyfactorysystems.com>
+X-Mailer: iPhone Mail (13C75)
+
+Hey Henry!!=20
+
+I'll finish my activities tonight at 8:00 pm, at this time is good for you? =
+=20
+
+Enrique Gamboa
+New York Factory Systems=20
+(646) 830 3874
+
+> On Jan 19, 2016, at 10:04 AM, "hpbriffel@nyfactorysystems.com" <hpbriffel@=
+nyfactorysystems.com> wrote:
+>=20
+> Awesome. Can we talk tonight? Phone call is ok? Earlier the better. Thanks=
+=20
+>=20
+> Sent from my iPhone
+>=20
+>> On Jan 18, 2016, at 11:29 PM, Enrique Gamboa - New York Factory Systems <=
+enrique.gamboa@nyfactorysystems.com> wrote:
+>>=20
+>>=20
+>> Hi guys, I hope you had a great Holidays.
+>> I was working on a new platform for NYFS, is for the management of the cl=
+ients.
+>> I'm using the project of Danielle (Every day New Yorker) as an example fo=
+r show you what is the functionality of this system:
+>> 1.- when the client is admitted with NYFS we will send them a user and pa=
+ssword for access:
+>> <image1.PNG>
+>>=20
+>>=20
+>> 2.- The client goes to the main menu for clients, they can show the previ=
+ew of them project:
+>>=20
+>> <image2.PNG>
+>>=20
+>>=20
+>> 3.- Progress
+>> On progress part they can look what is the status of the project in gener=
+al, they can pay for that way (by PayPal) and follow the instructions for th=
+e project.
+>>=20
+>> <image3.PNG>
+>>=20
+>>=20
+>> 4.- About: in this part we can see the general info for the client, and t=
+hen requirement or attached documents.
+>>=20
+>> <image4.PNG>
+>>=20
+>> I have the structure of all the platform and I will have the full structu=
+re in this week, also I'll start to develop some stuffs for Danielle's proje=
+ct.
+>>=20
+>> You can see this platform at the following link:
+>>=20
+>> http://clients.nyfactorysystems.com
+>>=20
+>> I hope see you soon guys for talk about it.
+>>=20
+>> Have a great week.=20
+>>=20
+>> Regards.=20
+>>=20
+>> Enrique Gamboa
+>> New York Factory Systems=20
+>> (646) 830 3874

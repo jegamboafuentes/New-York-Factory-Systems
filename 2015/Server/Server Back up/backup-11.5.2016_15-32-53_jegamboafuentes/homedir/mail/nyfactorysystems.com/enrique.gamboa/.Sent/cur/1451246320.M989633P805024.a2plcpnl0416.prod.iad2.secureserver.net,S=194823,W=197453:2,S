@@ -1,0 +1,2631 @@
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+Date: Sun, 27 Dec 2015 12:58:35 -0700
+From: enrique.gamboa@nyfactorysystems.com
+To: hpbriffel@gmail.com, jorge_m68@hotmail.com, jegamboafuentes@gmail.com
+Subject: New York Factory Systems bootstraps templates
+Message-ID: <47cdf215a5f8dc984183bfecf74c3252@nyfactorysystems.com>
+X-Sender: enrique.gamboa@nyfactorysystems.com
+User-Agent: Roundcube Webmail/1.0.5
+
+Hello guys, yesterday at night developed some stuffs for could work 
+better.
+
+Follow the links for could see what is each.
+
+1.- Work flow for web designer in New York Factory Systems
+http://nyfactorysystems.com/administration/webdesign/
+
+
+2.- Add templates for New York Factory Systems
+http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/nyfsTemplatesBootsrap.html
+
+This days i will stay busy, for my family here but don't worry i pretend 
+work at nights.
+
+
+If you have some questions let me know.
+
+Regards.
+
+-------- Original Message --------
+Subject: [jegamboafuentes/New-York-Factory-Systems] f37ae5: Web Design 
+flow, created a web dsign part for NY-F...
+Date: 2015-12-27 12:40
+ From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+To: enrique.gamboa@nyfactorysystems.com
+
+   Branch: refs/heads/master
+   Home:   https://github.com/jegamboafuentes/New-York-Factory-Systems
+   Commit: f37ae5f39306c69d13e315f6f0d9f7de044e905d
+       
+https://github.com/jegamboafuentes/New-York-Factory-Systems/commit/f37ae5f39306c69d13e315f6f0d9f7de044e905d
+   Author: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+   Date:   2015-12-27 (Sun, 27 Dec 2015)
+
+   Changed paths:
+     A New York Factory Systems/administration/webdesign/LICENSE
+     A New York Factory Systems/administration/webdesign/README.md
+     A New York Factory 
+Systems/administration/webdesign/css/bootstrap-theme.css
+     A New York Factory 
+Systems/administration/webdesign/css/bootstrap-theme.css.map
+     A New York Factory 
+Systems/administration/webdesign/css/bootstrap-theme.min.css
+     A New York Factory 
+Systems/administration/webdesign/css/bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/css/bootstrap.css.map
+     A New York Factory 
+Systems/administration/webdesign/css/bootstrap.min.css
+     A New York Factory Systems/administration/webdesign/css/prettify.css
+     A New York Factory 
+Systems/administration/webdesign/css/simple-sidebar.css
+     A New York Factory 
+Systems/administration/webdesign/fonts/glyphicons-halflings-regular.eot
+     A New York Factory 
+Systems/administration/webdesign/fonts/glyphicons-halflings-regular.svg
+     A New York Factory 
+Systems/administration/webdesign/fonts/glyphicons-halflings-regular.ttf
+     A New York Factory 
+Systems/administration/webdesign/fonts/glyphicons-halflings-regular.woff
+     A New York Factory 
+Systems/administration/webdesign/fonts/glyphicons-halflings-regular.woff2
+     A New York Factory Systems/administration/webdesign/index.html
+     A New York Factory Systems/administration/webdesign/js/bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/js/bootstrap.min.js
+     A New York Factory Systems/administration/webdesign/js/bower.json
+     A New York Factory 
+Systems/administration/webdesign/js/jquery.bootstrap.wizard.js
+     A New York Factory 
+Systems/administration/webdesign/js/jquery.bootstrap.wizard.min.js
+     A New York Factory Systems/administration/webdesign/js/jquery.js
+     A New York Factory Systems/administration/webdesign/js/npm.js
+     A New York Factory Systems/administration/webdesign/js/prettify.js
+     A New York Factory Systems/administration/webdesign/js/webDesign.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/LICENSE
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/css/4-col-portfolio.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/css/bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/css/bootstrap.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/fonts/glyphicons-halflings-regular.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/fonts/glyphicons-halflings-regular.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/fonts/glyphicons-halflings-regular.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/fonts/glyphicons-halflings-regular.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/fonts/glyphicons-halflings-regular.woff2
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/js/bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/js/bootstrap.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/js/jquery.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/nyfsTemplatesBootsrap.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/LICENSE
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/css/agency.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/css/bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/css/bootstrap.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/fonts/FontAwesome.otf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/less/bordered-pulled.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/less/core.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/less/fixed-width.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/less/font-awesome.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/less/icons.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/less/larger.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/less/list.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/less/mixins.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/less/path.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/less/rotated-flipped.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/less/spinning.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/less/stacked.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/less/variables.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/scss/_bordered-pulled.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/scss/_core.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/scss/_fixed-width.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/scss/_icons.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/scss/_larger.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/scss/_list.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/scss/_mixins.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/scss/_path.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/scss/_rotated-flipped.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/scss/_spinning.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/scss/_stacked.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/scss/_variables.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/scss/font-awesome.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.woff2
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/about/1.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/about/2.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/about/3.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/about/4.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/header-bg.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/logos/aetuts.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/logos/creative-market.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/logos/designmodo.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/logos/envato.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/logos/microlancer.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/logos/themeforest.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/logos/wordpress.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/map-image.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/portfolio/dreams-preview.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/portfolio/dreams.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/portfolio/escape-preview.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/portfolio/escape.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/portfolio/golden-preview.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/portfolio/golden.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/portfolio/roundicons-free.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/portfolio/roundicons.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/portfolio/startup-framework-preview.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/portfolio/startup-framework.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/portfolio/treehouse-preview.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/portfolio/treehouse.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/team/1.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/team/2.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/img/team/3.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/js/agency.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/js/bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/js/bootstrap.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/js/classie.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/js/contact_me.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/js/jqBootstrapValidation.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/js/jquery.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/less/agency.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/less/mixins.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/less/variables.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/mail/contact_me.php
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/LICENSE
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/about.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/blog.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/contact.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/css/bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/css/bootstrap.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/css/business-casual.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.woff2
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/img/bg.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/img/intro-pic.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/img/slide-1.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/img/slide-2.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/img/slide-3.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/js/bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/js/bootstrap.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/js/jquery.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/LICENSE
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/about.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/contact.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/css/bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/css/bootstrap.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/css/clean-blog.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/css/clean-blog.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/fonts/glyphicons-halflings-regular.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/fonts/glyphicons-halflings-regular.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/fonts/glyphicons-halflings-regular.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/fonts/glyphicons-halflings-regular.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/fonts/glyphicons-halflings-regular.woff2
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/img/about-bg.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/img/contact-bg.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/img/home-bg.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/img/post-bg.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/img/post-sample-image.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/js/bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/js/bootstrap.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/js/clean-blog.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/js/clean-blog.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/js/jquery.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/js/jquery.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/less/clean-blog.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/less/mixins.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/less/variables.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/mail/contact_me.php
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/post.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/LICENSE
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/css/animate.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/css/bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/css/bootstrap.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/css/creative.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/css/font-awesome.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/css/font-awesome.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/fonts/FontAwesome.otf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/fonts/fontawesome-webfont.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/fonts/fontawesome-webfont.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/fonts/fontawesome-webfont.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/fonts/fontawesome-webfont.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/fonts/fontawesome-webfont.woff2
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/less/animated.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/less/bordered-pulled.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/less/core.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/less/fixed-width.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/less/font-awesome.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/less/icons.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/less/larger.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/less/list.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/less/mixins.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/less/path.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/less/rotated-flipped.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/less/stacked.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/less/variables.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/scss/_animated.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/scss/_bordered-pulled.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/scss/_core.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/scss/_fixed-width.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/scss/_icons.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/scss/_larger.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/scss/_list.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/scss/_mixins.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/scss/_path.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/scss/_rotated-flipped.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/scss/_stacked.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/scss/_variables.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/scss/font-awesome.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/fonts/glyphicons-halflings-regular.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/fonts/glyphicons-halflings-regular.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/fonts/glyphicons-halflings-regular.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/fonts/glyphicons-halflings-regular.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/fonts/glyphicons-halflings-regular.woff2
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/img/header.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/img/portfolio/1.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/img/portfolio/2.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/img/portfolio/3.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/img/portfolio/4.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/img/portfolio/5.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/img/portfolio/6.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/js/bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/js/bootstrap.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/js/cbpAnimatedHeader.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/js/classie.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/js/creative.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/js/jquery.easing.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/js/jquery.fittext.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/js/jquery.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/js/wow.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/less/creative.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/less/mixins.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/less/variables.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/LICENSE
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/css/bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/css/bootstrap.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/css/freelancer.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/css/font-awesome.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/css/font-awesome.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/fonts/FontAwesome.otf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/fonts/fontawesome-webfont.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/fonts/fontawesome-webfont.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/fonts/fontawesome-webfont.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/fonts/fontawesome-webfont.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/less/bordered-pulled.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/less/core.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/less/fixed-width.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/less/font-awesome.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/less/icons.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/less/larger.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/less/list.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/less/mixins.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/less/path.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/less/rotated-flipped.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/less/spinning.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/less/stacked.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/less/variables.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/scss/_bordered-pulled.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/scss/_core.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/scss/_fixed-width.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/scss/_icons.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/scss/_larger.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/scss/_list.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/scss/_mixins.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/scss/_path.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/scss/_rotated-flipped.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/scss/_spinning.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/scss/_stacked.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/scss/_variables.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/scss/font-awesome.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/fonts/glyphicons-halflings-regular.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/fonts/glyphicons-halflings-regular.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/fonts/glyphicons-halflings-regular.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/fonts/glyphicons-halflings-regular.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/fonts/glyphicons-halflings-regular.woff2
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/img/portfolio/cabin.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/img/portfolio/cake.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/img/portfolio/circus.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/img/portfolio/game.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/img/portfolio/safe.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/img/portfolio/submarine.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/img/profile.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/js/bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/js/bootstrap.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/js/cbpAnimatedHeader.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/js/cbpAnimatedHeader.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/js/classie.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/js/contact_me.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/js/freelancer.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/js/jqBootstrapValidation.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/js/jquery.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/less/freelancer.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/less/mixins.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/less/variables.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/mail/contact_me.php
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/LICENSE
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/css/bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/css/bootstrap.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/css/grayscale.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/css/font-awesome.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/css/font-awesome.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/fonts/FontAwesome.otf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/fonts/fontawesome-webfont.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/fonts/fontawesome-webfont.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/fonts/fontawesome-webfont.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/fonts/fontawesome-webfont.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/less/bordered-pulled.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/less/core.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/less/fixed-width.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/less/font-awesome.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/less/icons.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/less/larger.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/less/list.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/less/mixins.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/less/path.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/less/rotated-flipped.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/less/spinning.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/less/stacked.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/less/variables.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/scss/_bordered-pulled.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/scss/_core.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/scss/_fixed-width.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/scss/_icons.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/scss/_larger.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/scss/_list.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/scss/_mixins.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/scss/_path.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/scss/_rotated-flipped.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/scss/_spinning.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/scss/_stacked.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/scss/_variables.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/scss/font-awesome.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/fonts/glyphicons-halflings-regular.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/fonts/glyphicons-halflings-regular.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/fonts/glyphicons-halflings-regular.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/fonts/glyphicons-halflings-regular.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/fonts/glyphicons-halflings-regular.woff2
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/img/downloads-bg.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/img/intro-bg.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/img/map-marker.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/js/bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/js/bootstrap.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/js/grayscale.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/js/jquery.easing.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/js/jquery.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/less/grayscale.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/less/mixins.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/less/variables.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/LICENSE
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/css/bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/css/bootstrap.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/css/landing-page.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/css/font-awesome.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/css/font-awesome.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/fonts/FontAwesome.otf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/fonts/fontawesome-webfont.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/fonts/fontawesome-webfont.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/fonts/fontawesome-webfont.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/fonts/fontawesome-webfont.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/less/bordered-pulled.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/less/core.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/less/fixed-width.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/less/font-awesome.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/less/icons.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/less/larger.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/less/list.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/less/mixins.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/less/path.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/less/rotated-flipped.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/less/spinning.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/less/stacked.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/less/variables.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/scss/_bordered-pulled.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/scss/_core.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/scss/_fixed-width.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/scss/_icons.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/scss/_larger.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/scss/_list.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/scss/_mixins.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/scss/_path.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/scss/_rotated-flipped.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/scss/_spinning.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/scss/_stacked.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/scss/_variables.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/scss/font-awesome.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/fonts/glyphicons-halflings-regular.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/fonts/glyphicons-halflings-regular.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/fonts/glyphicons-halflings-regular.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/fonts/glyphicons-halflings-regular.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/fonts/glyphicons-halflings-regular.woff2
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/img/banner-bg.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/img/dog.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/img/intro-bg.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/img/ipad.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/img/phones.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/js/bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/js/bootstrap.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/js/jquery.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/LICENSE
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/blank-page.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/bootstrap-elements.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/bootstrap-grid.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/charts.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/css/bootstrap-rtl.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/css/bootstrap-rtl.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/css/bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/css/bootstrap.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/css/plugins/morris.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/css/sb-admin-rtl.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/css/sb-admin.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/css/font-awesome.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/css/font-awesome.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/fonts/FontAwesome.otf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/fonts/fontawesome-webfont.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/fonts/fontawesome-webfont.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/fonts/fontawesome-webfont.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/fonts/fontawesome-webfont.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/less/bordered-pulled.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/less/core.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/less/fixed-width.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/less/font-awesome.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/less/icons.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/less/larger.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/less/list.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/less/mixins.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/less/path.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/less/rotated-flipped.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/less/spinning.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/less/stacked.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/less/variables.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/scss/_bordered-pulled.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/scss/_core.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/scss/_fixed-width.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/scss/_icons.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/scss/_larger.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/scss/_list.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/scss/_mixins.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/scss/_path.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/scss/_rotated-flipped.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/scss/_spinning.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/scss/_stacked.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/scss/_variables.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/scss/font-awesome.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/fonts/glyphicons-halflings-regular.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/fonts/glyphicons-halflings-regular.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/fonts/glyphicons-halflings-regular.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/fonts/glyphicons-halflings-regular.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/fonts/glyphicons-halflings-regular.woff2
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/forms.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/index-rtl.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/js/bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/js/bootstrap.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/js/jquery.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/js/plugins/flot/excanvas.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/js/plugins/flot/flot-data.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/js/plugins/flot/jquery.flot.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/js/plugins/flot/jquery.flot.pie.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/js/plugins/flot/jquery.flot.resize.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/js/plugins/flot/jquery.flot.tooltip.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/js/plugins/morris/morris-data.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/js/plugins/morris/morris.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/js/plugins/morris/morris.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/js/plugins/morris/raphael.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/tables.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/LICENSE
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap-social/.bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap-social/.editorconfig
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap-social/.gitignore
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap-social/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap-social/bootstrap-social.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap-social/bootstrap-social.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap-social/bootstrap-social.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap-social/bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/.bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/CHANGELOG.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/Gruntfile.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/LICENSE
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/css/bootstrap-theme.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/css/bootstrap-theme.css.map
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/css/bootstrap-theme.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/css/bootstrap-theme.min.css.map
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/css/bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/css/bootstrap.css.map
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/css/bootstrap.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/css/bootstrap.min.css.map
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/js/bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/js/bootstrap.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/js/npm.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff2
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/grunt/.jshintrc
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/grunt/bs-commonjs-generator.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/grunt/bs-lessdoc-parser.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/grunt/bs-raw-files-generator.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/grunt/configBridge.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/grunt/sauce_browsers.yml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/js/.jscsrc
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/js/.jshintrc
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/js/affix.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/js/alert.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/js/button.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/js/carousel.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/js/collapse.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/js/dropdown.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/js/modal.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/js/popover.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/js/scrollspy.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/js/tab.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/js/tooltip.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/js/transition.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/.csscomb.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/.csslintrc
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/alerts.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/badges.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/bootstrap.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/breadcrumbs.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/button-groups.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/buttons.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/carousel.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/close.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/code.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/component-animations.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/dropdowns.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/forms.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/glyphicons.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/grid.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/input-groups.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/jumbotron.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/labels.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/list-group.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/media.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/alerts.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/background-variant.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/border-radius.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/buttons.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/center-block.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/clearfix.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/forms.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/gradients.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/grid-framework.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/grid.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/hide-text.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/image.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/labels.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/list-group.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/nav-divider.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/nav-vertical-align.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/opacity.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/pagination.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/panels.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/progress-bar.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/reset-filter.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/reset-text.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/resize.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/responsive-visibility.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/size.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/tab-focus.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/table-row.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/text-emphasis.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/text-overflow.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/mixins/vendor-prefixes.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/modals.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/navbar.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/navs.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/normalize.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/pager.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/pagination.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/panels.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/popovers.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/print.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/progress-bars.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/responsive-embed.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/responsive-utilities.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/scaffolding.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/tables.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/theme.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/thumbnails.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/tooltip.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/type.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/utilities.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/variables.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/less/wells.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/nuget/MyGet.ps1
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/nuget/bootstrap.less.nuspec
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/nuget/bootstrap.nuspec
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/package.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/package.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/.bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/average().js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/column().title().js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/columns().order().js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnAddDataAndDisplay.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnAddTr.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnColumnIndexToVisible.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnDataUpdate.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnDisplayRow.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnDisplayStart.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnFakeRowspan.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnFilterAll.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnFilterClear.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnFilterOnReturn.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnFindCellRowIndexes.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnFindCellRowNodes.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnGetAdjacentTr.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnGetColumnData.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnGetColumnIndex.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnGetHiddenNodes.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnGetTd.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnGetTds.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnLengthChange.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnMultiFilter.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnPagingInfo.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnProcessingIndicator.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnReloadAjax.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnSetFilteringDelay.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnSortNeutral.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnStandingRedraw.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/fnVisibleToColumnIndex.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/page.jumpToData().js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/api/sum().js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/features/alphabetSearch/dataTables.alphabetSearch.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/features/alphabetSearch/dataTables.alphabetSearch.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/features/alphabetSearch/dataTables.alphabetSearch.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/features/lengthLinks/dataTables.lengthLinks.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/features/lengthLinks/dataTables.lengthLinks.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/features/lengthLinks/dataTables.lengthLinks.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/features/searchHighlight/dataTables.searchHighlight.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/features/searchHighlight/dataTables.searchHighlight.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/features/searchHighlight/dataTables.searchHighlight.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/filtering/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/filtering/row-based/TableTools.ShowSelectedOnly.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/filtering/row-based/range_dates.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/filtering/row-based/range_numbers.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/filtering/type-based/accent-neutralise.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/filtering/type-based/html.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/filtering/type-based/phoneNumber.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Afrikaans.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Albanian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Arabic.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Azerbaijan.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Bangla.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Belarusian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Bulgarian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Catalan.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Chinese-traditional.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Chinese.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Croatian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Czech.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Danish.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Dutch.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/English.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Estonian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Filipino.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Finnish.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/French.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Galician.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Georgian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/German.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Greek.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Gujarati.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Hebrew.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Hindi.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Hungarian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Icelandic.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Indonesian-Alternative.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Indonesian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Irish.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Italian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Japanese.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Korean.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Latvian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Lithuanian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Macedonian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Malay.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Norwegian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Persian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Polish.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Portuguese-Brasil.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Portuguese.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Romanian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Russian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Serbian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Slovak.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Slovenian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Spanish.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Swahili.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Swedish.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Tamil.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Thai.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Turkish.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Ukranian.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Urdu.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Uzbek.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/Vietnamese.lang
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/i18n/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/bootstrap/1/dataTables.bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/bootstrap/1/dataTables.bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/bootstrap/2/dataTables.bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/bootstrap/2/dataTables.bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/bootstrap/2/dataTables.bootstrap.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/bootstrap/2/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/bootstrap/3/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/bootstrap/images/sort_asc.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/bootstrap/images/sort_asc_disabled.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/bootstrap/images/sort_both.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/bootstrap/images/sort_desc.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/bootstrap/images/sort_desc_disabled.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/font-awesome/bootstrap.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/font-awesome/dataTables.fontAwesome.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/font-awesome/datatables.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/font-awesome/foundation.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/foundation/dataTables.foundation.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/foundation/dataTables.foundation.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/foundation/dataTables.foundation.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/foundation/images/sort_asc.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/foundation/images/sort_asc_disabled.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/foundation/images/sort_both.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/foundation/images/sort_desc.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/foundation/images/sort_desc_disabled.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/foundation/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/jqueryui/dataTables.jqueryui.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/jqueryui/dataTables.jqueryui.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/jqueryui/dataTables.jqueryui.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/jqueryui/dataTables.jqueryui.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/integration/jqueryui/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/make.sh
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/pagination/ellipses.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/pagination/extjs.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/pagination/four_button.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/pagination/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/pagination/input.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/pagination/jPaginator/dataTables.jPaginator.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/pagination/scrolling.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/pagination/select.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/alt-string.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/anti-the.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/chinese-string.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/currency.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/custom-data-source/dom-checkbox.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/custom-data-source/dom-select.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/custom-data-source/dom-text.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/date-dd-MMM-yyyy.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/date-de.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/date-eu.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/date-euro.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/date-uk.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/datetime-moment.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/datetime-us.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/enum.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/file-size.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/formatted-numbers.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/ip-address.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/monthYear.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/natural.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/num-html.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/numeric-comma.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/percent.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/persian.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/scientific.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/signed-num.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/stringMonthYear.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/time.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/title-numeric.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/title-string.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/sorting/turkish-string.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/type-detection/currency.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/type-detection/date-uk.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/type-detection/file-size.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/type-detection/formatted-num.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/type-detection/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/type-detection/ip-address.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/type-detection/num-html.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-plugins/type-detection/numeric-comma.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/.bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/.gitignore
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/License.txt
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/Readme.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/css/responsive.bootstrap.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/css/responsive.dataTables.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/css/responsive.foundation.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/css/responsive.jqueryui.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/docs/api/responsive.index().xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/docs/api/responsive.rebuild().xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/docs/api/responsive.recalc().xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/docs/option/responsive.breakpoints.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/docs/option/responsive.details.renderer.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/docs/option/responsive.details.target.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/docs/option/responsive.details.type.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/docs/option/responsive.details.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/docs/option/responsive.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/child-rows/column-control.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/child-rows/custom-renderer.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/child-rows/disable-child-rows.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/child-rows/index.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/child-rows/right-column.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/child-rows/whole-row-control.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/display-control/auto.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/display-control/classes.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/display-control/complexHeader.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/display-control/fixedHeader.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/display-control/index.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/display-control/init-classes.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/index.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/initialisation/ajax.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/initialisation/className.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/initialisation/default.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/initialisation/index.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/initialisation/new.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/initialisation/option.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/styling/bootstrap.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/styling/compact.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/styling/foundation.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/styling/index.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/styling/jqueryui.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/examples/styling/scrolling.xml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/js/dataTables.responsive.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables-responsive/make.sh
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/.bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/Contributing.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/Readme.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/license.txt
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/css/dataTables.bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/css/dataTables.bootstrap.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/css/dataTables.foundation.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/css/dataTables.foundation.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/css/dataTables.jqueryui.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/css/dataTables.jqueryui.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/css/jquery.dataTables.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/css/jquery.dataTables.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/css/jquery.dataTables_themeroller.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/images/Sorting 
+icons.psd
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/images/favicon.ico
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/images/sort_asc.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/images/sort_asc_disabled.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/images/sort_both.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/images/sort_desc.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/images/sort_desc_disabled.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/js/dataTables.bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/js/dataTables.bootstrap.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/js/dataTables.foundation.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/js/dataTables.foundation.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/js/dataTables.jqueryui.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/js/dataTables.jqueryui.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/js/jquery.dataTables.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/js/jquery.dataTables.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/datatables/media/js/jquery.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot.tooltip/.bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot.tooltip/bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot.tooltip/js/excanvas.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot.tooltip/js/jquery.flot.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot.tooltip/js/jquery.flot.tooltip.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot.tooltip/js/jquery.flot.tooltip.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot.tooltip/js/jquery.flot.tooltip.source.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/.bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/.gitignore
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/.travis.yml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/API.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/CONTRIBUTING.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/FAQ.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/LICENSE.txt
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/Makefile
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/NEWS.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/PLUGINS.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/component.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/ajax/data-eu-gdp-growth-1.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/ajax/data-eu-gdp-growth-2.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/ajax/data-eu-gdp-growth-3.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/ajax/data-eu-gdp-growth-4.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/ajax/data-eu-gdp-growth-5.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/ajax/data-eu-gdp-growth.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/ajax/data-japan-gdp-growth.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/ajax/data-usa-gdp-growth.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/ajax/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/annotating/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-interacting/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-multiple/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/date.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/africa
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/antarctica
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/asia
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/australasia
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/backward
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/etcetera
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/europe
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/factory
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/iso3166.tab
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/leapseconds
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/northamerica
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/pacificnew
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/solar87
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/solar88
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/solar89
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/southamerica
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/systemv
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/yearistype.sh
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time-zones/tz/zone.tab
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/axes-time/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/background.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/basic-options/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/basic-usage/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/canvas/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/categories/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/examples.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/image/hs-2004-27-a-large-web.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/image/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/interacting/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/navigate/arrow-down.gif
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/navigate/arrow-left.gif
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/navigate/arrow-right.gif
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/navigate/arrow-up.gif
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/navigate/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/percentiles/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/realtime/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/resize/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/selection/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/series-errorbars/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/series-pie/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/series-toggle/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/series-types/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/shared/jquery-ui/jquery-ui.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/stacking/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/symbols/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/threshold/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/tracking/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/visitors/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/examples/zooming/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/excanvas.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/excanvas.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/flot.jquery.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.colorhelpers.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.flot.canvas.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.flot.categories.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.flot.crosshair.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.flot.errorbars.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.flot.fillbetween.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.flot.image.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.flot.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.flot.navigate.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.flot.pie.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.flot.resize.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.flot.selection.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.flot.stack.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.flot.symbol.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.flot.threshold.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.flot.time.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/jquery.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/flot/package.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/.bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/.gitignore
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/.npmignore
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/css/font-awesome.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/css/font-awesome.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/fonts/FontAwesome.otf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/fonts/fontawesome-webfont.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/fonts/fontawesome-webfont.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/fonts/fontawesome-webfont.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/fonts/fontawesome-webfont.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/less/bordered-pulled.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/less/core.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/less/extras.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/less/fixed-width.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/less/font-awesome.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/less/icons.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/less/larger.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/less/list.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/less/mixins.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/less/path.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/less/rotated-flipped.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/less/spinning.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/less/stacked.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/less/variables.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/scss/_bordered-pulled.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/scss/_core.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/scss/_extras.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/scss/_fixed-width.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/scss/_icons.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/scss/_larger.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/scss/_list.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/scss/_mixins.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/scss/_path.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/scss/_rotated-flipped.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/scss/_spinning.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/scss/_stacked.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/scss/_variables.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/scss/font-awesome.scss
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/.bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/.gitattributes
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/.gitignore
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/.jshintrc
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/composer.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/gulpfile.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/holder.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/package.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/src/augment.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/src/holder.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/src/ondomready.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/src/polyfills.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/test/.gitignore
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/test/image.jpg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/holderjs/test/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/.bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/MIT-LICENSE.txt
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/dist/jquery.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/dist/jquery.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/dist/jquery.min.map
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/ajax.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/ajax/jsonp.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/ajax/load.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/ajax/parseJSON.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/ajax/parseXML.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/ajax/script.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/ajax/var/nonce.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/ajax/var/rquery.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/ajax/xhr.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/attributes.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/attributes/attr.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/attributes/classes.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/attributes/prop.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/attributes/support.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/attributes/val.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/callbacks.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/core.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/core/access.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/core/init.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/core/parseHTML.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/core/ready.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/core/var/rsingleTag.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/css.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/css/addGetHookIf.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/css/curCSS.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/css/defaultDisplay.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/css/hiddenVisibleSelectors.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/css/support.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/css/swap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/css/var/cssExpand.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/css/var/getStyles.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/css/var/isHidden.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/css/var/rmargin.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/css/var/rnumnonpx.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/data.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/data/Data.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/data/accepts.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/data/var/data_priv.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/data/var/data_user.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/deferred.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/deprecated.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/dimensions.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/effects.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/effects/Tween.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/effects/animatedSelector.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/event.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/event/ajax.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/event/alias.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/event/support.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/exports/amd.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/exports/global.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/intro.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/jquery.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/manipulation.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/manipulation/_evalUrl.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/manipulation/support.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/manipulation/var/rcheckableType.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/offset.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/outro.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/queue.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/queue/delay.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/selector-native.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/selector-sizzle.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/selector.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/serialize.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/sizzle/dist/sizzle.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/sizzle/dist/sizzle.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/sizzle/dist/sizzle.min.map
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/traversing.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/traversing/findFilter.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/traversing/var/rneedsContext.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/var/arr.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/var/class2type.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/var/concat.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/var/hasOwn.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/var/indexOf.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/var/pnum.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/var/push.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/var/rnotwhite.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/var/slice.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/var/strundefined.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/var/support.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/var/toString.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/jquery/src/wrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/metisMenu/.bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/metisMenu/Gruntfile.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/metisMenu/LICENSE
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/metisMenu/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/metisMenu/bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/metisMenu/dist/metisMenu.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/metisMenu/dist/metisMenu.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/metisMenu/dist/metisMenu.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/metisMenu/dist/metisMenu.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/metisMenu/package.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/metisMenu/src/metisMenu.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/metisMenu/src/metisMenu.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/mocha/.bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/mocha/History.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/mocha/LICENSE
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/mocha/Readme.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/mocha/bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/mocha/media/logo.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/mocha/mocha.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/mocha/mocha.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/.bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/.gitignore
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/.travis.yml
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/Gruntfile.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/bower.travis.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/_template.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/area-as-line.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/area.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/bar-colors.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/bar-no-axes.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/bar.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/days.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/decimal-custom-hover.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/diagonal-xlabels-bar.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/diagonal-xlabels.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/donut-colors.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/donut-formatter.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/donut.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/dst.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/events.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/goals.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/lib/example.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/lib/example.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/months-no-smooth.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/negative.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/no-grid.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/non-continuous.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/non-date.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/quarters.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/resize.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/stacked_bars.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/timestamps.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/updating.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/weeks.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/examples/years.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/less/morris.core.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/lib/morris.area.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/lib/morris.bar.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/lib/morris.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/lib/morris.donut.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/lib/morris.grid.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/lib/morris.hover.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/lib/morris.line.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/morris.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/morris.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/morris.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/package.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/lib/area/area_spec.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/lib/bar/bar_spec.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/lib/bar/colours.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/lib/commas_spec.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/lib/donut/donut_spec.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/lib/grid/auto_grid_lines_spec.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/lib/grid/set_data_spec.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/lib/grid/y_label_format_spec.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/lib/hover_spec.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/lib/label_series_spec.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/lib/line/line_spec.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/lib/pad_spec.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/lib/parse_time_spec.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/specs.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/support/placeholder.coffee
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/viz/examples.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/viz/exemplary/area0.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/viz/exemplary/bar0.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/viz/exemplary/line0.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/viz/exemplary/stacked_bar0.png
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/viz/run.sh
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/viz/test.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/morrisjs/spec/viz/visual_specs.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/raphael/.bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/raphael/bower.json
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/raphael/dev/amdDev.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/raphael/dev/index.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/raphael/dev/require.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/raphael/license.txt
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/raphael/raphael-min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/raphael/raphael.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/dist/css/sb-admin-2.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/dist/css/timeline.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/dist/js/sb-admin-2.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/js/flot-data.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/js/morris-data.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/less/mixins.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/less/sb-admin-2.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/less/variables.less
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/blank.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/buttons.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/flot.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/forms.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/grid.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/icons.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/login.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/morris.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/notifications.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/panels-wells.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/tables.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/typography.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/LICENSE
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/css/bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/css/bootstrap.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/css/shop-homepage.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/fonts/glyphicons-halflings-regular.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/fonts/glyphicons-halflings-regular.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/fonts/glyphicons-halflings-regular.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/fonts/glyphicons-halflings-regular.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/fonts/glyphicons-halflings-regular.woff2
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/js/bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/js/bootstrap.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/js/jquery.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/LICENSE
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/README.md
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/css/bootstrap.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/css/bootstrap.min.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/css/shop-item.css
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/fonts/glyphicons-halflings-regular.eot
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/fonts/glyphicons-halflings-regular.svg
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/fonts/glyphicons-halflings-regular.ttf
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/fonts/glyphicons-halflings-regular.woff
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/fonts/glyphicons-halflings-regular.woff2
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/index.html
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/js/bootstrap.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/js/bootstrap.min.js
+     A New York Factory 
+Systems/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/js/jquery.js
+
+   Log Message:
+   -----------
+   Web Design flow, created a web dsign part for NY-FS wich contains the 
+flow for work in design and some templates in bootstrap
+
+
+   Commit: 115752cc787d9913dc21b19b1b6d676c23208f9f
+       
+https://github.com/jegamboafuentes/New-York-Factory-Systems/commit/115752cc787d9913dc21b19b1b6d676c23208f9f
+   Author: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+   Date:   2015-12-27 (Sun, 27 Dec 2015)
+
+   Changed paths:
+     M New York Factory 
+Systems/administration/webdesign/templates/bootsrap/nyfsTemplatesBootsrap.html
+
+   Log Message:
+   -----------
+   Page for web design
+
+
+Compare: 
+https://github.com/jegamboafuentes/New-York-Factory-Systems/compare/33e121956cce...115752cc787d

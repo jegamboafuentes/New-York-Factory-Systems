@@ -1,0 +1,207 @@
+Return-path: <jegamboafuentes@gmail.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Wed, 30 Dec 2015 10:58:01 -0700
+Received: from mail-ig0-f174.google.com ([209.85.213.174]:36046)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <jegamboafuentes@gmail.com>)
+	id 1aEL0b-001pq5-Lq
+	for hpbriffel@nyfactorysystems.com; Wed, 30 Dec 2015 10:58:01 -0700
+Received: by mail-ig0-f174.google.com with SMTP id ph11so184391304igc.1
+        for <hpbriffel@nyfactorysystems.com>; Wed, 30 Dec 2015 09:58:01 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=NNrIGgPCRJQnuhDssk+iahMN91Yyk0prGoNzNHzGRUc=;
+        b=N3mueM1Kbo2eM9WLhyX0IQcWuWGUowcg+JaiEeZBH6GavIxuiniKEjSNQEuixpIQLL
+         p5V4UH3cPGlvsHzrVYrB/X9Md3VYpwHAZTxMar/fE/E1kzj4Og/WFdcuUfigQSilCyNN
+         PT9FlIkuOnUdorKmqQGxfPvm5S9kMa5A9Hhn7fd8ZJ5bc5nCA7aKtNrtCCsoIPFLr+m2
+         de7pPH8yMDmakquBuvrS1EemC1usNlObyOPbDTNQtvIQFLfSu53t4vWM0biuV5fa1Fh7
+         I1wkwCFk4e7hA9O/kDKsj/KfujsyysixwRwPMtLIA3+p9OptwcEGUtVLT8Dz+dzx435N
+         GYAw==
+MIME-Version: 1.0
+X-Received: by 10.50.65.39 with SMTP id u7mr58664639igs.85.1451406501031; Tue,
+ 29 Dec 2015 08:28:21 -0800 (PST)
+Received: by 10.36.18.205 with HTTP; Tue, 29 Dec 2015 08:28:20 -0800 (PST)
+In-Reply-To: <1157558821.4774898.1451399358096.JavaMail.yahoo@mail.yahoo.com>
+References: <DD543FFD-F5F3-4E0F-9CA0-9622F01A3A55@gmail.com>
+	<1157558821.4774898.1451399358096.JavaMail.yahoo@mail.yahoo.com>
+Date: Tue, 29 Dec 2015 11:28:20 -0500
+Message-ID: <CABAAHFgEgF=p6iNbbbjm8neBBYMv-bydOoD7VEoySe3PFKk6RA@mail.gmail.com>
+Subject: Re: Templates --- NY Factory Systems
+From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+To: Danielle Ettl <danielle_ettl@yahoo.com>
+Cc: "Henry P. Briffel" <hpbriffel@gmail.com>, 
+	"Henry P. Briffel" <hpbriffel@nyfactorysystems.com>
+Content-Type: multipart/alternative; boundary=047d7b2e1455eb354305280be871
+
+--047d7b2e1455eb354305280be871
+Content-Type: text/plain; charset=UTF-8
+
+Hey Danielle, nice to meet you too, I'm so happy for this project, and I
+have a lot of expectations about it, I can't Monday, but I can Wednesday 6,
+what do you think guys?
+
+On Tuesday, December 29, 2015, Danielle Ettl <danielle_ettl@yahoo.com>
+wrote:
+
+> Great!  Thanks Henry and it's nice to meet you Enrique!  Any night next
+> week is fine except for Monday the 4th.  I'm starting a short term
+> freelance job and will know my schedule better after Monday/may work late
+> Monday evening. So whatever day/tine works for both of you, I will make
+> work.
+>
+> I can also provide more feedback in person.  Very much looking forward to
+> this!  Let me know and speak soon.
+> Danielle
+>
+> That's awesome advice and I agree. Enrique (cc'd) and I discussed it
+> yesterday and both of think it's a great idea...the customization part of
+> the templates, you helping with both our content and clients (I mentioned
+> the $200/hr), and potentially helping you with the second site. Enrique is
+> working with the designers directly, so we should all meet next week to
+> discuss all the ways we can help each other --- the logistics and details
+> of production. We are adding a section to our site that will feature some
+> of our work. Sound good? Let me know of some good times (preferably in the
+> evening Bc of Enrique's schedule at Goldman). I also have an email now too
+> for NYFS.
+>
+> Thanks!
+>
+> Sent from my iPhone
+>
+> On Dec 29, 2015, at 9:01 AM, Danielle Ettl <danielle_ettl@yahoo.com
+> <javascript:_e(%7B%7D,'cvml','danielle_ettl@yahoo.com');>> wrote:
+>
+> Morning!
+>
+> Sorry I didn't respond last night; but finally taking a look at these
+> now!  I love the entire concept!  You've offered a robust number of
+> templates as well.  Not sure if you want my comments or at what part of
+> development you're in.
+>
+> Bootstrap the first one, is great for little LLCs like mine.  The other
+> templates all seem very similar, so perhaps they need to be built out more
+> to help people conceptualize what the different templates are capable for
+> build out.  Also, are you using wordpress?  From what I understand, that's
+> the most flexible platform.
+>
+> As discussed I would love the opportunity to help your clients with
+> content; I would also be happy to help you with yours if you need.  I can
+> send over one of my contracts so we can agree on rates and what % you would
+> get.  I also have an SOW for each client....whatever I can do to help, I'm
+> happy too-exciting times for both of us!!!
+>
+> Let me know what you think and next steps.  Look forward to speaking again
+> soon
+> Danielle
+>
+>
+>
+> ------------------------------
+> *From:* Henry Briffel <hpbriffel@gmail.com
+> <javascript:_e(%7B%7D,'cvml','hpbriffel@gmail.com');>>
+> *To:* Danielle Ettl <Danielle_Ettl@yahoo.com
+> <javascript:_e(%7B%7D,'cvml','Danielle_Ettl@yahoo.com');>>
+> *Sent:* Monday, December 28, 2015 2:41 PM
+> *Subject:* Templates --- NY Factory Systems
+>
+>
+> http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/nyfsTemplatesBootsrap.html
+>
+> Click into each template to see mock ups. Thanks!
+>
+>
+>
+>
+>
+
+-- 
+Enrique Gamboa
+646 830 3874
+
+--047d7b2e1455eb354305280be871
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey Danielle, nice to meet you too, I&#39;m so happy for this project, and =
+I have a lot of expectations about it, I can&#39;t Monday, but I can Wednes=
+day 6, what do you think guys?=C2=A0<span></span><br><br>On Tuesday, Decemb=
+er 29, 2015, Danielle Ettl &lt;<a href=3D"mailto:danielle_ettl@yahoo.com">d=
+anielle_ettl@yahoo.com</a>&gt; wrote:<br><blockquote class=3D"gmail_quote" =
+style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><di=
+v><div style=3D"color:#000;background-color:#fff;font-family:HelveticaNeue,=
+Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;font-size:12px"><di=
+v><span></span></div><div>Great!=C2=A0 Thanks Henry and it&#39;s nice to me=
+et you=C2=A0Enrique!=C2=A0 Any night next week is fine except for Monday th=
+e 4th.=C2=A0 I&#39;m starting a short term freelance job and will know my s=
+chedule better after Monday/may work late Monday evening. So whatever day/t=
+ine works for both of you, I will make work.</div><div><br></div><div>I can=
+ also provide more feedback in person.=C2=A0 Very much looking=C2=A0forward=
+ to this!=C2=A0 Let me know and speak soon.</div><div>Danielle<br></div><di=
+v style=3D"display:block"><div style=3D"font-family:HelveticaNeue,Helvetica=
+ Neue,Helvetica,Arial,Lucida Grande,sans-serif;font-size:12px"><div style=
+=3D"font-family:HelveticaNeue,Helvetica Neue,Helvetica,Arial,Lucida Grande,=
+sans-serif;font-size:16px"> <div><br><div><div><div>That&#39;s awesome advi=
+ce and I agree. Enrique (cc&#39;d) and I discussed it yesterday and both of=
+ think it&#39;s a great idea...the customization part of the templates, you=
+ helping with both our content and clients (I mentioned the $200/hr), and p=
+otentially helping you with the second site. Enrique is working with the de=
+signers directly, so we should all meet next week to discuss all the ways w=
+e can help each other --- the logistics and details of production. We are a=
+dding a section to our site that will feature some of our work. Sound good?=
+ Let me know of some good times (preferably in the evening Bc of Enrique&#3=
+9;s schedule at Goldman). I also have an email now too for NYFS.=C2=A0</div=
+><div><br clear=3D"none"></div><div>Thanks!=C2=A0<br clear=3D"none"><br cle=
+ar=3D"none">Sent from my iPhone</div><div><div><br clear=3D"none">On Dec 29=
+, 2015, at 9:01 AM, Danielle Ettl &lt;<a href=3D"javascript:_e(%7B%7D,&#39;=
+cvml&#39;,&#39;danielle_ettl@yahoo.com&#39;);" rel=3D"nofollow" shape=3D"re=
+ct" target=3D"_blank">danielle_ettl@yahoo.com</a>&gt; wrote:<br clear=3D"no=
+ne"><br clear=3D"none"></div><blockquote type=3D"cite"><div><div style=3D"c=
+olor:rgb(0,0,0);font-family:HelveticaNeue,Helvetica Neue,Helvetica,Arial,Lu=
+cida Grande,sans-serif;font-size:12px;background-color:rgb(255,255,255)"><d=
+iv><span></span></div><div>Morning!=C2=A0 </div><div><br clear=3D"none"></d=
+iv><div>Sorry I didn&#39;t respond last night; but finally taking a look at=
+ these now!=C2=A0=C2=A0I love the entire concept!=C2=A0 You&#39;ve offered =
+a robust number of templates as well.=C2=A0 Not sure if you want my comment=
+s or at what part=C2=A0of development you&#39;re in.=C2=A0=C2=A0</div><div>=
+<br clear=3D"none"></div><div>Bootstrap the first one, is great for little =
+LLCs like mine.=C2=A0 The other templates all seem very similar, so perhaps=
+ they need to be built out more to help people conceptualize=C2=A0what the =
+different templates are capable for build out.=C2=A0 Also, are you using wo=
+rdpress?=C2=A0 From what I understand, that&#39;s the most flexible platfor=
+m.</div><div><br clear=3D"none"></div><div>As discussed I would love the op=
+portunity to help your clients with content; I would also be happy to help =
+you with yours if you need.=C2=A0 I can send over one of my contracts so we=
+ can agree on rates and what % you would get.=C2=A0 I also have an SOW for =
+each client....whatever I can do to help, I&#39;m happy too-exciting times =
+for both of us!!!</div><div><br clear=3D"none"></div><div dir=3D"ltr">Let m=
+e know what you think and next steps.=C2=A0 Look forward to speaking again =
+soon</div><div dir=3D"ltr">Danielle<br clear=3D"none">=C2=A0</div><div><br =
+clear=3D"none"><br clear=3D"none"></div><div style=3D"display:block">  <div=
+ style=3D"font-family:HelveticaNeue,Helvetica Neue,Helvetica,Arial,Lucida G=
+rande,sans-serif;font-size:12px"> <div style=3D"font-family:HelveticaNeue,H=
+elvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;font-size:16px"> <di=
+v dir=3D"ltr"> <font face=3D"Arial" size=3D"2"> </font><hr size=3D"1"> <b><=
+span style=3D"font-weight:bold">From:</span></b> Henry Briffel &lt;<a href=
+=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;hpbriffel@gmail.com&#39;);" re=
+l=3D"nofollow" shape=3D"rect" target=3D"_blank">hpbriffel@gmail.com</a>&gt;=
+<br clear=3D"none"> <b><span style=3D"font-weight:bold">To:</span></b> Dani=
+elle Ettl &lt;<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;Danielle_=
+Ettl@yahoo.com&#39;);" rel=3D"nofollow" shape=3D"rect" target=3D"_blank">Da=
+nielle_Ettl@yahoo.com</a>&gt; <br clear=3D"none"> <b><span style=3D"font-we=
+ight:bold">Sent:</span></b> Monday, December 28, 2015 2:41 PM<br clear=3D"n=
+one"> <b><span style=3D"font-weight:bold">Subject:</span></b> Templates ---=
+ NY Factory Systems<br clear=3D"none">  </div> <div><br clear=3D"none"><div=
+><div style=3D"white-space:pre-wrap"><a href=3D"http://nyfactorysystems.com=
+/administration/webdesign/templates/bootsrap/nyfsTemplatesBootsrap.html" re=
+l=3D"nofollow" shape=3D"rect" target=3D"_blank">http://nyfactorysystems.com=
+/administration/webdesign/templates/bootsrap/nyfsTemplatesBootsrap.html</a>=
+<br clear=3D"none"><br clear=3D"none">Click into each template to see mock =
+ups. Thanks! </div></div><br clear=3D"none"><br clear=3D"none"></div> </div=
+> </div>  </div></div></div></blockquote></div></div></div><br><br></div> <=
+/div> </div>  </div></div></div></blockquote><br><br>-- <br>Enrique Gamboa<=
+br>646 830 3874<br>
+
+--047d7b2e1455eb354305280be871--

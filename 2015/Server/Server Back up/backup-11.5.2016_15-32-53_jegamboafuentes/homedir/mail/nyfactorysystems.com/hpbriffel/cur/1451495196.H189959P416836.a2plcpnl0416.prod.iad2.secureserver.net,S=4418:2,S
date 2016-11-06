@@ -1,0 +1,87 @@
+Return-path: <hpbriffel@gmail.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Wed, 30 Dec 2015 10:06:36 -0700
+Received: from mail-io0-f169.google.com ([209.85.223.169]:32929)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <hpbriffel@gmail.com>)
+	id 1aEKCq-001kQo-3L; Wed, 30 Dec 2015 10:06:36 -0700
+Received: by mail-io0-f169.google.com with SMTP id q21so73152575iod.0;
+        Wed, 30 Dec 2015 09:06:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to
+         :content-type;
+        bh=ATRys2azSkcp9hAwNYUbUtw8aY64c1pu4bAtcbuFLfU=;
+        b=S6MkDCTzENpifr8Jghkx/V83chRocH3ktYt73Tz+iBLVRL/asC94dKas1yWhRVYPWM
+         yPEkTEQ5oIfTSAoyiBnbE8SRB2JNpzZyAoui0LRNVLB1HdGVBWX6qm4SeHeS0hdgkeaY
+         PbApBaX33b8nsRDf98Emf4zT9nSc17IHcCoiLvlmOI2rBUiubWzgi9YlIYrmo6e2MrYl
+         z7D2/Gfm/Q9gnqhnSZ1GdYoHaViDzbDzJTJ8jNYVEgpcKC9ABCPUN8GZOUIM5fO5/1Pb
+         vGGMN2RpVthQ/QF5CQjoyD1ZPJdoxMqbcrL/AhkipLf30mXe3ygKTgkMR+lVZ+2PNQNH
+         mwgw==
+X-Received: by 10.107.32.209 with SMTP id g200mr48780219iog.39.1451333909808;
+ Mon, 28 Dec 2015 12:18:29 -0800 (PST)
+MIME-Version: 1.0
+References: <BAY178-W29A714E00EA64078BD9BB586FB0@phx.gbl> <86633819-DEC9-4EC5-8275-4BF1C11D5BC9@nyfactorysystems.com>
+In-Reply-To: <86633819-DEC9-4EC5-8275-4BF1C11D5BC9@nyfactorysystems.com>
+From: Henry Briffel <hpbriffel@gmail.com>
+Date: Mon, 28 Dec 2015 20:18:19 +0000
+Message-ID: <CAPw96TZBK0Z5pZA6B_rPiR0OEVt-bpiV1WsV8Bu1QJ0uvXZw5Q@mail.gmail.com>
+Subject: Re: NYFS Proposal
+To: "sales@nyfactorysystems.com" <sales@nyfactorysystems.com>, 
+	Enrique Gamboa - New York Factory Systems <enrique.gamboa@nyfactorysystems.com>, hpbriffel@nyfactorysystems.com
+Content-Type: multipart/alternative; boundary=001a1140cd062533880527fb0210
+
+--001a1140cd062533880527fb0210
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+I'll look at it with Enrique when he gets here. Great work thanks Jorge!
+On Mon, Dec 28, 2015 at 3:04 PM sales@nyfactorysystems.com <
+sales@nyfactorysystems.com> wrote:
+
+>
+> Hey Guys,
+>
+> Here is the template of the upcoming proposals you both need to read it
+> all and change the things that aren=C2=B4t correct specially you Henry!
+>
+> Let me know what you think.
+>
+>
+>
+
+--001a1140cd062533880527fb0210
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+I&#39;ll look at it with Enrique when he gets here. Great work thanks Jorge=
+! <br><div class=3D"gmail_quote"><div dir=3D"ltr">On Mon, Dec 28, 2015 at 3=
+:04 PM <a href=3D"mailto:sales@nyfactorysystems.com">sales@nyfactorysystems=
+.com</a> &lt;<a href=3D"mailto:sales@nyfactorysystems.com">sales@nyfactorys=
+ystems.com</a>&gt; wrote:<br></div><blockquote class=3D"gmail_quote" style=
+=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=
+=3D"auto"><div><span></span></div><div><div><br></div><div><span></span></d=
+iv><blockquote type=3D"cite"><div>
+
+
+<div dir=3D"ltr"><font face=3D"Franklin Gothic Medium,sans-serif" size=3D"3=
+" style=3D"font-size:12pt" color=3D"#000000">Hey Guys,</font><div><font fac=
+e=3D"Franklin Gothic Medium,sans-serif" size=3D"3" style=3D"font-size:12pt"=
+ color=3D"#000000"><br></font></div><div><font face=3D"Franklin Gothic Medi=
+um,sans-serif" size=3D"3" style=3D"font-size:12pt" color=3D"#000000">Here i=
+s the template of the upcoming proposals you both need to read it all and c=
+hange the things that aren=C2=B4t correct specially you Henry!</font></div>=
+<div><font face=3D"Franklin Gothic Medium,sans-serif" size=3D"3" style=3D"f=
+ont-size:12pt" color=3D"#000000"><br></font></div><div><font face=3D"Frankl=
+in Gothic Medium,sans-serif" size=3D"3" style=3D"font-size:12pt" color=3D"#=
+000000">Let me know what you think.</font></div><div><font face=3D"Franklin=
+ Gothic Medium,sans-serif" size=3D"3" style=3D"font-size:12pt" color=3D"#00=
+0000"><br></font></div><div><font face=3D"Franklin Gothic Medium,sans-serif=
+" size=3D"3" style=3D"font-size:12pt" color=3D"#000000"><br></font></div> 	=
+	 	   		  </div>
+</div></blockquote><blockquote type=3D"cite"><div></div></blockquote></div>=
+</div><div dir=3D"auto"><div><blockquote type=3D"cite"><div></div></blockqu=
+ote></div></div></blockquote></div>
+
+--001a1140cd062533880527fb0210--

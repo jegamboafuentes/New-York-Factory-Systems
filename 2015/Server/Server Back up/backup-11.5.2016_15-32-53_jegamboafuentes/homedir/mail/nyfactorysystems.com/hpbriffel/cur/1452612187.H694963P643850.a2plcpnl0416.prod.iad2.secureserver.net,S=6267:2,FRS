@@ -1,0 +1,137 @@
+Return-path: <salvatore.diana@salvatones.org>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Tue, 12 Jan 2016 08:23:07 -0700
+Received: from mail-lf0-f48.google.com ([209.85.215.48]:34365)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <salvatore.diana@salvatones.org>)
+	id 1aJ0mp-002hTI-HH
+	for hpbriffel@nyfactorysystems.com; Tue, 12 Jan 2016 08:23:07 -0700
+Received: by mail-lf0-f48.google.com with SMTP id 17so34334399lfz.1
+        for <hpbriffel@nyfactorysystems.com>; Tue, 12 Jan 2016 07:23:07 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=salvatones-org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :content-type;
+        bh=GL7uwJBDuoh4lQkA3Aj9DsruYvx0EjxcnSQ+OW3bRzI=;
+        b=mRBOXZt/XhjDpGyRoBXKsceNccT2qyd2D6P2xX34HNDhsymMnvu2g2T6cEnWNsfL0r
+         oUG42mWO0LDr9ZkqZxbZKuhUr3crwCVWVyQ5xjEArvGoOrSYj+Jm0Y6g8wK1GZ47cv5M
+         A4w+oJctVuv4fy/H03ZWYXirINWGVOyjbpuUMNVfb2aGTdT8IbuSgu25Rd8bW8S53J87
+         Yk2nY0jKKdv7sVU3l5cHc0ApyJ+ba37xXn5RZdFjqsAs3VGpxJqPZJYpuyBr68J8urdI
+         f+eJsjFUHGSfgx73zk7hJj0oZAWb950L8yPoEFtUwiS5hgl9W5TiVdw9W5UK9JsA8CWJ
+         kI7A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:content-type;
+        bh=GL7uwJBDuoh4lQkA3Aj9DsruYvx0EjxcnSQ+OW3bRzI=;
+        b=gqEv4qe9EOYqL3VTO9AIxGtb173746n8+Jv7R6z68ajiOQKYss9yy1FdHNSyFufsGD
+         58WZ+RKci5sKn8h85jMGInqPKaZQjKibWymSA9FmL9OZjAAO6r6GaHxhiJY8xN5bSb9k
+         /lUu+v8f2dfr/V6kRJiIbfIm3XOkd+yyofKtBajhFO7FeN+p3pYekc6u8ub5arCuZg5i
+         hkHL8wo7RvHzPSVujx4qW6XZosH2bSMBoZ8aYnAUlEcOdjpHHG9zYFiWApAsXsIMQ8Cu
+         Pz5BeOkiTezui78TrdmXJHm5nJBePiDJ6HIA/mcxZO7n64eQ4B/kvz+UMKjLjXfKRx/v
+         pXBg==
+X-Gm-Message-State: ALoCoQmGsLmcnrzjKPPcPrKkz7nIH2MWvvzdIKWaenooY1PQb39MxaB0+VUJJvU7RaFOkmX33Dt+k2x82ToJp3N3IJtx8rvnBQ==
+X-Received: by 10.25.85.136 with SMTP id j130mr15022124lfb.9.1452612181004;
+ Tue, 12 Jan 2016 07:23:01 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.25.132.6 with HTTP; Tue, 12 Jan 2016 07:22:21 -0800 (PST)
+In-Reply-To: <D7044346-8F1A-431A-8964-064BD7FC6D89@nyfactorysystems.com>
+References: <D7044346-8F1A-431A-8964-064BD7FC6D89@nyfactorysystems.com>
+From: Salvatore Diana <salvatore.diana@salvatones.org>
+Date: Tue, 12 Jan 2016 10:22:21 -0500
+Message-ID: <CAFvmuY=VzFE-AfFZX477DuVkbgw3wVed7ZxCyNFjqqN1g8TH6w@mail.gmail.com>
+Subject: Re: proposal // NYFS
+To: "Henry P. Briffel" <hpbriffel@nyfactorysystems.com>
+Content-Type: multipart/alternative; boundary=001a11412f5c0bb589052924a11f
+
+--001a11412f5c0bb589052924a11f
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Henry,
+
+Thank you for this. I will review this and let you know if I have any
+preliminary questions or feedback before I share with the board. We have a
+meeting on Monday after which I will have collective feedback.
+
+Best,
+
+Sal
+
+On Mon, Jan 11, 2016 at 7:24 PM, Henry P. Briffel <
+hpbriffel@nyfactorysystems.com> wrote:
+
+> Hi Sal - Attached is the proposal we discussed. Please review it with you=
+r
+> board and let us know what you think.
+>
+> Thanks!
+>
+> Henry P. Briffel
+> New York Factory Systems
+> 323-813-4159 mobile
+> hpbriffel@nyfactorysystems.com
+>
+>
+
+
+--=20
+
+*Salvatore Diana* =E2=80=A2 *President**/CEO*
+
+
+
+
+
+*a 501(c)(3) organization+1 212-784-6176 <http://goog_189844809>
+<http://goog_189844809>*
+
+*salvatones.org <http://salvatones.org>*
+
+--001a11412f5c0bb589052924a11f
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><div>Henry,<br><br></div>Thank you for this. I w=
+ill review this and let you know if I have any preliminary questions or fee=
+dback before I share with the board. We have a meeting on Monday after whic=
+h I will have collective feedback. <br><br></div>Best,<br><br></div>Sal<br>=
+</div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">On Mon, Jan=
+ 11, 2016 at 7:24 PM, Henry P. Briffel <span dir=3D"ltr">&lt;<a href=3D"mai=
+lto:hpbriffel@nyfactorysystems.com" target=3D"_blank">hpbriffel@nyfactorysy=
+stems.com</a>&gt;</span> wrote:<br><blockquote class=3D"gmail_quote" style=
+=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">Hi Sal -=
+ Attached is the proposal we discussed. Please review it with your board an=
+d let us know what you think.<br>
+<br>
+Thanks!<br>
+<span class=3D"HOEnZb"><font color=3D"#888888"><br>
+Henry P. Briffel<br>
+New York Factory Systems<br>
+<a href=3D"tel:323-813-4159" value=3D"+13238134159">323-813-4159</a>=C2=A0m=
+obile<br>
+<a href=3D"mailto:hpbriffel@nyfactorysystems.com">hpbriffel@nyfactorysystem=
+s.com</a><br>
+<br>
+</font></span></blockquote></div><br><br clear=3D"all"><br>-- <br><div clas=
+s=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=
+=3D"ltr"><div><p style=3D"line-height:1.15;margin-top:0pt;margin-bottom:0pt=
+"><span style=3D"color:rgb(153,153,153)"><span style=3D"font-family:Arial;v=
+ertical-align:baseline;white-space:pre-wrap;background-color:transparent"><=
+b>Salvatore Diana</b> =E2=80=A2 <i>President</i></span></span><i style=3D"f=
+ont-family:Arial;white-space:pre-wrap;color:rgb(153,153,153);line-height:1.=
+15">/CEO</i></p><img src=3D"https://docs.google.com/uc?export=3Ddownload&am=
+p;id=3D0B1-1pbSX5CnmWUE4YW56eUlmekE&amp;revid=3D0B1-1pbSX5CnmbllwMmh3VWtPND=
+dpN0RYa0xoSE5wanVCa0RZPQ" height=3D"33" width=3D"200"><br></div><div><span =
+style=3D"font-family:Arial;vertical-align:baseline;white-space:pre-wrap;bac=
+kground-color:transparent"><i><font color=3D"#999999">a 501(c)(3) organizat=
+ion<br><br><a href=3D"http://goog_189844809" target=3D"_blank">+1 212-784-6=
+176</a><br><br><a href=3D"http://goog_189844809" target=3D"_blank"></a></fo=
+nt></i></span></div><div><span style=3D"font-family:Arial;vertical-align:ba=
+seline;white-space:pre-wrap;background-color:transparent"><i><font color=3D=
+"#999999"><a href=3D"http://salvatones.org" target=3D"_blank">salvatones.or=
+g</a><br></font></i></span></div></div></div></div></div></div></div>
+</div>
+
+--001a11412f5c0bb589052924a11f--

@@ -1,0 +1,138 @@
+Return-path: <ezviah@gmail.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Tue, 03 May 2016 07:13:54 -0700
+Received: from mail-lf0-f47.google.com ([209.85.215.47]:34226)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <ezviah@gmail.com>)
+	id 1axb5G-003JbA-Gd
+	for hpbriffel@nyfactorysystems.com; Tue, 03 May 2016 07:13:54 -0700
+Received: by mail-lf0-f47.google.com with SMTP id m64so23493632lfd.1
+        for <hpbriffel@nyfactorysystems.com>; Tue, 03 May 2016 07:13:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc;
+        bh=KXvDxyrcm/s0guJHj+sksq7SmPDT3UlP2Hugsam7tvk=;
+        b=bct54PIlRVoX12XGQDstHKdfSZTgBQJ1DVkZBLNuWkoYT7JaI9HrJQzpkVWGsu4i6c
+         oCAw4/imxLBLjOBK3BTJIJMeU9SJyxh3aoLul1WBIKdyvSYfwgx0Tg7EqxVqLu7q5xfB
+         Ud+MaS/ER8mQl3MEEKEu65SgWbn1I12+HsZBWY97GhW6nWU3WNJwzz/dyl35UrAWY3bk
+         JXocB7I/mSoHDKN8lITBwiLmuKJDO0sIu97bWYIcxRgRtHlFvVlGCebYGqF6LdvP9D87
+         +hhgGbGS/zQMLupVHCYjt+kE2z+UQrZdRzFi/PW4votCG4ZoO0H4cjLyWGFrNdwaBJ+E
+         KL4Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:cc;
+        bh=KXvDxyrcm/s0guJHj+sksq7SmPDT3UlP2Hugsam7tvk=;
+        b=lc/sjvifSBeSCliiROyjrjjqmXkzZvyzfN4/oRo2A9u1CFOBumhjuOgm7AM3al2IRH
+         YA6+J7HUCrIPvLfVMvHl+luYofYnREyRVVSGlYJruiABRobC+CT4L25XkcrvxgStCFcj
+         XgC0RoLrbo5n9SFcRi7br5B1Wbg92ZcNvXutHKpdU03OdoOZiqsvdDMS2aXoL/vb1mAk
+         1PdskVkQPHJsIX/3aIUnmBjucJY3yiQJBYZlXgxU8uLKsGGbsN2RbDUoUYXkMsR4DEjo
+         /kHBkavz/m8P7kBzrN+4tGKO8oNqOufMBTN7s4ZJD1psmAjC7jDPEL6YQLBCAKcWoQ+i
+         j2Og==
+X-Gm-Message-State: AOPr4FX03s7juQb2OHOQmP//vA4YaTzXjYp7ZMqEKZrJSmYXSkn2FXd3UhfQD6ro6dW2MXl50Pv3wexoE34vJA==
+MIME-Version: 1.0
+X-Received: by 10.25.18.217 with SMTP id 86mr1096815lfs.107.1462284833231;
+ Tue, 03 May 2016 07:13:53 -0700 (PDT)
+Received: by 10.112.39.11 with HTTP; Tue, 3 May 2016 07:13:53 -0700 (PDT)
+In-Reply-To: <CAMJY=0z8_dkfidE8xyGKSJhbVuqoC28T8OQwUr66puSduhMv9g@mail.gmail.com>
+References: <CAMJY=0z8_dkfidE8xyGKSJhbVuqoC28T8OQwUr66puSduhMv9g@mail.gmail.com>
+Date: Tue, 3 May 2016 10:13:53 -0400
+Message-ID: <CANE3DfPkVTuvsb+FKs3A_nw1M=Ae4eCiQRBuC6iYm=qmTmTjLg@mail.gmail.com>
+Subject: Re: Introductions: Zviah Eldar meet Henry Putnam Briffel
+From: Zviah Eldar <ezviah@gmail.com>
+To: Salvatore Diana <salvatorediana1@gmail.com>
+Cc: "Henry P. Briffel" <hpbriffel@nyfactorysystems.com>
+Content-Type: multipart/alternative; boundary=001a114064380b9df20531f0b84f
+
+--001a114064380b9df20531f0b84f
+Content-Type: text/plain; charset=UTF-8
+
+Thank you Sal.
+Hi Henry.
+My partners and I started a new venture. We would like to meet with you to
+explore marketing solutions to get buyers and sellers of small businesses
+to use our platform.
+Best regards,
+Zviah Eldar
+
+
+
+On Sun, May 1, 2016 at 5:20 PM, Salvatore Diana <salvatorediana1@gmail.com>
+wrote:
+
+> Henry,
+>
+> In addition to being a close friend and fellow Salvatones board member,
+> Zviah is a seasoned business leader, entrepreneur and creative marketing
+> guru. In short, everything she touches turns to gold and her business
+> acumen is sought out the world over. Her new venture is quite promising and
+> she's working with partners who equally matched in knowledge, experience,
+> and ingenuity.
+>
+>
+> Zviah,
+>
+> Allow me to introduce you to Henry, a marketing, communications and
+> vendor relations specialist. He has extensive experience in developing
+> sales channel strategies, corporate branding and digital solutions as well
+> as custom-tailored digital marketing and visibility solutions. This doesn't
+> even scratch the surface in describing his skills. I'll let him handle that.
+>
+>
+> I'll leave the rest to the two of you to connect over.
+>
+>
+> Cheers,
+>
+> Sal
+>
+>
+
+--001a114064380b9df20531f0b84f
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:garamond=
+,serif">Thank you Sal.<br></div><div class=3D"gmail_default" style=3D"font-=
+family:garamond,serif">Hi Henry.<br></div><div class=3D"gmail_default" styl=
+e=3D"font-family:garamond,serif">My partners and I started a new venture. W=
+e would like to meet with you to explore marketing solutions to get buyers =
+and sellers of small businesses to use our platform.</div><div class=3D"gma=
+il_default" style=3D"font-family:garamond,serif">Best regards,</div><div cl=
+ass=3D"gmail_default" style=3D"font-family:garamond,serif">Zviah Eldar</div=
+><div class=3D"gmail_default" style=3D"font-family:garamond,serif"><br></di=
+v><div class=3D"gmail_default" style=3D"font-family:garamond,serif"><br></d=
+iv></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">On Sun, =
+May 1, 2016 at 5:20 PM, Salvatore Diana <span dir=3D"ltr">&lt;<a href=3D"ma=
+ilto:salvatorediana1@gmail.com" target=3D"_blank">salvatorediana1@gmail.com=
+</a>&gt;</span> wrote:<br><blockquote class=3D"gmail_quote" style=3D"margin=
+:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr"><=
+div class=3D"gmail_default" style=3D"font-family:arial,helvetica,sans-serif=
+">
+
+
+
+
+
+
+
+<p><span>Henry,=C2=A0</span></p><p><span>In addition to being a close frien=
+d and fellow Salvatones board member, Zviah is a seasoned business leader, =
+entrepreneur and creative marketing guru. In short, everything she touches =
+turns to gold and her business acumen is sought out the world over. Her new=
+ venture is quite promising and she&#39;s working with partners who equally=
+ matched in knowledge, experience, and ingenuity.=C2=A0</span></p><p><span>=
+<br></span></p><p><span>Zviah,</span></p>
+<p><span>Allow me to introduce you to Henry, a</span><span>=C2=A0marketing,=
+ communications and vendor relations specialist. He has extensive experienc=
+e in developing sales channel strategies, corporate branding and digital so=
+lutions as well as=C2=A0custom-tailored digital marketing and visibility so=
+lutions. This doesn&#39;t even scratch the surface in describing his skills=
+. I&#39;ll let him handle that.</span></p><p><span><br></span></p><p>I&#39;=
+ll leave the rest to the two of you to connect over.=C2=A0</p><p><br></p><p=
+>Cheers,</p><p>Sal</p><p><span></span></p></div></div>
+</blockquote></div><br></div>
+
+--001a114064380b9df20531f0b84f--

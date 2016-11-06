@@ -1,0 +1,85 @@
+Return-path: <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Sat, 30 Jan 2016 15:26:53 -0700
+Received: from m69-169.mailgun.net ([166.78.69.169]:55157)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtp (Exim 4.85)
+	(envelope-from <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>)
+	id 1aPdyn-001EN7-Bv
+	for hpbriffel@nyfactorysystems.com; Sat, 30 Jan 2016 15:26:53 -0700
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=github.com; q=dns/txt;
+ s=mailo; t=1454192792; h=Content-Transfer-Encoding: Content-Type:
+ Mime-Version: Subject: Message-ID: To: Reply-To: From: Date: Sender;
+ bh=358vl7dRtXdAh922QQRn3/jARek2Zbzxhq3byN8JE1Y=; b=wdLy6Ad/O1GPsqtOA0VqYKH6t+2pdfMSNQqJ+rbgPVLmFB4YqkF8lgn0vAKL1l/68sFnCbUd
+ QieJ7BXYQz0wzJyhreidcmIgv9XxvnGa0WmCrlGWgJqf2yUIJSZsED3A9CMysuEzxx1Y1MOO
+ 3JBgyV2NxptpAAqf4LkeYQz/dR4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=github.com; s=mailo; q=dns;
+ h=Sender: Date: From: Reply-To: To: Message-ID: Subject: Mime-Version:
+ Content-Type: Content-Transfer-Encoding;
+ b=HiLEnLGPBzv1pB1oNcCI3UIpFMIDGZcRMul9sO7O+XHW1OcIaVIrr4ovWse8kEFwWO9EYB
+ SkBN/S6TQtPrNK16Lk9QWvYorrZ31qYnNTEWQvhtgjDplZOvEPdTqiRuKym7iTemkMzEf3ao
+ TzGM/4gf9GRq+YJhv1uGQ3g4YiJXk=
+Sender: jegamboafuentes=gmail.com@github.com
+X-Mailgun-Sid: WyI4OWEzZSIsICJocGJyaWZmZWxAbnlmYWN0b3J5c3lzdGVtcy5jb20iLCAiNDBmIl0=
+Received: from github.com (Unknown [192.30.252.40])
+ by mxa.mailgun.org with ESMTP id 56ad3898.49670f0-in07;
+ Sat, 30 Jan 2016 22:26:32 -0000 (UTC)
+Date: Sat, 30 Jan 2016 14:26:32 -0800
+From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+Reply-To: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+To: hpbriffel@nyfactorysystems.com
+Message-ID: <56ad3898b26c8_68263fa66bf9b2c0697e5@hookshot-fe6-cp1-prd.iad.github.net.mail>
+Subject: [jegamboafuentes/New-York-Factory-Systems] 5a2133: Cnages in clientes
+ platform, in frontend, and enab...
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="--==_mimepart_56ad3898b1f99_68263fa66bf9b2c0696e8";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_56ad3898b1f99_68263fa66bf9b2c0696e8
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+  Branch: refs/heads/master
+  Home:   https://github.com/jegamboafuentes/New-York-Factory-Systems
+  Commit: 5a2133f0547396eb5edb5f30845b1a0b1e6d5e71
+      https://github.com/jegamboafuentes/New-York-Factory-Systems/commit/5a2133f0547396eb5edb5f30845b1a0b1e6d5e71
+  Author: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+  Date:   2016-01-30 (Sat, 30 Jan 2016)
+
+  Changed paths:
+    M .gitignore
+    A New York Factory Systems/clients/everydaynewyorker/main/LICENSE
+    A New York Factory Systems/clients/everydaynewyorker/main/README.md
+    A New York Factory Systems/clients/everydaynewyorker/main/css/bootstrap.css
+    A New York Factory Systems/clients/everydaynewyorker/main/css/bootstrap.min.css
+    A New York Factory Systems/clients/everydaynewyorker/main/css/scrolling-nav.css
+    A New York Factory Systems/clients/everydaynewyorker/main/fonts/glyphicons-halflings-regular.eot
+    A New York Factory Systems/clients/everydaynewyorker/main/fonts/glyphicons-halflings-regular.svg
+    A New York Factory Systems/clients/everydaynewyorker/main/fonts/glyphicons-halflings-regular.ttf
+    A New York Factory Systems/clients/everydaynewyorker/main/fonts/glyphicons-halflings-regular.woff
+    A New York Factory Systems/clients/everydaynewyorker/main/fonts/glyphicons-halflings-regular.woff2
+    A New York Factory Systems/clients/everydaynewyorker/main/index.html
+    A New York Factory Systems/clients/everydaynewyorker/main/js/bootstrap.js
+    A New York Factory Systems/clients/everydaynewyorker/main/js/bootstrap.min.js
+    A New York Factory Systems/clients/everydaynewyorker/main/js/jquery.easing.min.js
+    A New York Factory Systems/clients/everydaynewyorker/main/js/jquery.js
+    A New York Factory Systems/clients/everydaynewyorker/main/js/scrolling-nav.js
+    A New York Factory Systems/clients/everydaynewyorker/main/nbproject/project.properties
+    A New York Factory Systems/clients/everydaynewyorker/main/nbproject/project.xml
+    M New York Factory Systems/sub/clients/bdconexion/prod/sqlConnection.php
+    M New York Factory Systems/sub/clients/bdconexion/sqlConnection.php
+    A New York Factory Systems/sub/clients/configurations.php
+    M New York Factory Systems/sub/clients/index.php
+    R New York Factory Systems/sub/clients/login.php
+    M New York Factory Systems/sub/clients/menu/index.php
+
+  Log Message:
+  -----------
+  Cnages in clientes platform, in frontend, and enable the buttom for auto pointing at the web page of client
+
+
+
+----==_mimepart_56ad3898b1f99_68263fa66bf9b2c0696e8--

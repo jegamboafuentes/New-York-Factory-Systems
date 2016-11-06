@@ -1,0 +1,112 @@
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-2EEA97D6-BEDB-4FEB-8783-EB9B4E051D80
+Content-Transfer-Encoding: 7bit
+From: Enrique Gamboa - New York Factory Systems <enrique.gamboa@nyfactorysystems.com>
+Mime-Version: 1.0 (1.0)
+Date: Thu, 24 Dec 2015 09:11:42 -0500
+Subject: Fwd: [jegamboafuentes/New-York-Factory-Systems] 33e121: Changes in the spelling, grammar and onther stuffs
+Bcc: Enrique Gamboa - New York Factory Systems <enrique.gamboa@nyfactorysystems.com>
+References: <567bf7b636757_1a113ffb170252b877866@hookshot-fe2-cp1-prd.iad.github.net.mail>
+To: "Henry P. Briffel" <hpbriffel@gmail.com>,
+ Jorge Megia <jorge_m68@hotmail.com>
+Message-Id: <885183C0-1AAC-4DA8-B4E0-B5B52050142D@nyfactorysystems.com>
+
+
+--Apple-Mail-2EEA97D6-BEDB-4FEB-8783-EB9B4E051D80
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Hello Guys, I made some changes in the web page, spelling and grammar issues=
+ detected by Henry, let me know if you find more errors.
+
+Good luck today with the client Henry.
+
+Regards.=20
+
+Enrique Gamboa
+New York Factory Systems=20
+
+Begin forwarded message:
+
+> From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+> Date: December 24, 2015 at 8:48:38 AM EST
+> To: enrique.gamboa@nyfactorysystems.com
+> Subject: [jegamboafuentes/New-York-Factory-Systems] 33e121: Changes in the=
+ spelling, grammar and onther stuffs
+> Reply-To: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+>=20
+>  Branch: refs/heads/master
+>  Home:   https://github.com/jegamboafuentes/New-York-Factory-Systems
+>  Commit: 33e121956ccede3bf000c7db2811d0fca3cadfe7
+>      https://github.com/jegamboafuentes/New-York-Factory-Systems/commit/33=
+e121956ccede3bf000c7db2811d0fca3cadfe7
+>  Author: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+>  Date:   2015-12-24 (Thu, 24 Dec 2015)
+>=20
+>  Changed paths:
+>    M .gitignore
+>    M New York Factory Systems/index.html
+>    A New York Factory Systems/js/bootstrap-combined.min.css
+>    M New York Factory Systems/js/bootstrap.min.js
+>    A New York Factory Systems/js/contactus.js
+>    M New York Factory Systems/js/index.js
+>    A New York Factory Systems/js/jquery.min.js
+>    A New York Factory Systems/nbproject/project.properties
+>    A New York Factory Systems/nbproject/project.xml
+>    A New York Factory Systems/php/contactus.php
+>=20
+>  Log Message:
+>  -----------
+>  Changes in the spelling, grammar and onther stuffs
+>=20
+>=20
+
+--Apple-Mail-2EEA97D6-BEDB-4FEB-8783-EB9B4E051D80
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div>Hello Guys, I made some changes in the=
+ web page, spelling and grammar issues detected by Henry, let me know if you=
+ find more errors.</div><div id=3D"AppleMailSignature"><br></div><div id=3D"=
+AppleMailSignature">Good luck today with the client Henry.</div><div id=3D"A=
+ppleMailSignature"><br></div><div id=3D"AppleMailSignature">Regards.&nbsp;<b=
+r><br>Enrique Gamboa<div>New York Factory Systems&nbsp;</div></div><div><br>=
+Begin forwarded message:<br><br></div><blockquote type=3D"cite"><div><b>From:=
+</b> Jorge Enrique Gamboa Fuentes &lt;<a href=3D"mailto:jegamboafuentes@gmai=
+l.com">jegamboafuentes@gmail.com</a>&gt;<br><b>Date:</b> December 24, 2015 a=
+t 8:48:38 AM EST<br><b>To:</b> <a href=3D"mailto:enrique.gamboa@nyfactorysys=
+tems.com">enrique.gamboa@nyfactorysystems.com</a><br><b>Subject:</b> <b>[jeg=
+amboafuentes/New-York-Factory-Systems] 33e121: Changes in the spelling, gram=
+mar and onther stuffs</b><br><b>Reply-To:</b> Jorge Enrique Gamboa Fuentes &=
+lt;<a href=3D"mailto:jegamboafuentes@gmail.com">jegamboafuentes@gmail.com</a=
+>&gt;<br><br></div></blockquote><blockquote type=3D"cite"><div><span> &nbsp;=
+Branch: refs/heads/master</span><br><span> &nbsp;Home: &nbsp;&nbsp;<a href=3D=
+"https://github.com/jegamboafuentes/New-York-Factory-Systems">https://github=
+.com/jegamboafuentes/New-York-Factory-Systems</a></span><br><span> &nbsp;Com=
+mit: 33e121956ccede3bf000c7db2811d0fca3cadfe7</span><br><span> &nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;<a href=3D"https://github.com/jegamboafuentes/New-York-Fact=
+ory-Systems/commit/33e121956ccede3bf000c7db2811d0fca3cadfe7">https://github.=
+com/jegamboafuentes/New-York-Factory-Systems/commit/33e121956ccede3bf000c7db=
+2811d0fca3cadfe7</a></span><br><span> &nbsp;Author: Jorge Enrique Gamboa Fue=
+ntes &lt;<a href=3D"mailto:jegamboafuentes@gmail.com">jegamboafuentes@gmail.=
+com</a>&gt;</span><br><span> &nbsp;Date: &nbsp;&nbsp;2015-12-24 (Thu, 24 Dec=
+ 2015)</span><br><span></span><br><span> &nbsp;Changed paths:</span><br><spa=
+n> &nbsp;&nbsp;&nbsp;M .gitignore</span><br><span> &nbsp;&nbsp;&nbsp;M New Y=
+ork Factory Systems/index.html</span><br><span> &nbsp;&nbsp;&nbsp;A New York=
+ Factory Systems/js/bootstrap-combined.min.css</span><br><span> &nbsp;&nbsp;=
+&nbsp;M New York Factory Systems/js/bootstrap.min.js</span><br><span> &nbsp;=
+&nbsp;&nbsp;A New York Factory Systems/js/contactus.js</span><br><span> &nbs=
+p;&nbsp;&nbsp;M New York Factory Systems/js/index.js</span><br><span> &nbsp;=
+&nbsp;&nbsp;A New York Factory Systems/js/jquery.min.js</span><br><span> &nb=
+sp;&nbsp;&nbsp;A New York Factory Systems/nbproject/project.properties</span=
+><br><span> &nbsp;&nbsp;&nbsp;A New York Factory Systems/nbproject/project.x=
+ml</span><br><span> &nbsp;&nbsp;&nbsp;A New York Factory Systems/php/contact=
+us.php</span><br><span></span><br><span> &nbsp;Log Message:</span><br><span>=
+ &nbsp;-----------</span><br><span> &nbsp;Changes in the spelling, grammar a=
+nd onther stuffs</span><br><span></span><br><span></span><br></div></blockqu=
+ote></body></html>=
+
+--Apple-Mail-2EEA97D6-BEDB-4FEB-8783-EB9B4E051D80--

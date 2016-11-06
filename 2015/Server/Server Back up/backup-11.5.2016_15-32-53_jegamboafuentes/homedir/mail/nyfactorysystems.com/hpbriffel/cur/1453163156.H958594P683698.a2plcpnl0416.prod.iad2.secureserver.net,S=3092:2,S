@@ -1,0 +1,65 @@
+Return-path: <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Mon, 18 Jan 2016 17:25:56 -0700
+Received: from m71-131.mailgun.net ([166.78.71.131]:60889)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtp (Exim 4.85)
+	(envelope-from <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>)
+	id 1aLK7Q-002rqL-Sa
+	for hpbriffel@nyfactorysystems.com; Mon, 18 Jan 2016 17:25:56 -0700
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=github.com; q=dns/txt;
+ s=mailo; t=1453163146; h=Content-Transfer-Encoding: Content-Type:
+ Mime-Version: Subject: Message-ID: To: Reply-To: From: Date: Sender;
+ bh=/TGMGOWJwW//A8Ll/OSq+pWJEllg3b3InfyX+7FZql4=; b=r52d3iqVTPYy7+Sw3ZzYepptIHa+N7vcUkmdVVN5xxZbQuxEE5gdEzg9Qm7mHMgzaCnFg/Jr
+ SmwI4vuukJGa6EcFWR0iTuD/hXUqOBGG9L9Kom6MIwCEu+mAwVzFGmAlK08mKP3/q1vHriXJ
+ jLbP1yPBBfUHgRP1750i0Jstqy4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=github.com; s=mailo; q=dns;
+ h=Sender: Date: From: Reply-To: To: Message-ID: Subject: Mime-Version:
+ Content-Type: Content-Transfer-Encoding;
+ b=gpv1z22YwEQBCmn4RL28nC9Z5vh6dY7J8vFmbaE9FVqd7CB7hdzSU1ltLLNZQUWny6a5gH
+ QpbvWw91WtgTIC4m0z07wodWL7hGO9GuLC97DK4AksEl6APUy+ArRBapRlSjuBUjNPsvK8u1
+ rN7OgnDYkoIaKaMcRKtEhQFA9OySY=
+Sender: jegamboafuentes=gmail.com@github.com
+X-Mailgun-Sid: WyI4OWEzZSIsICJocGJyaWZmZWxAbnlmYWN0b3J5c3lzdGVtcy5jb20iLCAiNDBmIl0=
+Received: from github.com (Unknown [192.30.252.46])
+ by mxa.mailgun.org with ESMTP id 569d8289.7579e40-in6;
+ Tue, 19 Jan 2016 00:25:45 -0000 (UTC)
+Date: Mon, 18 Jan 2016 16:25:45 -0800
+From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+Reply-To: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+To: hpbriffel@nyfactorysystems.com
+Message-ID: <569d828960242_565b3fc54fb852a09658d@hookshot-fe4-cp1-prd.iad.github.net.mail>
+Subject: [jegamboafuentes/New-York-Factory-Systems] 21cbd2: Creation of the
+ main platfor for clients managment
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="--==_mimepart_569d82895fe10_565b3fc54fb852a0964dd";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_569d82895fe10_565b3fc54fb852a0964dd
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+  Branch: refs/heads/master
+  Home:   https://github.com/jegamboafuentes/New-York-Factory-Systems
+  Commit: 21cbd229dde6920db749d3272811bb286bfd1835
+      https://github.com/jegamboafuentes/New-York-Factory-Systems/commit/21cbd229dde6920db749d3272811bb286bfd1835
+  Author: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+  Date:   2016-01-18 (Mon, 18 Jan 2016)
+
+  Changed paths:
+    A New York Factory Systems/clients/everydaynewyorker/files/EveryDayNYEnrique.docx
+    A New York Factory Systems/clients/everydaynewyorker/files/EverydayNYWebV1.docx
+    M New York Factory Systems/index.html
+    M New York Factory Systems/sub/clients/index.php
+    M New York Factory Systems/sub/clients/menu/index.php
+
+  Log Message:
+  -----------
+  Creation of the main platfor for clients managment
+
+
+
+----==_mimepart_569d82895fe10_565b3fc54fb852a0964dd--

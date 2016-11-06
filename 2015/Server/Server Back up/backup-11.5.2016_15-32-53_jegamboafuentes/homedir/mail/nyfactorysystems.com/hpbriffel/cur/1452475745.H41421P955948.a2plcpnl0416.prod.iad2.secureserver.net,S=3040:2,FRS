@@ -1,0 +1,62 @@
+Return-path: <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Sun, 10 Jan 2016 18:29:05 -0700
+Received: from m69-169.mailgun.net ([166.78.69.169]:56356)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtp (Exim 4.85)
+	(envelope-from <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>)
+	id 1aIRI8-0040fJ-VK
+	for hpbriffel@nyfactorysystems.com; Sun, 10 Jan 2016 18:29:05 -0700
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=github.com; q=dns/txt;
+ s=mailo; t=1452475734; h=Content-Transfer-Encoding: Content-Type:
+ Mime-Version: Subject: Message-ID: To: Reply-To: From: Date: Sender;
+ bh=7GnLhvukRUuEg6qbI3I2qNPP6LbAtzNFQBwKZ6EYGVk=; b=r4HC0gzEqQSqu3S6cN8B2CCw9s62P8pRYzVMbVlc/CqlbK8abrLWCvp2tc7PxLfn/lBhgdge
+ ZT7HqSUGFtxOteEjPfGpcElf0v41G47oF6Cgr+a7gSIJq5TRJ8oUV5nLNKqGhyG3bn4NeAgg
+ 0K/pyk5Cwx21/vDwx2YPQ0RpZO8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=github.com; s=mailo; q=dns;
+ h=Sender: Date: From: Reply-To: To: Message-ID: Subject: Mime-Version:
+ Content-Type: Content-Transfer-Encoding;
+ b=YRSBy9WlU+ksb2aL/B/IqZp3BcGhjDTWp90VPp8lBqQpzW19f9KPJ9zkxOQJ9nGjEdaz/o
+ XdFO1nPXyP0UYfWQWlr0ZiH8GuTjQ12yNB2XLIeFkYyx5Top2iexSDd5Ix/TAQd4gp9kM94d
+ QNNQU6vVZmHrtt+Q8mohtdXEArXqY=
+Sender: jegamboafuentes=gmail.com@github.com
+X-Mailgun-Sid: WyI4OWEzZSIsICJocGJyaWZmZWxAbnlmYWN0b3J5c3lzdGVtcy5jb20iLCAiNDBmIl0=
+Received: from github.com (Unknown [192.30.252.42])
+ by mxa.mailgun.org with ESMTP id 56930556.6fbc840-in07;
+ Mon, 11 Jan 2016 01:28:54 -0000 (UTC)
+Date: Sun, 10 Jan 2016 17:28:54 -0800
+From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+Reply-To: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+To: hpbriffel@nyfactorysystems.com
+Message-ID: <5693055661c71_1bc03fb40ffe12a0947a0@hookshot-fe1-cp1-prd.iad.github.net.mail>
+Subject: [jegamboafuentes/New-York-Factory-Systems] aa2990: de-index involvio,
+ involvio reprted the problem wi...
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="--==_mimepart_5693055661828_1bc03fb40ffe12a0946b7";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_5693055661828_1bc03fb40ffe12a0946b7
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+  Branch: refs/heads/master
+  Home:   https://github.com/jegamboafuentes/New-York-Factory-Systems
+  Commit: aa29902a59614d32625e02dc05dc4d7af1d986fa
+      https://github.com/jegamboafuentes/New-York-Factory-Systems/commit/aa29902a59614d32625e02dc05dc4d7af1d986fa
+  Author: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+  Date:   2016-01-10 (Sun, 10 Jan 2016)
+
+  Changed paths:
+    R New York Factory Systems/img/loolLike/s4.jpg
+    M New York Factory Systems/index.html
+
+  Log Message:
+  -----------
+  de-index involvio, involvio reprted the problem with, a index in our web page, i removed and put a new legend in the buttom of the slide part of examples, we have to review with Danielle, if this text works for our copyright
+
+
+
+----==_mimepart_5693055661828_1bc03fb40ffe12a0946b7--

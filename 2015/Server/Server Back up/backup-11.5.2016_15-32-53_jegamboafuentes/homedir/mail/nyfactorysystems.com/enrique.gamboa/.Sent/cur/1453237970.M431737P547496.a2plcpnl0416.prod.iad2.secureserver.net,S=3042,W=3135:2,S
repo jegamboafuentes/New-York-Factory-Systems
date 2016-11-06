@@ -1,0 +1,93 @@
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+From: Enrique Gamboa - New York Factory Systems <enrique.gamboa@nyfactorysystems.com>
+Mime-Version: 1.0 (1.0)
+Subject: Re: Clients.nyfactorysystems
+Message-Id: <DE73FDA9-B2A3-4178-9269-46858E665ADE@nyfactorysystems.com>
+Date: Tue, 19 Jan 2016 16:12:44 -0500
+References: <DB63576A-0478-4B40-B48C-13E17E296264@nyfactorysystems.com> <8E7F0101-4B9C-4AEC-B77B-C6C0B875944C@yahoo.com>
+In-Reply-To: <8E7F0101-4B9C-4AEC-B77B-C6C0B875944C@yahoo.com>
+To: Danielle <danielle_ettl@yahoo.com>
+
+Yes Danielle, the clients can see the invoice on PDF in the clients platform=
+. also, I was reading, and my plan is put a PayPal API, redirecting the pay t=
+o a account. The PayPal API provides the managing of each invoice, for us an=
+d for the clients.
+
+Enrique Gamboa
+New York Factory Systems=20
+(646) 830 3874
+
+> On Jan 19, 2016, at 10:47 AM, Danielle <danielle_ettl@yahoo.com> wrote:
+>=20
+> Hi Enrique=20
+>=20
+> I think this is a great idea and very easy to understand!
+>=20
+> Regarding payment; will the client be able to view their invoice here as w=
+ell?  Or will the cost be provided prior on  a word or PDF doc and the clien=
+t can simply pay via this platform?  Are you guys going to have people pay i=
+n installments? If so, do you have a system to track payments?
+>=20
+> Not trying to complicate things; just thinking about process a little for f=
+uture use!
+>=20
+> Thanks for this; very exciting stuff and very intuitive for users and well=
+ done by you!
+> Danielle
+>=20
+>=20
+>=20
+> Sent from my iPad
+>=20
+>> On Jan 19, 2016, at 5:29 AM, Enrique Gamboa - New York Factory Systems <e=
+nrique.gamboa@nyfactorysystems.com> wrote:
+>>=20
+>>=20
+>> Hi guys, I hope you had a great Holidays.
+>> I was working on a new platform for NYFS, is for the management of the cl=
+ients.
+>> I'm using the project of Danielle (Every day New Yorker) as an example fo=
+r show you what is the functionality of this system:
+>> 1.- when the client is admitted with NYFS we will send them a user and pa=
+ssword for access:
+>> <image1.PNG>
+>>=20
+>>=20
+>> 2.- The client goes to the main menu for clients, they can show the previ=
+ew of them project:
+>>=20
+>> <image2.PNG>
+>>=20
+>>=20
+>> 3.- Progress
+>> On progress part they can look what is the status of the project in gener=
+al, they can pay for that way (by PayPal) and follow the instructions for th=
+e project.
+>>=20
+>> <image3.PNG>
+>>=20
+>>=20
+>> 4.- About: in this part we can see the general info for the client, and t=
+hen requirement or attached documents.
+>>=20
+>> <image4.PNG>
+>>=20
+>> I have the structure of all the platform and I will have the full structu=
+re in this week, also I'll start to develop some stuffs for Danielle's proje=
+ct.
+>>=20
+>> You can see this platform at the following link:
+>>=20
+>> http://clients.nyfactorysystems.com
+>>=20
+>> I hope see you soon guys for talk about it.
+>>=20
+>> Have a great week.=20
+>>=20
+>> Regards.=20
+>>=20
+>> Enrique Gamboa
+>> New York Factory Systems=20
+>> (646) 830 3874

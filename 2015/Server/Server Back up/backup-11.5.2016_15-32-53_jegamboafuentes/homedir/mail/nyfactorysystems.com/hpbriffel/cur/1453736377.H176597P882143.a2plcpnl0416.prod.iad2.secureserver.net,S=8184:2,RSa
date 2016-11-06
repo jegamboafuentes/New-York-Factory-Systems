@@ -1,0 +1,174 @@
+Return-path: <salvatore.diana@salvatones.org>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Mon, 25 Jan 2016 08:39:37 -0700
+Received: from mail-lb0-f180.google.com ([209.85.217.180]:33361)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <salvatore.diana@salvatones.org>)
+	id 1aNjEu-003hTG-Sd
+	for hpbriffel@nyfactorysystems.com; Mon, 25 Jan 2016 08:39:37 -0700
+Received: by mail-lb0-f180.google.com with SMTP id x4so76880918lbm.0
+        for <hpbriffel@nyfactorysystems.com>; Mon, 25 Jan 2016 07:39:36 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=salvatones-org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :content-type;
+        bh=uEl1ktrkV6w7bkr+FYXx+Tf02rCwy+H8ljR9b89qSbI=;
+        b=u8OQS7z37icUcWOhz67ifY1oKHfG7nJpAZGfE0DglsMAiHL1Nzy5hlMIQuxgS9znsN
+         VdejiO4tXOlX0vlSSS7xnqKEcYxe8xTkscv/n8LfC9ZN4vbhkWZzHGSxVOnD7zyToqbn
+         ZZOmJSo3mzhvHHQN8rK4ixaqckKS8b07Rs40ZDwap7MxjALE00OAP4F0NR0/UGB0sXk0
+         1zGpNYFK+97pTnRXGpTEFBA+BFLNkIn7R8GCHsi6aZwr/PPlfW/ToCe51RVp/e61MOJ2
+         c2IFgBPKA6ceNocNFpYCHfAUd5VtGHw7C0Ku4+K4AwgG0uqyi1BdcPgR42U5La+enkmu
+         AIqg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:content-type;
+        bh=uEl1ktrkV6w7bkr+FYXx+Tf02rCwy+H8ljR9b89qSbI=;
+        b=QaWIQBolqdWmrBNT75b0zCoq/SS+3stGlA7YVNe4Aqoa8ToCBqiQKCUqz5VUmQCM78
+         nikFHAXWvoGaoR468/mZWOuDJWeQbho1fK4yznVonNYz1qhOy4vDSRqJ1C6Co3L6WnpG
+         8hFrAR/vJLjJjqxm+DPb/4r0b4+70V9qbvC+us/ap4tQ4hEf/WlOHI7ScSmkO9DOuxoZ
+         D4FnDaI+wRVxBOOqe99CAe4AIm5nWLszlhmCouECrlCDn/n6T+oMUlMhAPJhLRgzMtlP
+         r1TxSpnVEwEai59qOvvX96tL8WTShMpNn31F2SfoLoPFiXgmz6pW+Euc50+yny79zJ+S
+         NhMg==
+X-Gm-Message-State: AG10YOQb327F7LnrYaJF4kbvHSr0wkL/aSePXqBuy+wZSiLQo7r5vXZDe9D/8exovdsdjBI327ezsSgcCj8f+w==
+X-Received: by 10.112.180.138 with SMTP id do10mr6664336lbc.127.1453736370282;
+ Mon, 25 Jan 2016 07:39:30 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.25.132.6 with HTTP; Mon, 25 Jan 2016 07:38:50 -0800 (PST)
+In-Reply-To: <D7044346-8F1A-431A-8964-064BD7FC6D89@nyfactorysystems.com>
+References: <D7044346-8F1A-431A-8964-064BD7FC6D89@nyfactorysystems.com>
+From: Salvatore Diana <salvatore.diana@salvatones.org>
+Date: Mon, 25 Jan 2016 10:38:50 -0500
+Message-ID: <CAFvmuYk7US=HdXDffTPK+M0HB=zHiRTzmOEBgPc5jsWbXceVpg@mail.gmail.com>
+Subject: Re: proposal // NYFS
+To: "Henry P. Briffel" <hpbriffel@nyfactorysystems.com>
+Content-Type: multipart/alternative; boundary=001a11c2bf5cf2ca1d052a2a5fb0
+
+--001a11c2bf5cf2ca1d052a2a5fb0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi Henry,
+
+Well that was some snow this weekend huh? Hope you got to have some fun it
+it.
+
+Regarding the web site project, we are working on how to fund this so it
+will take a little more time (hopefully not much longer) to solidify and
+sign. The easiest thing to get through is to push the project to the summer
+when it crosses the next fiscal year (our budget runs July to June) so we
+are only spending 1,500 in June in this fiscal year and 1,500 in
+July/August), the next fiscal year.
+
+I do believe we need to accelerate this so am trying to work within our
+current budget to see what we could re-allocate to this project. That's
+what is taking time to work through to make sure it's solid and to get
+approval.
+
+One question I had is that we will be undertaking a photoshoot next year
+and I would like to incorporate the new photography at that point. How easy
+will it be to do that or is it worth waiting for that to be done because it
+will involve a lot more work?
+
+If it's easier to discuss by phone, let me know and we can find time to
+chat.
+
+Hope you are well.
+
+Cheers,
+
+Sal
+
+
+On Mon, Jan 11, 2016 at 7:24 PM, Henry P. Briffel <
+hpbriffel@nyfactorysystems.com> wrote:
+
+> Hi Sal - Attached is the proposal we discussed. Please review it with you=
+r
+> board and let us know what you think.
+>
+> Thanks!
+>
+> Henry P. Briffel
+> New York Factory Systems
+> 323-813-4159 mobile
+> hpbriffel@nyfactorysystems.com
+>
+>
+
+
+--=20
+
+*Salvatore Diana* =E2=80=A2 *President**/CEO*
+
+
+
+
+
+*a 501(c)(3) organization+1 212-784-6176 <http://goog_189844809>
+<http://goog_189844809>*
+
+*salvatones.org <http://salvatones.org>*
+
+--001a11c2bf5cf2ca1d052a2a5fb0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi Henry,<div><br></div><div>Well that was some snow this =
+weekend huh? Hope you got to have some fun it it.=C2=A0</div><div><br></div=
+><div>Regarding the web site project, we are working on how to fund this so=
+ it will take a little more time (hopefully not much longer) to solidify an=
+d sign. The easiest thing to get through is to push the project to the summ=
+er when it crosses the next fiscal year (our budget runs July to June) so w=
+e are only spending 1,500 in June in this fiscal year and 1,500 in July/Aug=
+ust), the next fiscal year.=C2=A0</div><div><br></div><div>I do believe we =
+need to accelerate this so am trying to work within our current budget to s=
+ee what we could re-allocate to this project. That&#39;s what is taking tim=
+e to work through to make sure it&#39;s solid and to get approval.=C2=A0</d=
+iv><div><br></div><div>One question I had is that we will be undertaking a =
+photoshoot next year and I would like to incorporate the new photography at=
+ that point. How easy will it be to do that or is it worth waiting for that=
+ to be done because it will involve a lot more work?</div><div><br></div><d=
+iv>If it&#39;s easier to discuss by phone, let me know and we can find time=
+ to chat.=C2=A0</div><div><br></div><div>Hope you are well.=C2=A0</div><div=
+><br>Cheers,</div><div><br>Sal</div><div><br></div></div><div class=3D"gmai=
+l_extra"><br><div class=3D"gmail_quote">On Mon, Jan 11, 2016 at 7:24 PM, He=
+nry P. Briffel <span dir=3D"ltr">&lt;<a href=3D"mailto:hpbriffel@nyfactorys=
+ystems.com" target=3D"_blank">hpbriffel@nyfactorysystems.com</a>&gt;</span>=
+ wrote:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;bor=
+der-left:1px #ccc solid;padding-left:1ex">Hi Sal - Attached is the proposal=
+ we discussed. Please review it with your board and let us know what you th=
+ink.<br>
+<br>
+Thanks!<br>
+<span class=3D"HOEnZb"><font color=3D"#888888"><br>
+Henry P. Briffel<br>
+New York Factory Systems<br>
+<a href=3D"tel:323-813-4159" value=3D"+13238134159">323-813-4159</a>=C2=A0m=
+obile<br>
+<a href=3D"mailto:hpbriffel@nyfactorysystems.com">hpbriffel@nyfactorysystem=
+s.com</a><br>
+<br>
+</font></span></blockquote></div><br><br clear=3D"all"><div><br></div>-- <b=
+r><div class=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><di=
+v><div dir=3D"ltr"><div><p style=3D"line-height:1.15;margin-top:0pt;margin-=
+bottom:0pt"><span style=3D"color:rgb(153,153,153)"><span style=3D"font-fami=
+ly:Arial;vertical-align:baseline;white-space:pre-wrap;background-color:tran=
+sparent"><b>Salvatore Diana</b> =E2=80=A2 <i>President</i></span></span><i =
+style=3D"font-family:Arial;white-space:pre-wrap;color:rgb(153,153,153);line=
+-height:1.15">/CEO</i></p><img src=3D"https://docs.google.com/uc?export=3Dd=
+ownload&amp;id=3D0B1-1pbSX5CnmWUE4YW56eUlmekE&amp;revid=3D0B1-1pbSX5Cnmbllw=
+Mmh3VWtPNDdpN0RYa0xoSE5wanVCa0RZPQ" height=3D"33" width=3D"200"><br></div><=
+div><span style=3D"font-family:Arial;vertical-align:baseline;white-space:pr=
+e-wrap;background-color:transparent"><i><font color=3D"#999999">a 501(c)(3)=
+ organization<br><br><a href=3D"http://goog_189844809" target=3D"_blank">+1=
+ 212-784-6176</a><br><br><a href=3D"http://goog_189844809" target=3D"_blank=
+"></a></font></i></span></div><div><span style=3D"font-family:Arial;vertica=
+l-align:baseline;white-space:pre-wrap;background-color:transparent"><i><fon=
+t color=3D"#999999"><a href=3D"http://salvatones.org" target=3D"_blank">sal=
+vatones.org</a><br></font></i></span></div></div></div></div></div></div></=
+div>
+</div>
+
+--001a11c2bf5cf2ca1d052a2a5fb0--

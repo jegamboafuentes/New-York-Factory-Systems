@@ -1,0 +1,218 @@
+Return-path: <jegamboafuentes@gmail.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Tue, 26 Jan 2016 06:30:59 -0700
+Received: from mail-ig0-f174.google.com ([209.85.213.174]:38808)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <jegamboafuentes@gmail.com>)
+	id 1aO3hz-0047hT-7A
+	for hpbriffel@nyfactorysystems.com; Tue, 26 Jan 2016 06:30:59 -0700
+Received: by mail-ig0-f174.google.com with SMTP id mw1so51722028igb.1
+        for <hpbriffel@nyfactorysystems.com>; Tue, 26 Jan 2016 05:30:59 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=OosepUuAjzJA+sz3weFwDfwDP57Yby9l2KR7C9zRxcQ=;
+        b=qpRfH5v4MkTt2y8wirHSssmR0JzCMboBsz1gtd3aIQrfmA37xcGvs6j3BcDrzSVsO4
+         0avO8ZFzmOHjUsc3F/6cko0k8bpl+z/uC5vtonAuQ6Wm5tYMnkHwBE3cm9EFH6U4lcrQ
+         O/xkGolqipiPYmGia0VdyR33pCqy89IGhHY2j1lvaZliBlodIypEDSiJdMRznQ8w0Mtr
+         OPKbH+IbLTABhCgtACkyRY/cPmnQdsjE6GNUpwfbtqhN3u2Slmka7DgnLtYMgd50ClCB
+         UKdZBk9POeDb37Nr9ZrTiu2pMydBjwxZhsKXv8i8oMuknW6v+eWstY2/Bksg9TiZLTGB
+         6MNg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:cc:content-type;
+        bh=OosepUuAjzJA+sz3weFwDfwDP57Yby9l2KR7C9zRxcQ=;
+        b=L6PkcjK/lacFUN15yxhuXM45qHLbdCKgzOQOC/f2Ncj/tYDIZBvrTdeFuNHLDp5jAu
+         Gu3W6E1PE6suR+wQFGmiNIoyU3mwudBSozMwNe8ctYXTaF3f7Ak7n/3zh0Q6m3ulxnRr
+         T7bKSiGxgzyegQNyYXNGQRStbvnJboWcUh1k5meFzXsDkfeuALiIeZbZp2aP5Zk41X5E
+         hEy8BUAQllgRKh4c1r7+hK+7HNP2n+NwqipYYGh4uQFZz0edsBsk4duRtobpN3uF6L8k
+         dsHwWoASMAIr8dBhaptMgeaNNoSiXK5QEkqNZrj6QYgDgpcQWe65CLvwendcyifKpo0T
+         aulw==
+X-Gm-Message-State: AG10YOSsTDjKlDN4xmHSJBqbCQNE4fPK62Cc93SrsG86X3PsnmcA3o3r8RULlYAFB9c/K64LfbyZrgW850/sZQ==
+MIME-Version: 1.0
+X-Received: by 10.50.43.133 with SMTP id w5mr22008327igl.52.1453815053037;
+ Tue, 26 Jan 2016 05:30:53 -0800 (PST)
+Received: by 10.36.18.205 with HTTP; Tue, 26 Jan 2016 05:30:52 -0800 (PST)
+In-Reply-To: <DBEDE1F5-DD0F-4416-80A5-BD09B6585A31@nyfactorysystems.com>
+References: <5706D873-D8ED-47B3-9D21-7494214B2C71@nyfactorysystems.com>
+	<1944010296.293664.1453808302032.JavaMail.yahoo@mail.yahoo.com>
+	<DBEDE1F5-DD0F-4416-80A5-BD09B6585A31@nyfactorysystems.com>
+Date: Tue, 26 Jan 2016 08:30:52 -0500
+Message-ID: <CABAAHFiKD9WUrmvU+FN3jKPEdtV2S2vBQhR_D9739uDChjae7w@mail.gmail.com>
+Subject: Re: Salvations.org confirmed
+From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+To: "hpbriffel@nyfactorysystems.com" <hpbriffel@nyfactorysystems.com>
+Cc: Danielle Ettl <danielle_ettl@yahoo.com>
+Content-Type: multipart/alternative; boundary=089e01175f2bce391d052a3cb1e7
+
+--089e01175f2bce391d052a3cb1e7
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey guys.
+
+I've been stuck in an error that I have on the client system, but yesterday
+I found the solution.
+
+I hope see you soon.
+
+Danielle, congrats for your new incoming project.
+
+Best wishes!
+
+On Tuesday, January 26, 2016, hpbriffel@nyfactorysystems.com <
+hpbriffel@nyfactorysystems.com> wrote:
+
+> Fantastic. I'll fill you in on Sal tonight and I'll check out the website=
+.
+> Congrats!
+>
+> Sent from my iPhone
+>
+> On Jan 26, 2016, at 6:38 AM, Danielle Ettl <danielle_ettl@yahoo.com
+> <javascript:_e(%7B%7D,'cvml','danielle_ettl@yahoo.com');>> wrote:
+>
+> Hey Henry and Enrique,
+>
+> Hope you guys are great and survived Snowmageddon.  Skiing was great in
+> St. Moritz and managed to avoid it all :)
+>
+> Now that I am back-It's official!  I am thrilled that I can announce the
+> launch for the first of my two companies!  I am going to spend the entire
+> day marketing the crap out of it.  Please check out the below website and
+> please share this with anyone who you think can benefit from my service
+> offerings :)
+> laltradonnanyc.com
+>
+> Hope you are well and appreciate any marketing you can provide :)
+> Standing by for helping out with Sal's business below and to review any w=
+eb
+> content for Factory System's website as well!
+> Talk to you both soon xx
+> Danielle
+>
+>
+>
+> ------------------------------
+> *From:* Henry P. Briffel <hpbriffel@nyfactorysystems.com
+> <javascript:_e(%7B%7D,'cvml','hpbriffel@nyfactorysystems.com');>>
+> *To:* Jorge Armando Hernandez Mejia <jorge_m68@hotmail.com
+> <javascript:_e(%7B%7D,'cvml','jorge_m68@hotmail.com');>>; Jorge Enrique
+> Gamboa Fuentes <jegamboafuentes@gmail.com
+> <javascript:_e(%7B%7D,'cvml','jegamboafuentes@gmail.com');>>; Danielle
+> Ettl <Danielle_Ettl@yahoo.com
+> <javascript:_e(%7B%7D,'cvml','Danielle_Ettl@yahoo.com');>>
+> *Sent:* Friday, January 8, 2016 2:32 PM
+> *Subject:* Salvations.org <http://salvations.org> confirmed
+>
+> Hey guys- Sal has in principal agreed to the project at 3k. Jorge we need
+> a proposal (include the new logo on all docs please as an intro page) wit=
+h
+> 3 hours of Danielle=E2=80=99s time at (200/hour) built into the Salvatone=
+=E2=80=99s
+> proposal est. cost 3k - 50% upfront and 50% at end. Please get me a draft
+> this weekend, so I can update it and talk to Danielle about the other
+> agenda items, including admin. I need my name kept to a minimum on all do=
+cs
+> bc of JPM stuff.
+>
+> Enrique, let talk this weekend about how we want to structure
+> communications btw client and us as a group.
+>
+> Thanks!
+>
+> Henry P. Briffel
+> Founding Partner
+> New York Factory Systems
+> 323-813-4159 mobile
+> hpbriffel@nyfactorysystems.com
+> <javascript:_e(%7B%7D,'cvml','hpbriffel@nyfactorysystems.com');>
+>
+>
+>
+>
+
+--=20
+Enrique Gamboa
+646 830 3874
+
+--089e01175f2bce391d052a3cb1e7
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey guys.<div><br></div><div>I&#39;ve been stuck in an error that I have on=
+ the client system, but yesterday I found the solution.</div><div><br></div=
+><div>I hope see you soon.</div><div><br></div><div>Danielle, congrats for =
+your new incoming project.</div><div><br></div><div>Best wishes!=C2=A0<span=
+></span><br><br>On Tuesday, January 26, 2016, <a href=3D"mailto:hpbriffel@n=
+yfactorysystems.com">hpbriffel@nyfactorysystems.com</a> &lt;<a href=3D"mail=
+to:hpbriffel@nyfactorysystems.com">hpbriffel@nyfactorysystems.com</a>&gt; w=
+rote:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;borde=
+r-left:1px #ccc solid;padding-left:1ex"><div dir=3D"auto"><div>Fantastic. I=
+&#39;ll fill you in on Sal tonight and I&#39;ll check out the website. Cong=
+rats!=C2=A0<br><br>Sent from my iPhone</div><div><br>On Jan 26, 2016, at 6:=
+38 AM, Danielle Ettl &lt;<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#3=
+9;danielle_ettl@yahoo.com&#39;);" target=3D"_blank">danielle_ettl@yahoo.com=
+</a>&gt; wrote:<br><br></div><blockquote type=3D"cite"><div><div style=3D"c=
+olor:#000;background-color:#fff;font-family:HelveticaNeue,Helvetica Neue,He=
+lvetica,Arial,Lucida Grande,sans-serif;font-size:12px"><div dir=3D"ltr">Hey=
+ Henry and Enrique,</div><div dir=3D"ltr"><br></div><div><div><div><div><di=
+v style=3D"color:#000;background-color:#fff;font-family:HelveticaNeue,Helve=
+tica Neue,Helvetica,Arial,Lucida Grande,sans-serif;font-size:12px"><div><di=
+v><div><div><div style=3D"color:#000;background-color:#fff;font-family:Helv=
+eticaNeue,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;font-size=
+:12px"><div>Hope you guys are great and survived Snowmageddon.=C2=A0 Skiing=
+ was great in St. Moritz and managed to avoid it all :)<br></div><div><br><=
+/div><div dir=3D"ltr">Now that I am back-It&#39;s
+
+ official!=C2=A0 I am thrilled that I can announce the launch for the first=
+=20
+of my two companies!=C2=A0 I am going to spend the entire day marketing the=
+=20
+crap out of it.=C2=A0 Please check out the below website and please share=
+=20
+this with anyone who you think can benefit from my service offerings :)<br>=
+</div><div dir=3D"ltr"><a href=3D"http://laltradonnanyc.com" target=3D"_bla=
+nk">laltradonnanyc.com</a><br></div><br><div dir=3D"ltr"><div>Hope you are =
+well and appreciate any marketing you can provide :)=C2=A0 Standing by for =
+helping out with Sal&#39;s business below and to review any web content for=
+ Factory System&#39;s website as well!<br></div><div>Talk to you both soon =
+xx<br></div></div><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr">Daniel=
+le</div></div></div></div></div></div></div></div></div></div></div></div><=
+/div><div><span></span></div><br> <div><br><br></div><div style=3D"display:=
+block">  <div style=3D"font-family:HelveticaNeue,Helvetica Neue,Helvetica,A=
+rial,Lucida Grande,sans-serif;font-size:12px"> <div style=3D"font-family:He=
+lveticaNeue,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;font-si=
+ze:16px"> <div dir=3D"ltr"> <font face=3D"Arial" size=3D"2"> <hr size=3D"1"=
+> <b><span style=3D"font-weight:bold">From:</span></b> Henry P. Briffel &lt=
+;<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;hpbriffel@nyfactorysys=
+tems.com&#39;);" target=3D"_blank">hpbriffel@nyfactorysystems.com</a>&gt;<b=
+r> <b><span style=3D"font-weight:bold">To:</span></b> Jorge Armando Hernand=
+ez Mejia &lt;<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;jorge_m68@=
+hotmail.com&#39;);" target=3D"_blank">jorge_m68@hotmail.com</a>&gt;; Jorge =
+Enrique Gamboa Fuentes &lt;<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&=
+#39;jegamboafuentes@gmail.com&#39;);" target=3D"_blank">jegamboafuentes@gma=
+il.com</a>&gt;; Danielle Ettl &lt;<a href=3D"javascript:_e(%7B%7D,&#39;cvml=
+&#39;,&#39;Danielle_Ettl@yahoo.com&#39;);" target=3D"_blank">Danielle_Ettl@=
+yahoo.com</a>&gt; <br> <b><span style=3D"font-weight:bold">Sent:</span></b>=
+ Friday, January 8, 2016 2:32 PM<br> <b><span style=3D"font-weight:bold">Su=
+bject:</span></b> <a href=3D"http://salvations.org" target=3D"_blank">Salva=
+tions.org</a> confirmed<br> </font> </div> <div><br>Hey guys- Sal has in pr=
+incipal agreed to the project at 3k. Jorge we need a proposal (include the =
+new logo on all docs please as an intro page) with 3 hours of Danielle=E2=
+=80=99s time at (200/hour) built into the Salvatone=E2=80=99s proposal est.=
+ cost 3k - 50% upfront and 50% at end. Please get me a draft this weekend, =
+so I can update it and talk to Danielle about the other agenda items, inclu=
+ding admin. I need my name kept to a minimum on all docs bc of JPM stuff. <=
+br><br>Enrique, let talk this weekend about how we want to structure commun=
+ications btw client and us as a group. <br><br>Thanks!<br><br>Henry P. Brif=
+fel<br>Founding Partner <br>New York Factory Systems <br>323-813-4159 mobil=
+e<br><a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;hpbriffel@nyfactor=
+ysystems.com&#39;);" target=3D"_blank">hpbriffel@nyfactorysystems.com</a><b=
+r><br><br><br></div> </div> </div>  </div></div></div></blockquote></div></=
+blockquote></div><br><br>-- <br>Enrique Gamboa<br>646 830 3874<br>
+
+--089e01175f2bce391d052a3cb1e7--

@@ -1,0 +1,780 @@
+Delivered-To: hpbriffel@gmail.com
+Received: by 10.107.143.215 with SMTP id r206csp6701597iod; Thu, 31 Dec 2015
+ 10:37:03 -0800 (PST)
+X-Received: by 10.50.155.43 with SMTP id vt11mr40602117igb.6.1451587023211;
+ Thu, 31 Dec 2015 10:37:03 -0800 (PST)
+Return-Path: <jegamboafuentes@gmail.com>
+Received: from mail-io0-x22e.google.com (mail-io0-x22e.google.com.
+ [2607:f8b0:4001:c06::22e]) by mx.google.com with ESMTPS id
+ e10si50970618igy.5.2015.12.31.10.37.03 for <hpbriffel@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 31 Dec
+ 2015 10:37:03 -0800 (PST)
+Received-SPF: pass (google.com: domain of jegamboafuentes@gmail.com designates
+ 2607:f8b0:4001:c06::22e as permitted sender)
+ client-ip=2607:f8b0:4001:c06::22e;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of
+ jegamboafuentes@gmail.com designates 2607:f8b0:4001:c06::22e as permitted
+ sender) smtp.mailfrom=jegamboafuentes@gmail.com; dkim=pass
+ header.i=@gmail.com; dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-io0-x22e.google.com with SMTP id 1so50483447ion.1 for
+ <hpbriffel@gmail.com>; Thu, 31 Dec 2015 10:37:03 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+ h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+ :cc:content-type; bh=xwc0bSKtDSkZssohiHaqY0dpOY6EvA9pU9pq1b5emI4=;
+ b=oE5aBkfKMMF9x5sqYYdvEajtdcoz0ccVbLjbntkDHuiWxFbspwjtd6+VsJ+tF9XZLG
+ 3g9MDoGGNut+kiS1ONF8aqyruZuTODBq3w8t2EKRTi3Gh7VobpDOkL79evJRoRTPu0eY
+ XUrOrkllTv9BweeYK8tZU/xP7kMFpaVpoQmVByz2GVq6xe5xyUbyvTqT2WadPwRtmgMj
+ iZgHVDnQQ7IRvDBkoLwcVYbymdWRsIP8N1gWV7VtB0H6bYhNiZhqBLm78VeXbPb9F1GW
+ XpxmKIkgaFVZl2las9JGoHlMTPC0ki92DPpIi5B5IGgZOW4yL54U8i+Kz956P9rUwpZC XC+A==
+MIME-Version: 1.0
+X-Received: by 10.107.169.27 with SMTP id s27mr65398446ioe.192.1451587022945;
+ Thu, 31 Dec 2015 10:37:02 -0800 (PST)
+Received: by 10.36.18.205 with HTTP; Thu, 31 Dec 2015 10:37:02 -0800 (PST)
+In-Reply-To: <CAPw96TZ80zt9S8AaXxE4+y51GRa5KiExXb+o5Z4UtyDQoLpT6A@mail.gmail.com>
+References: <CAPw96TZ80zt9S8AaXxE4+y51GRa5KiExXb+o5Z4UtyDQoLpT6A@mail.gmail.com>
+Date: Thu, 31 Dec 2015 13:37:02 -0500
+Message-ID: <CABAAHFiZ3Bco5M7LTxmKAbb9qB4VOtJi5_1ff_hpjQXJvisx6Q@mail.gmail.com>
+Subject: Re: Web Design language and pricing --- please review and discuss
+From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+To: Henry Briffel <hpbriffel@gmail.com>
+Cc: Jorge Armando Hernandez Mejia <jorge_m68@hotmail.com>
+Content-Type: multipart/alternative; boundary=001a114259a2dd007c052835f059
+
+
+--001a114259a2dd007c052835f059
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey, so good, it help us alot.
+
+Basically we have the same, just with different names, let me explain you:
+
+Diferences:
+
+
+*NYFS*
+
+*Matthew Stellwagen*
+
+Basic web page
+
+--
+
+Medium web page
+
+-Is the same
+
+
+Website Design with Content Management
+
+-Is the same
+
+Advanced web page
+
+-Advanced systems, is not just eCommerce, can be some specialist system for
+a specific business, offering integration development and not-web systems
+
+Custom eCommerce Website Development
+
+-Is the same
+
+I think, we are better, we are offering a basic web system, it means a
+product cheaper for clients.
+
+And a specialized product for clients, (Advanced system).
+
+We are offering a better catalog of products, and with basic web pages, we
+are offering better prices.
+
+With this, we have a better idea of prices, so in next meeting, we have to
+put the starting prices for each systems.
+
+Have a nice New Year Eve, and an excelent New Year, we will start 2016 with
+all the energy and good vibes for NYFS.
+
+
+
+2015-12-31 7:18 GMT-05:00 Henry Briffel <hpbriffel@gmail.com>:
+
+> Hey guys - see below for awesome pricing and proposal details from a
+> friend who has a web design business. Use this going forward in some
+> capacity for language etc.
+>
+> Let me know your thoughts. Please keep this on the agenda for our
+> Wednesday meeting with Danielle. The site examples look great, but we nee=
+d
+> to work on logo and some copy which Danielle can do for us. She is an
+> expert.
+>
+> Happy New Year!
+>
+> Henry P. Briffel
+> 222 West 17th Street Apt. 3D
+> New York, NY 10011
+> 917-414-9340
+>
+> SAMPLE COPY TO USE (from a competitor)
+>
+> Below are outlines of Web Development Packages. The below represents 2
+> options for a full website build with WordPress content management. The
+> second option is for eCommerce website development. We do not use
+> templates, all design is custom and developed from there. I prefer this
+> method to not only offer a unique design but to keep the code clean. All
+> code is optimized for SEO and we will integrate YOAST SEO Plugin to any
+> WordPress website build if requested.
+>
+> I think the below packages offer a good service at an attractive price
+> points. All website builds can be further customized to the client
+> specification.
+>
+> Website Design with Content Management: $3,200
+>
+>
+>    - Custom design based on requirements. Client can review a homepage
+>    design and provide feedback.
+>    - Complete responsive website development. Pages are optimized for
+>    mobile viewing and will automatically adjust page layouts to tablet an=
+d
+>    smartphones viewports.
+>    - WordPress Content management system backend with a secure login, you
+>    will be able to update page text content at any time.
+>    - 5 - 8 pages of website content including stock images.
+>    - Integration of social media accounts (if applicable), either through
+>    direct feeds on the website and/or sharing buttons.
+>    - Custom contact form with GoogleMaps integration (if applicable).
+>    - Website security to prevent against spam and malware attacks.
+>    - Hosting and domain setup. (client pays cost for domain and hosting
+>    but setup and management is included).
+>    - Clean code optimized for search traffic and fully compliant with
+>     the latest W3C XHTML and CSS compliance  standards. All markup code
+>    and styles will be tested in current versions of all major browsers
+>    including those  made by Apple, Google Chrome, Microsoft, Mozilla and
+>    Opera.
+>
+>
+> Custom eCommerce Website Development: $6,500
+>
+>
+>    - Includes Website Development listed above.
+>    - Integration of eCommerce management- order management, inventory
+>    management, client login and account management.
+>    - Setup of up to 50 products.
+>    - Merchant Gateway setup for credit card transactions on site.
+>    - Shopping cart customization-shipping, sales tax, order routing to
+>    designated emails.
+>    - Instructions on managing products.
+>
+>
+> If you would like to review my portfolio please visit my company website
+> at: http://540designstudio.com. Look forward to discussing further.
+> Thanks.
+>
+> Phone: 203-321-5435
+> Email: matt@540designstudio.com
+>
+>
+> --
+> Matthew Stellwagen
+> *540 Design Studio, LLC*
+> 203.321.5435 <//203.321.5435>
+> http://540designstudio.com
+>
+>
+> On September 29, 2015 at 4:03:02 PM, Henry Briffel (henry@surgogroup.com
+> ) wrote:
+>
+> Perfect talk to you then. Thanks
+>
+> On Tuesday, September 29, 2015, Matthew Stellwagen <
+> matt@540designstudio.com > wrote:
+>
+>> Hi Henry,
+>>
+>> No Problem. 3:30pm tomorrow works fine for me. I can give you a call on
+>> your cell then.
+>>
+>> Thanks, Matt
+>>
+>> --
+>> Matthew Stellwagen
+>> *540 Design Studio, LLC*
+>> 203.321.5435 <//203.321.5435>
+>> http://540designstudio.com
+>>
+>>
+>> On September 29, 2015 at 3:52:33 PM, Henry Briffel (henry@surgogroup.com
+>> ) wrote:
+>>
+>>
+>> Hi Matt- nice to meet you. I'm free tomorrow after 3pm if you want to
+>> have a call? Sorry I didn't get back to you sooner. I didn't see the ema=
+il.
+>> It nested funny. Any way, my cell is 9174149340.
+>>
+>> Let me know if 330pm or 4pm works?
+>>
+>> Thanks!
+>>
+>>
+>> On Monday, September 28, 2015, Matthew Stellwagen <
+>> matt@540designstudio.com > wrote:
+>>
+>>> Hi Henry,
+>>>
+>>> Nice to meet you as well. Yes, it would be great to schedule a call to
+>>> chat further. I am available tomorrow and Wednesday after 12pm and anyt=
+ime
+>>> on Thursday.
+>>>
+>>> Let me know if there is a good time that would work for you.
+>>>
+>>> Thanks, Matt
+>>>
+>>> --
+>>> Matthew Stellwagen
+>>> *540 Design Studio, LLC*
+>>> 203.321.5435 <//203.321.5435>
+>>> http://540designstudio.com
+>>>
+>>>
+>>> On September 28, 2015 at 2:04:30 PM, Henry Briffel (henry@surgogroup.co=
+m
+>>> ) wrote:
+>>>
+>>> Thanks, Jon. Matt, Great to meet you. Do you want to catch up on the
+>>> phone this week? Please let me know you're schedule.
+>>>
+>>> Jon, are you coming tomorrow am?
+>>>
+>>> Thanks!
+>>>
+>>> On Monday, September 28, 2015, Jon Stellwagen <
+>>> Jon.Stellwagen@tbrglobal.com > wrote:
+>>>
+>>>> Henry -  Matt please meet one another.
+>>>>
+>>>>
+>>>>
+>>>> I think you both have a lot in common and would great connections for
+>>>> networking.
+>>>>
+>>>>
+>>>>
+>>>> Henry=E2=80=99s website: www.surgogroup.com
+>>>>
+>>>> Matt=E2=80=99s website: www.540designstudio.com
+>>>>
+>>>>
+>>>>
+>>>> Jon Stellwagen
+>>>>
+>>>> Director of Sales North America
+>>>>
+>>>>
+>>>>
+>>>> D:   857-214-7510
+>>>>
+>>>> M:  914-879-9981
+>>>>
+>>>> E:    jon.stellwagen@tbrglobal.com
+>>>>
+>>>> W:  www.tbrglobal.com
+>>>>
+>>>>
+>>>>
+>>>> 24/7: 914-879-9981
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> *[image:
+>>>> file:///Users/matt540/Library/Containers/it.bloop.airmail/Data/Library=
+/Application
+>>>> Support/Airmail/General/Local/1443475772765593088/Attachments/image001=
+.png@01CFEC6A.EEBA50B0]*
+>>>>
+>>>>
+>>>>
+>>>> Thebookingroom USA Inc,
+>>>> 1266 Furnace Brook Parkway
+>>>> Suite 100B
+>>>>
+>>>> Quincy MA02169
+>>>> Tax ID: 46-0733000
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> [image:
+>>>> file:///Users/matt540/Library/Containers/it.bloop.airmail/Data/Library=
+/Application
+>>>> Support/Airmail/General/Local/1443475772765593088/Attachments/image002=
+.jpg@01D03FAF.53C23E90]
+>>>>
+>>>>
+>>>>
+>>>> Disclaimer
+>>>>
+>>>> The information transmitted is the property of thebookingroom and is
+>>>> intended only for the person to which it is addressed and may contain
+>>>> confidential and/or privileged material. Statements and opinions expre=
+ssed
+>>>> in this e-mail may not represent those of the company. Any review,
+>>>> retransmission, dissemination and other use of, or taking of any actio=
+n in
+>>>> reliance upon, this information by persons or entities other than the
+>>>> intended recipient is prohibited. If you received this in error, pleas=
+e
+>>>> contact the sender immediately and delete the material from any comput=
+er.
+>>>> Whilst we take reasonable precautions to minimize risk, you must carry=
+ out
+>>>> your own virus checks before opening attachments or reading e-mails an=
+d we
+>>>> do not accept liability for any damage or loss in this respect.
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> Henry Putnam Briffel <http://surgogroup.com/24m11j296wy5l2u/>
+>>> Director of Business Development
+>>> Surgo Group
+>>> 40 Worth Street, 10th Floor
+>>> New York, NY 10013
+>>> 917-414-9340
+>>> 631-204-8102
+>>>
+>>>
+>>>
+>>
+>> --
+>> Henry Putnam Briffel <http://surgogroup.com/24m11j296wy5l2u/>
+>> Director of Business Development
+>> Surgo Group
+>> 40 Worth Street, 10th Floor
+>> New York, NY 10013
+>> 917-414-9340
+>> 631-204-8102
+>>
+>>
+>>
+>
+> --
+> Henry Putnam Briffel <http://surgogroup.com/24m11j296wy5l2u/>
+> Director of Business Development
+> Surgo Group
+> 40 Worth Street, 10th Floor
+> New York, NY 10013
+> 917-414-9340
+> 631-204-8102
+>
+>
+>
+>
+
+--001a114259a2dd007c052835f059
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir="ltr"><div>Hey, so good, it help us alot.</div><div><br></div><div>Basically we have the same, just with different names, let me explain you:</div><div><br></div><div><span style="color:rgb(47,47,47);font-size:12.8px;line-height:19px">Diferences: </span></div><div><br></div><div><span id="docs-internal-guid-2a61b927-f949-ad60-bed4-e0b049e01f72"><b><font size="4"><br></font></b><div dir="ltr" style="margin-left:0pt"><table style="border:none;border-collapse:collapse;width:602px"><colgroup><col width="*"><col width="*"></colgroup><tbody><tr style="height:0px"><td style="border:1px solid rgb(0,0,0);vertical-align:top;padding:7px"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt"><span style="font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap;background-color:transparent"><b><font size="4">NYFS</font></b></span></p></td><td style="border:1px solid rgb(0,0,0);vertical-align:top;padding:7px"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt"><span style="font-family:Arial;vertical-align:baseline;white-space:pre-wrap"><b><font size="4">Matthew Stellwagen</font></b></span></p></td></tr><tr style="height:0px"><td style="border:1px solid rgb(0,0,0);vertical-align:top;padding:7px"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt"><span style="font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap;background-color:transparent">Basic web page</span></p></td><td style="border:1px solid rgb(0,0,0);vertical-align:top;padding:7px"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt"><span style="font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap;background-color:transparent">--</span></p></td></tr><tr style="height:0px"><td style="border:1px solid rgb(0,0,0);vertical-align:top;padding:7px"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt"><span style="font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap;background-color:transparent">Medium web page</span></p><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt"><span style="font-family:Arial;vertical-align:baseline;white-space:pre-wrap;background-color:transparent"><font color="#bf9000">-Is the same</font></span></p><br><br></td><td style="border:1px solid rgb(0,0,0);vertical-align:top;padding:7px"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt"><span style="font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap">Website Design with Content Management</span></p><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt"><span style="font-family:Arial;vertical-align:baseline;white-space:pre-wrap"><font color="#bf9000">-Is the same</font></span></p></td></tr><tr style="height:0px"><td style="border:1px solid rgb(0,0,0);vertical-align:top;padding:7px"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt"><span style="font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap;background-color:transparent">Advanced web page</span></p><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt"><span style="font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap;background-color:rgb(56,118,29)"><font size="1">-Advanced systems, is not just eCommerce, can be some specialist system for a specific business, offering integration development and not-web systems</font></span></p><br></td><td style="border:1px solid rgb(0,0,0);vertical-align:top;padding:7px"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt"><span style="font-family:Arial;color:rgb(47,47,47);vertical-align:baseline;white-space:pre-wrap">Custom eCommerce Website Development</span></p><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt"><span style="font-family:Arial;vertical-align:baseline;white-space:pre-wrap"><font color="#bf9000">-Is the same</font></span></p></td></tr></tbody></table></div></span></div><div><span style="color:rgb(47,47,47);font-size:12.8px;line-height:19px"><br></span></div><div><div>I think, we are better, we are offering a basic web system, it means a product cheaper for clients.</div><div><br></div><div>And a specialized product for clients, (Advanced system).</div><div><br></div><div>We are offering a better catalog of products, and with basic web pages, we are offering better prices.</div></div><div><br></div><div>With this, we have a better idea of prices, so in next meeting, we have to put the starting prices for each systems.</div><div><span style="color:rgb(47,47,47);font-size:12.8px;line-height:19px"><br></span></div><div><span style="color:rgb(47,47,47);font-size:12.8px;line-height:19px">Have a nice New Year Eve, and an excelent New Year, we will start 2016 with all the energy and good vibes for NYFS.</span></div><div><br></div><div><span style="color:rgb(47,47,47);font-size:12.8px;line-height:19px"><br></span></div></div><div class="gmail_extra"><br><div class="gmail_quote">2015-12-31 7:18 GMT-05:00 Henry Briffel <span dir="ltr">&lt;<a href="mailto:hpbriffel@gmail.com" target="_blank">hpbriffel@gmail.com</a>&gt;</span>:<br><blockquote class="gmail_quote" style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir="ltr">Hey guys - see below for awesome pricing and proposal details from a friend who has a web design business. Use this going forward in some capacity for language etc. <div><br></div><div>Let me know your thoughts. Please keep this on the agenda for our Wednesday meeting with Danielle. The site examples look great, but we need to work on logo and some copy which Danielle can do for us. She is an expert. </div><div><br></div><div>Happy New Year!</div><div><br clear="all"><div><div><div dir="ltr"><div><div dir="ltr"><div><div dir="ltr"><div><div dir="ltr"><div>Henry P. Briffel <br>222 West 17th Street Apt. 3D<br></div>
+<div>New York, NY 10011</div>
+<div><a href="tel:917-414-9340" value="+19174149340" target="_blank">917-414-9340</a></div></div></div></div></div></div></div></div></div></div>
+<div class="gmail_quote"><br>SAMPLE COPY TO USE (from a competitor)</div><div class="gmail_quote"><br><div style="word-wrap:break-word"><div></div><div>
+
+
+
+
+
+
+
+
+<div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">Below are outlines of Web
+Development Packages. The
+below represents 2 options for a full website build with WordPress
+content management. The second option is for eCommerce website
+development. We do not use templates, all design is custom and
+developed from there. I prefer this method to not only offer a
+unique design but to keep the code clean. All code is optimized for
+SEO and we will integrate YOAST SEO Plugin to any WordPress website build if
+requested. </div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<br></div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+I think the below packages offer a good service at an attractive
+price points. All website builds can be further customized to the client
+specification.</div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<br></div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">Website Design with Content Management: $3,200</div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<br></div>
+<div style="margin:0px">
+<div>
+<ul type="disc" style="margin-bottom:0in;margin-top:0in">
+<li class="MsoNormal" style="color:rgb(0,0,0);line-height:19px;font-family:&#39;Times New Roman&#39;,serif;font-size:12pt;margin:0in 0in 0.0001pt">
+<span style="font-size:10pt;font-family:Helvetica,sans-serif;color:rgb(35,35,35)">
+Custom design based on requirements. Client can review a homepage
+design and provide feedback. </span></li>
+<li class="MsoNormal" style="color:rgb(0,0,0);line-height:19px;font-family:&#39;Times New Roman&#39;,serif;font-size:12pt;margin:0in 0in 0.0001pt">
+<span style="font-size:10pt;font-family:Helvetica,sans-serif;color:rgb(35,35,35)">
+Complete responsive website development. Pages
+are optimized for mobile viewing and will automatically
+adjust page layouts to tablet and smartphones
+viewports. </span></li>
+<li class="MsoNormal" style="color:rgb(0,0,0);line-height:19px;font-family:&#39;Times New Roman&#39;,serif;font-size:12pt;margin:0in 0in 0.0001pt">
+<span style="font-size:10pt;font-family:Helvetica,sans-serif;color:rgb(35,35,35)">
+WordPress Content management system backend with a secure login,
+you will be able to update page text content at any
+time. </span></li>
+<li class="MsoNormal" style="color:rgb(0,0,0);line-height:19px;font-family:&#39;Times New Roman&#39;,serif;font-size:12pt;margin:0in 0in 0.0001pt">
+<span style="font-size:10pt;font-family:Helvetica,sans-serif;color:rgb(35,35,35)">
+5 - 8 pages of website content including stock images.</span></li>
+<li class="MsoNormal" style="color:rgb(35,35,35);line-height:19px;font-family:&#39;Times New Roman&#39;,serif;font-size:12pt;margin:0in 0in 0.0001pt">
+<span style="font-size:10pt;font-family:Helvetica,sans-serif">Integration
+of social media accounts (if applicable), either through direct
+feeds on the website and/or sharing buttons.</span></li>
+<li class="MsoNormal" style="color:rgb(35,35,35);line-height:19px;font-family:&#39;Times New Roman&#39;,serif;font-size:12pt;margin:0in 0in 0.0001pt">
+<span style="font-size:10pt;font-family:Helvetica,sans-serif">Custom
+contact form with GoogleMaps integration (if
+applicable).</span></li>
+<li class="MsoNormal" style="color:rgb(0,0,0);line-height:19px;font-family:&#39;Times New Roman&#39;,serif;font-size:12pt;margin:0in 0in 0.0001pt">
+<span style="font-size:10pt;font-family:Helvetica,sans-serif;color:rgb(35,35,35)">
+Website security to prevent against spam and malware
+attacks. </span></li>
+<li class="MsoNormal" style="color:rgb(35,35,35);line-height:19px;font-family:&#39;Times New Roman&#39;,serif;font-size:12pt;margin:0in 0in 0.0001pt">
+<span style="font-size:10pt;font-family:Helvetica,sans-serif">Hosting and
+domain setup. (client pays cost for domain and hosting but setup
+and management is included).</span></li>
+<li class="MsoNormal" style="color:rgb(35,35,35);line-height:19px;font-family:&#39;Times New Roman&#39;,serif;font-size:12pt;margin:0in 0in 0.0001pt">
+<font face="Helvetica" style="font-size:13px"><font color="#2F2F2F">Clean code optimized for search traffic and fully
+compliant with  the latest W3C XHTML and CSS
+compliance </font></font> <span style="font-size:13px;font-family:Helvetica;color:rgb(47,47,47)">standards.
+All markup code and styles will be tested in current versions of
+all major browsers including those </span> <span style="font-size:13px;font-family:Helvetica;color:rgb(47,47,47)">made
+by Apple, Google Chrome, Microsoft, Mozilla and Opera.</span></li>
+</ul>
+<div><font color="#2F2F2F"><span style="line-height:19px"><br></span></font></div>
+<div><font color="#2F2F2F"><span style="line-height:19px">Custom
+eCommerce Website Development:
+$6,500 </span></font></div>
+<div style="margin:0px"><br></div>
+<div style="margin:0px">
+<div>
+<ul type="disc" style="margin-bottom:0in;margin-top:0in">
+<li class="MsoNormal" style="margin:0in 0in 0.0001pt">
+<font color="#232323" face="Helvetica, sans-serif"><span style="line-height:19px">Includes Website Development listed
+above.</span></font></li>
+<li class="MsoNormal" style="margin:0in 0in 0.0001pt">
+<font color="#232323" face="Helvetica, sans-serif"><span style="line-height:19px">Integration of eCommerce management- order
+management, inventory management, client login and account
+management.</span></font></li>
+<li class="MsoNormal" style="margin:0in 0in 0.0001pt">
+<font color="#232323" face="Helvetica, sans-serif"><span style="line-height:19px">Setup of up to 50 products.</span></font></li>
+<li class="MsoNormal" style="margin:0in 0in 0.0001pt">
+<font color="#232323" face="Helvetica, sans-serif"><span style="line-height:19px">Merchant Gateway setup for credit card
+transactions on site. </span></font></li>
+<li class="MsoNormal" style="margin:0in 0in 0.0001pt">
+<font color="#232323" face="Helvetica, sans-serif"><span style="line-height:19px">Shopping cart customization-shipping, sales
+tax, order routing to designated emails.</span></font></li>
+<li class="MsoNormal" style="margin:0in 0in 0.0001pt">
+<font color="#232323" face="Helvetica, sans-serif"><span style="line-height:19px">Instructions on managing
+products. </span></font></li>
+</ul>
+<div><font color="#232323" face="Helvetica, sans-serif"><span style="line-height:19px"><br></span></font></div><div><font color="#232323" face="Helvetica, sans-serif"><span style="line-height:19px">If you would like to review my portfolio please visit my company website at: </span></font><a href="http://540designstudio.com/" style="font-family:helvetica,arial" target="_blank">http://540designstudio.com</a>. <span style="line-height:19px;color:rgb(35,35,35);font-family:Helvetica,sans-serif">Look forward to discussing further. Thanks. </span></div>
+</div>
+</div>
+</div>
+</div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<br></div><div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">Phone: <a href="tel:203-321-5435" value="+12033215435" target="_blank">203-321-5435</a></div><div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">Email: <a href="mailto:matt@540designstudio.com" target="_blank">matt@540designstudio.com</a></div><div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto"><br></div><div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto"><br></div>
+<div>
+<div style="font-family:helvetica,arial;font-size:13px">
+-- <br>
+<div style="line-height:normal">Matthew Stellwagen</div>
+<div style="line-height:normal"><b>540 Design Studio,
+LLC</b></div>
+<div style="line-height:normal"><a href="tel://203.321.5435" target="_blank">203.321.5435</a></div>
+<div style="line-height:normal"><a href="http://540designstudio.com/" target="_blank">http://540designstudio.com</a></div>
+<div style="line-height:normal"><br></div>
+</div>
+</div>
+<br>
+<p style="color:#000">On September 29, 2015 at 4:03:02 PM, Henry
+Briffel (<a href="mailto:henry@surgogroup.com" target="_blank">henry@surgogroup.com</a> ) wrote:</p>
+<blockquote type="cite">
+<div>
+<div><span>Perfect talk to you then. Thanks <br>
+<br>
+On Tuesday, September 29, 2015, Matthew Stellwagen &lt;<a href="mailto:matt@540designstudio.com" target="_blank">matt@540designstudio.com</a> &gt;
+wrote:<br></span>
+<blockquote class="gmail_quote" style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+<div style="word-wrap:break-word">
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<span>Hi Henry, </span></div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<span><br></span></div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<span>No Problem. 3:30pm tomorrow works fine for me. I can give you
+a call on your cell then. </span></div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<span><br></span></div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<span>Thanks, Matt</span></div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<span><br></span></div>
+<div>
+<div style="font-family:helvetica,arial;font-size:13px">
+<span>-- <br></span>
+<div style="line-height:normal"><span>Matthew
+Stellwagen</span></div>
+<div style="line-height:normal"><span><b>540 Design Studio,
+LLC</b></span></div>
+<div style="line-height:normal"><span><a href="tel://203.321.5435" target="_blank">203.321.5435</a></span></div>
+<div style="line-height:normal"><span><a href="http://540designstudio.com/" target="_blank">http://540designstudio.com</a></span></div>
+<div style="line-height:normal"><span><br></span></div>
+</div>
+</div>
+<span><br></span>
+<p style="color:#000"><span>On September 29, 2015 at 3:52:33 PM,
+Henry Briffel (<a>henry@surgogroup.com</a>
+) wrote:</span></p>
+<blockquote type="cite">
+<div>
+<div><span><span><br>
+Hi Matt- nice to meet you. I&#39;m free tomorrow after 3pm if you want
+to have a call? Sorry I didn&#39;t get back to you sooner. I didn&#39;t see
+the email. It nested funny. Any way, my cell is
+<a href="tel:9174149340" value="+19174149340" target="_blank">9174149340</a>. </span></span>
+<div><span><br></span></div>
+<div><span>Let me know if 330pm or
+4pm works? </span></div>
+<div><span><br></span></div>
+<div><span>Thanks!<br></span>
+<div><span><br></span></div>
+<div><span><br>
+On Monday, September 28, 2015, Matthew Stellwagen &lt;<a>matt@540designstudio.com</a>
+&gt; wrote:<br></span>
+<blockquote class="gmail_quote" style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+<div style="word-wrap:break-word">
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<span>Hi Henry, </span></div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<span><br></span></div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<span>Nice to meet you as well. Yes, it would be great to schedule
+a call to chat further. I am available tomorrow and Wednesday after
+12pm and anytime on Thursday. </span></div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<span><br></span></div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<span>Let me know if there is a good time that would work for
+you. </span></div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<span><br></span></div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<span>Thanks, Matt </span></div>
+<div style="font-family:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-height:auto">
+<span><br></span></div>
+<div>
+<div style="font-family:helvetica,arial;font-size:13px">
+<span>-- <br></span>
+<div style="line-height:normal"><span>Matthew
+Stellwagen</span></div>
+<div style="line-height:normal"><span><b>540 Design Studio,
+LLC</b></span></div>
+<div style="line-height:normal"><span><a href="tel://203.321.5435" target="_blank">203.321.5435</a></span></div>
+<div style="line-height:normal"><span><a href="http://540designstudio.com/" target="_blank">http://540designstudio.com</a></span></div>
+<div style="line-height:normal"><span><br></span></div>
+</div>
+</div>
+<span><br></span>
+<p style="color:#000"><span>On September 28, 2015 at 2:04:30 PM,
+Henry Briffel (<a>henry@surgogroup.com</a> ) wrote:</span></p>
+<blockquote type="cite">
+<div>
+<div><span><span>Thanks, Jon. Matt, Great to meet you. Do you
+want to catch up on the phone this week? Please let me know you&#39;re
+schedule.</span></span>
+<div><span><br></span></div>
+<div><span>Jon, are you coming tomorrow am? </span></div>
+<div><span><br></span></div>
+<div><span>Thanks!<br>
+<br>
+On Monday, September 28, 2015, Jon Stellwagen
+&lt;<a>Jon.Stellwagen@tbrglobal.com</a> &gt; wrote:<br></span>
+<blockquote class="gmail_quote" style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+<div lang="EN-US" link="#0563C1" vlink="#954F72">
+<div>
+<p class="MsoNormal"><span>Henry -  Matt please meet one
+another. </span></p>
+<p class="MsoNormal"><span> </span></p>
+<p class="MsoNormal"><span>I think you both have a lot in common
+and would great connections for networking.</span></p>
+<p class="MsoNormal"><span> </span></p>
+<p class="MsoNormal"><span>Henry’s website: <a href="http://www.surgogroup.com" target="_blank">www.surgogroup.com</a></span></p>
+<p class="MsoNormal"><span>Matt’s website: <a href="http://www.540designstudio.com" target="_blank">www.540designstudio.com</a></span></p>
+<p class="MsoNormal"><span> </span></p>
+<p class="MsoNormal"><span><span style="font-size:10.0pt">Jon
+Stellwagen</span></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;color:#a6a6a6">Director of Sales North
+America</span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"> </span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;color:#a6a6a6">D:  </span> <span style="font-size:10.0pt;color:black"><a href="tel:857-214-7510" value="+18572147510" target="_blank">857-214-7510</a></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;color:#a6a6a6">M: </span> <span style="font-size:10.0pt;color:black"><a href="tel:914-879-9981" value="+19148799981" target="_blank">914-879-9981</a></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;color:#a6a6a6">E:   </span>
+<span style="font-size:10.0pt;color:#46166b"><a><span style="color:#0563c1">jon.stellwagen@tbrglobal.com</span></a></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;color:#a6a6a6">W: </span> <span style="font-size:10.0pt"><a href="http://www.tbrglobal.com/" target="_blank"><span style="color:#46166b">www.tbrglobal.com</span></a></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"> </span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;color:#a6a6a6">24/7:</span> <span style="font-size:10.0pt;color:black"><a href="tel:914-879-9981" value="+19148799981" target="_blank">914-879-9981</a></span></p>
+<p class="MsoNormal"> </p>
+<p class="MsoNormal"> </p>
+<p class="MsoNormal"><b><img border="0" width="130" height="106" alt="file:///Users/matt540/Library/Containers/it.bloop.airmail/Data/Library/Application Support/Airmail/General/Local/1443475772765593088/Attachments/image001.png@01CFEC6A.EEBA50B0"></b></p>
+<p class="MsoNormal"><span style="font-size:8.0pt;color:#a6a6a6"> </span></p>
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:gray">
+Thebookingroom USA Inc,<br>
+1266 Furnace Brook Parkway<br>
+Suite 100B</span></p>
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:gray">
+Quincy MA02169<br>
+Tax ID: 46-0733000</span></p>
+<p class="MsoNormal"><span style="font-size:8.0pt;color:#a6a6a6"> </span></p>
+<p class="MsoNormal"><span style="font-size:8.0pt;color:#a6a6a6"> </span></p>
+<p class="MsoNormal"><span style="color:#1f497d"><img border="0" width="488" height="198" alt="file:///Users/matt540/Library/Containers/it.bloop.airmail/Data/Library/Application Support/Airmail/General/Local/1443475772765593088/Attachments/image002.jpg@01D03FAF.53C23E90"></span></p>
+<p class="MsoNormal"> </p>
+<p class="MsoNormal"><span style="font-size:8.0pt;font-family:&quot;Arial&quot;,sans-serif;color:gray">
+Disclaimer<br>
+<br>
+The information transmitted is the property of thebookingroom and
+is intended only for the person to which it is addressed and may
+contain confidential and/or privileged material. Statements and
+opinions expressed in this e-mail may not represent those of the
+company. Any review, retransmission, dissemination and other use
+of, or taking of any action in reliance upon, this information by
+persons or entities other than the intended recipient is
+prohibited. If you received this in error, please contact the
+sender immediately and delete the material from any computer.
+Whilst we take reasonable precautions to minimize risk, you must
+carry out your own virus checks before opening attachments or
+reading e-mails and we do not accept liability for any damage or
+loss in this respect.</span></p>
+<p class="MsoNormal"><span style="color:#1f497d"> </span></p>
+<p class="MsoNormal"> </p>
+</div>
+</div>
+</blockquote>
+</div>
+<br>
+<br>
+--<br>
+<div dir="ltr">
+<div>
+<div dir="ltr">
+<div>
+<div dir="ltr">
+<div>
+<div dir="ltr">
+<div>
+<div dir="ltr"><a href="http://surgogroup.com/24m11j296wy5l2u/" target="_blank">Henry Putnam Briffel</a>
+<div>Director of Business Development </div>
+<div>Surgo Group</div>
+<div>40 Worth Street, 10th Floor</div>
+<div>New York, NY 10013</div>
+<div><a href="tel:917-414-9340" value="+19174149340" target="_blank">917-414-9340</a></div>
+<div><a href="tel:631-204-8102" value="+16312048102" target="_blank">631-204-8102</a> </div>
+<div><br></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<br></div>
+</div>
+</blockquote>
+</div>
+</blockquote>
+</div>
+</div>
+<br><span class="HOEnZb"><font color="#888888"><span><font color="#888888">
+<br>
+--<br>
+<div dir="ltr">
+<div>
+<div dir="ltr">
+<div>
+<div dir="ltr">
+<div>
+<div dir="ltr">
+<div>
+<div dir="ltr"><a href="http://surgogroup.com/24m11j296wy5l2u/" target="_blank">Henry Putnam Briffel</a>
+<div>Director of Business Development </div>
+<div>Surgo Group</div>
+<div>40 Worth Street, 10th Floor</div>
+<div>New York, NY 10013</div>
+<div><a href="tel:917-414-9340" value="+19174149340" target="_blank">917-414-9340</a></div>
+<div><a href="tel:631-204-8102" value="+16312048102" target="_blank">631-204-8102</a> </div>
+<div><br></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<br></font></span></font></span></div><span class="HOEnZb"><font color="#888888"><span><font color="#888888">
+</font></span></font></span></div><span class="HOEnZb"><font color="#888888"><span><font color="#888888">
+</font></span></font></span></blockquote><span class="HOEnZb"><font color="#888888"><span><font color="#888888">
+</font></span></font></span></div><span class="HOEnZb"><font color="#888888"><span><font color="#888888">
+</font></span></font></span></blockquote><span class="HOEnZb"><font color="#888888"><span><font color="#888888">
+<br>
+<br>
+--<br>
+<div dir="ltr">
+<div>
+<div dir="ltr">
+<div>
+<div dir="ltr">
+<div>
+<div dir="ltr">
+<div>
+<div dir="ltr"><a href="http://surgogroup.com/24m11j296wy5l2u/" target="_blank">Henry Putnam Briffel</a>
+<div>Director of Business Development </div>
+<div>Surgo Group</div>
+<div>40 Worth Street, 10th Floor</div>
+<div>New York, NY 10013</div>
+<div><a href="tel:917-414-9340" value="+19174149340" target="_blank">917-414-9340</a></div>
+<div><a href="tel:631-204-8102" value="+16312048102" target="_blank">631-204-8102</a> </div>
+<div><br></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<br></font></span></font></span></div>
+</div>
+</blockquote>
+</div>
+
+
+</div></div></div><br></div></div>
+</blockquote></div><br></div>
+
+--001a114259a2dd007c052835f059--

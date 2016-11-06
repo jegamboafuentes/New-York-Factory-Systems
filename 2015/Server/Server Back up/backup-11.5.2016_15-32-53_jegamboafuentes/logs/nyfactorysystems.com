@@ -1,0 +1,7 @@
+66.249.64.74 - - [05/Nov/2016:05:37:59 -0700] "GET /robots.txt HTTP/1.1" 404 - "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.64.84 - - [05/Nov/2016:05:37:59 -0700] "GET / HTTP/1.1" 200 4308 "-" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.64.79 - - [05/Nov/2016:05:38:04 -0700] "GET /css/stylish-portfolio.css HTTP/1.1" 200 1128 "http://www.nyfactorysystems.com/" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.64.74 - - [05/Nov/2016:05:38:06 -0700] "GET /css/index.css HTTP/1.1" 200 159 "http://www.nyfactorysystems.com/" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.64.79 - - [05/Nov/2016:05:38:07 -0700] "GET /css/bootstrap.min.css HTTP/1.1" 200 19751 "http://www.nyfactorysystems.com/" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.64.74 - - [05/Nov/2016:05:38:08 -0700] "GET /font-awesome/css/font-awesome.min.css HTTP/1.1" 200 5042 "http://www.nyfactorysystems.com/" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+5.255.250.33 - - [05/Nov/2016:08:35:35 -0700] "GET /robots.txt HTTP/1.1" 404 - "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"

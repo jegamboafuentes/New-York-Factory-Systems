@@ -1,0 +1,527 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201512 will be lost/reset.
+# Last config file used to build this data file was /home/jegamboafuentes/tmp/awstats/awstats.nyfactorysystems.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2024                
+POS_TIME 2706                
+POS_VISITOR 18558               
+POS_DAY 21607               
+POS_DOMAIN 3504                
+POS_LOGIN 3914                
+POS_ROBOT 4069                
+POS_WORMS 4409                
+POS_EMAILSENDER 4540                
+POS_EMAILRECEIVER 4683                
+POS_SESSION 22364               
+POS_SIDER 22564               
+POS_FILETYPES 4818                
+POS_DOWNLOADS 5085                
+POS_OS 5133                
+POS_BROWSER 5368                
+POS_SCREENSIZE 6043                
+POS_UNKNOWNREFERER 6117                
+POS_UNKNOWNREFERERBROWSER 6440                
+POS_ORIGIN 6593                
+POS_SEREFERRALS 6734                
+POS_PAGEREFS 6889                
+POS_SEARCHWORDS 7244                
+POS_KEYWORDS 7396                
+POS_MISC 2370                
+POS_ERRORS 7455                
+POS_CLUSTER 3770                
+POS_SIDER_404 7580                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160101032213 154 39428 13260576853224
+FirstTime 20151201011923
+LastTime 20151231173530
+LastUpdate 20160101050650 154 0 153 0 0
+TotalVisits 121                 
+TotalUnique 71                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 73                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 4 73144 2 10 180386
+1 14 53 830851 2 4 37226
+2 39 292 16379287 4 13 184683
+3 0 0 0 0 0 0
+4 1 1 22341 3 10 202295
+5 4 31 3760431 1 6 161595
+6 32 198 11656349 2 6 37702
+7 24 162 10296913 3 14 346007
+8 27 151 9648555 7 11 42442
+9 64 412 23134710 5 47 882913
+10 53 276 15191586 7 18 349965
+11 11 87 2603549 6 21 765606
+12 71 480 16480811 11 43 1410132
+13 60 469 17465995 3 5 55393
+14 64 391 21538419 2 17 467154
+15 33 212 13234513 3 9 190699
+16 4 20 1003074 1 4 18583
+17 42 226 15867360 4 25 203721
+18 22 160 10260579 1 4 151956
+19 47 255 12977016 4 11 198138
+20 101 627 24636982 5 49 196272
+21 12 43 1876353 1 2 18851
+22 2 13 418722 0 1 208
+23 10 47 1861094 3 14 342676
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+us 617 3948 195393754
+mx 106 644 35482972
+ua 3 3 54977
+ca 3 3 58675
+ru 2 2 40984
+fr 2 2 36810
+jp 1 1 18643
+cn 1 1 22341
+zz 1 1 18167
+de 1 1 18643
+ir 1 1 18167
+ro 1 1 18167
+se 1 1 18167
+gb 1 1 18167
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+googlebot 149 4949877 20151231122809 0
+google[_+\s]web[_+\s]preview 17 702547 20151229114835 0
+bot[\s_+:,\.\;\/\\-] 13 527765 20151222041633 0
+crawl 3 61128 20151229152211 0
+netcraft 1 18643 20151209214539 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+eot 9 437057 0 0
+css 1070 40136165 0 0
+png 428 61734177 0 0
+ttf 6 472692 0 0
+ico 40 13692590 0 0
+woff2 47 809408 0 0
+woff 232 10193864 0 0
+html 447 6571548 0 0
+jpg 987 53213086 0 0
+js 1344 43958047 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+blackberry 1 1
+linuxandroid 252 35
+macosx6 16 3
+winxp 3 3
+ios_iphone 2190 338
+linux 35 14
+win7 1356 220
+macosx 650 96
+win2003 10 2
+win8 3 3
+Unknown 32 15
+ios_ipad 62 11
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 33
+msie6.0 1 1
+firefox28.0 3 3
+chrome41.0.2272.96 17 3
+chrome12.0.702.0 1 1
+firefox18.0 2 2
+chrome31.0.1650.57 1 1
+iphone 548 82
+chrome39.0.2171.36 1 1
+msie8.0 1 1
+firefox13.0.1 1 1
+chrome47.0.2526.80 57 14
+msie7.0 12 4
+chrome37.0.2062.120 5 5
+chrome10.0.648.11 1 1
+Unknown 26 13
+chrome47.0.2526.83 235 32
+blackberry 1 1
+chrome45.0.2454.99 1 1
+firefox42.0 347 48
+safari9.0.1 219 36
+firefox38.0 1 1
+chrome47.0.2526.73 20 7
+msie11.0 163 25
+safari9.0 1647 256
+firefox33.0 1 1
+chrome47.0.2526.106 1118 156
+mozilla 5 2
+safari5.0.4 16 3
+firefox14.0.1 1 1
+firefox6.0 15 7
+chrome46.0.2490.86 57 13
+chrome27.0.1453.116 1 1
+safari 85 17
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Google_favicon 20151207212139
+\ 20151229210253
+WhatsApp 20151229093748
+MobileSafari/601.1_CFNetwork/758.1.6_Darwin/15.0.0 20151207090506
+Mozilla/4.0_(compatible;_http://search.thunderstone.com/texis/websearch/about.html) 20151212211757
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Google_favicon 20151207212139
+\ 20151229210253
+WhatsApp 20151229093748
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 153 184
+From1 1 1
+From2 7 7
+From3 11 11
+From4 569 4407
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 7 7
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+http://m.facebook.com 5 5
+http://pizza-imperia.com 1 1
+http://hvd-store.com 1 1
+http://burger-imperia.com 1 1
+https://www.facebook.com 1 1
+http://hundejo.com 1 1
+https://mawords.com/nyfactorysystems.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 7 1513
+206 4 150457
+301 4 1024
+404 125 31649
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 58
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/js/plugins/morris/morris-data.js 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/css/shop-item.css 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/img/ipad.png 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/index.html
+/robots.txt 39 -
+/administration/webdesign/templates/bootsrap/bower_components/raphael/raphael-min.js 2 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/index.html
+/apple-touch-icon.png 6 -
+/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/css/plugins/morris.css 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/index.html
+/admin.php 1 http://nyfactorysystems.com/admin.php
+/administration/webdesign/templates/bootsrap/bower_components/morrisjs/morris.css 2 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/css/plugins/morris.css 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/img/phones.png 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/img/dog.png 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/index.html
+/templates/system/css/error.css 1 -
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/js/jquery.js 3 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/font-awesome/css/font-awesome.min.css 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/css/shop-homepage.css 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/index.html
+/index.php/admin/ 1 http://nyfactorysystems.com/index.php/admin/
+/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/js/plugins/morris/morris.min.js 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/js/cbpAnimatedHeader.js 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+/administration/webdesign/templates/bootsrap/bower_components/font-awesome/css/font-awesome.min.css 2 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/css/sb-admin.css 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/img/dog.png 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/js/jqBootstrapValidation.js 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+/administration/webdesign/templates/bootsrap/js/morris-data.js 2 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/index.html
+/administration/webdesign/templates/bootsrap/bower_components/metisMenu/dist/metisMenu.min.js 2 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/css/shop-item.css 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/js/bootstrap.min.js 3 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/css/landing-page.css 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/js/plugins/morris/morris-data.js 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/img/ipad.png 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/css/sb-admin.css 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+/administration/webdesign/templates/bootsrap/dist/js/sb-admin-2.js 2 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/index.html
+/apple-touch-icon-precomposed.png 1 -
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/css/shop-homepage.css 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/index.html
+/administration/webdesign/templates/bootsrap/bower_components/jquery/dist/jquery.min.js 2 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/index.html
+/administration/webdesign/templates/bootsrap/dist/css/timeline.css 2 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/css/bootstrap.min.css 3 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/js/plugins/morris/raphael.min.js 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/js/freelancer.js 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+/administration/webdesign/templates/bootsrap/bower_components/metisMenu/dist/metisMenu.min.css 2 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/index.html
+/administration/webdesign/templates/bootsrap/bower_components/bootstrap/dist/css/bootstrap.min.css 2 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/font-awesome/css/font-awesome.min.css 2 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/css/freelancer.css 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+/administration/webdesign/templates/bootsrap/dist/css/sb-admin-2.css 2 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/js/plugins/morris/raphael.min.js 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/js/classie.js 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+/apple-touch-icon-120x120.png 3 -
+/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/img/phones.png 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/css/shop-homepage.css 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/index.html
+/administration/webdesign/templates/bootsrap/bower_components/morrisjs/morris.min.js 2 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/index.html
+/administrator 1 -
+/bitrix/admin/ 1 http://nyfactorysystems.com/bitrix/admin/
+/apple-touch-icon-120x120-precomposed.png 3 -
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/js/plugins/morris/morris.min.js 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+/administration/webdesign/templates/bootsrap/bower_components/bootstrap/dist/js/bootstrap.min.js 2 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/css/landing-page.css 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/css/shop-homepage.css 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/index.html
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/js/contact_me.js 1 http://nyfactorysystems.com/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/index.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 73
+74.73.166.141 169 1266 43907314 20151231110954
+66.108.184.80 83 508 30523226 20151230204202
+69.126.57.158 60 284 7285346 20151224065501
+50.137.123.232 47 323 20466554 20151229065248
+173.56.78.103 44 320 18354304 20151229194342
+200.38.123.143 30 186 11657680 20151229133700
+201.141.9.23 26 138 6558317 20151229063720
+187.191.7.24 26 187 11581963 20151229094042
+209.191.162.17 25 178 11302278 20151228151455
+108.168.239.138 23 169 10514742 20151227144010
+107.77.76.63 23 137 7242308 20151228090205
+107.19.188.99 22 160 10260579 20151229074411
+108.176.52.226 20 105 4723278 20151229094208
+107.77.106.17 13 43 0 20151227140839
+189.142.20.165 7 45 2414123 20151229111346
+38.99.82.191 6 27 916330 20151227163044
+206.71.239.141 6 60 3772536 20151231132650
+8.28.16.254 6 6 104941 20151228082451
+189.217.126.240 6 34 1100308 20151224013213
+198.23.106.18 6 48 4805309 20151231050020
+66.249.83.236 5 10 1249617 20151231173530
+208.54.37.158 5 20 1016639 20151208130101
+66.249.83.228 4 23 3446432 20151231173530
+189.217.122.176 4 19 18643 20151211005747
+66.249.83.232 3 17 3280669 20151221195308
+93.81.163.22 1 1 18643 20151211140403
+91.210.145.152 1 1 18167 20151202200313
+83.233.119.138 1 1 18167 20151203001110
+162.244.33.8 1 1 18167 20151207192313
+69.58.178.58 2 2 40284 20151220204322
+66.249.88.123 1 2 388237 20151207212139
+107.77.76.83 1 12 400079 20151212224529
+66.249.84.221 2 8 310150 20151215103606
+50.193.202.82 1 1 18643 20151218232557
+192.99.150.120 2 2 40508 20151226192704
+150.70.188.169 1 1 18643 20151219012625
+208.54.80.205 1 9 279683 20151228235801
+166.137.252.114 1 14 454941 20151215103635
+195.154.56.44 1 1 18167 20151205190945
+120.42.118.158 1 1 22341 20151228045703
+187.237.231.8 3 17 1060024 20151207090504
+176.221.69.196 1 1 18167 20151208000611
+66.249.88.113 1 1 18167 20151208172446
+166.137.252.128 3 3 35856 20151229093748
+206.183.1.74 2 5 169100 20151212211757
+166.137.252.118 3 16 710096 20151223155214
+185.101.107.189 1 1 18167 20151207141027
+85.15.190.172 1 1 22341 20151228051445
+66.249.88.83 0 1 370070 
+54.157.10.203 1 1 22343 20151230015727
+107.77.76.18 3 18 746125 20151222122717
+66.249.84.217 1 4 196412 20151215103600
+107.77.76.54 3 19 764584 20151209173913
+204.4.182.14 3 29 2660158 20151221080831
+176.126.252.11 1 1 18167 20151202020535
+31.129.172.166 1 1 18643 20151208220424
+38.100.21.63 1 5 161863 20151212211654
+12.47.208.34 2 14 756872 20151228082430
+66.249.84.213 0 5 566709 
+173.239.114.253 1 1 18643 20151219012506
+216.55.138.211 3 16 777285 20151210102403
+199.87.154.251 1 1 18167 20151203170757
+40.115.184.93 1 1 18643 20151220100902
+172.56.6.244 2 21 687303 20151228090250
+217.12.204.104 1 1 18167 20151205002040
+64.74.215.51 3 11 376503 20151229210253
+46.105.122.64 1 1 18643 20151211010239
+38.100.21.171 1 5 161863 20151218161835
+166.137.252.30 3 18 722503 20151224093008
+187.191.6.153 1 1 18643 20151214102357
+148.246.193.11 3 17 1073271 20151212173203
+66.249.83.148 1 2 388237 20151207211723
+136.243.48.84 1 1 18643 20151216173953
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20151201 4 18 388237 2
+20151202 2 2 36334 2
+20151203 6 20 1132692 4
+20151204 2 2 36334 2
+20151205 6 20 762622 4
+20151206 1 2 388237 1
+20151207 10 40 2242902 6
+20151208 25 107 3992502 6
+20151209 8 37 1510467 4
+20151210 5 18 814571 3
+20151211 3 3 55929 3
+20151212 12 58 2920266 6
+20151213 1 3 388713 1
+20151214 5 19 425999 3
+20151215 5 33 1916925 4
+20151216 4 17 727240 2
+20151218 2 6 180506 2
+20151219 6 21 796069 4
+20151220 23 90 1239803 4
+20151221 4 20 2292212 4
+20151222 12 66 2876413 4
+20151223 3 16 710096 1
+20151224 9 51 1439794 3
+20151226 4 18 719490 2
+20151227 195 1371 61274610 8
+20151228 177 1156 56051705 15
+20151229 163 1031 59647144 12
+20151230 15 89 5661692 2
+20151231 29 276 20589130 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 2
+30s-2mn 7
+15mn-30mn 4
+2mn-5mn 2
+0s-30s 99
+30mn-1h 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 50
+/ 127 2297587 97 55
+/font-awesome/fonts/fontawesome-webfont.woff 55 2487176 2 15
+/fonts/glyphicons-halflings-regular.woff 34 585600 0 13
+/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/ 25 269368 0 1
+/administration/webdesign/templates/bootsrap/nyfsTemplatesBootsrap.html 25 147318 14 1
+/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/ 24 168798 1 0
+/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/ 23 154760 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/ 23 545280 0 0
+/fonts/glyphicons-halflings-regular.woff2 23 252392 0 12
+/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/ 22 155971 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/ 22 477223 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/ 22 174762 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/ 22 240692 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/ 22 138529 0 0
+/administration/webdesign/ 21 133095 7 7
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/pages/ 21 998887 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/ 20 591940 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.woff 19 1047232 0 1
+/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/fonts/fontawesome-webfont.woff 19 1047232 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/ 18 4350 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/fonts/fontawesome-webfont.woff 18 981780 0 1
+/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/fonts/fontawesome-webfont.woff 18 981780 0 1
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/fonts/fontawesome-webfont.woff 18 981780 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/fonts/fontawesome-webfont.woff 16 850876 0 4
+/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/fonts/fontawesome-webfont.woff 11 715080 0 2
+/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/contact.html 1 8650 0 1
+/administration/webdesign/templates/bootsrap/startbootstrap-freelancer-1.0.5/font-awesome/fonts/fontawesome-webfont.eot 1 56006 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/fonts/fontawesome-webfont.eot 1 56006 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/fonts/glyphicons-halflings-regular.woff 1 23424 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/fonts/glyphicons-halflings-regular.woff 10 210816 0 1
+/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/fonts/glyphicons-halflings-regular.eot 1 20127 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/font-awesome/fonts/fontawesome-webfont.eot 1 56006 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/fonts/glyphicons-halflings-regular.woff2 8 108168 0 1
+/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/fonts/fontawesome-webfont.eot 1 60767 0 0
+/font-awesome/fonts/fontawesome-webfont.ttf 3 336480 0 2
+/fonts/glyphicons-halflings-regular.ttf 3 136212 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/fonts/glyphicons-halflings-regular.woff2 8 108168 0 1
+/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/post.html 2 19194 0 1
+/administration/webdesign/templates/bootsrap/startbootstrap-sb-admin-1.0.4/font-awesome/fonts/fontawesome-webfont.eot 1 56006 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.woff 1 23424 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.eot 1 56006 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-creative-1.0.2/font-awesome/fonts/fontawesome-webfont.woff2 8 340680 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-landing-page-1.0.5/fonts/glyphicons-halflings-regular.woff 1 23424 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/blog.html 2 13250 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/about.html 2 11692 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-shop-item-1.0.4/fonts/glyphicons-halflings-regular.woff 11 234240 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-clean-blog-1.0.4/about.html 1 6330 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-shop-homepage-1.0.4/fonts/glyphicons-halflings-regular.eot 1 20127 0 0
+/administration/webdesign/templates/bootsrap/startbootstrap-business-casual-1.0.4/contact.html 2 13872 0 1
+/administration/webdesign/templates/bootsrap/startbootstrap-grayscale-1.0.5/font-awesome/fonts/fontawesome-webfont.eot 1 56006 0 0
+END_SIDER

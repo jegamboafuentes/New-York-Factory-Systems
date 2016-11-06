@@ -1,0 +1,98 @@
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-25A33E10-AF68-4404-9D3C-AFEEC83BC448
+Content-Transfer-Encoding: 7bit
+From: Enrique Gamboa - New York Factory Systems <enrique.gamboa@nyfactorysystems.com>
+Mime-Version: 1.0 (1.0)
+Subject: NYFS List of technologies used in systems
+Message-Id: <B615ACC3-E1A6-4EB8-A75E-6AFBB70359DB@nyfactorysystems.com>
+Date: Tue, 29 Dec 2015 23:32:16 -0500
+To: "Henry P. Briffel" <hpbriffel@nyfactorysystems.com>,
+ Jorge Megia <sales@nyfactorysystems.com>
+
+
+--Apple-Mail-25A33E10-AF68-4404-9D3C-AFEEC83BC448
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Databases:
+MySQL=20
+Oracle DB
+Mongo DB
+
+Back-End development:
+J2EE
+PHP
+Node JS
+Express=20
+Wordpress=20
+
+Front-End development=20
+Bootstrap=20
+Angular (Google)=20
+HTML5
+Java script=20
+JQuery=20
+CSS
+Wordpress=20
+--- and a lot of frameworks=20
+
+Project Management tools:
+Git=20
+Google development tools
+FTP
+
+Definition of each topic:
+
+Databases: Are structures for storage information, you can use it for a simp=
+le storage application or in a complex analytics statistics.
+Back-end: Is all the logic and bounds of the system, is in the server and co=
+ntains all the arithmetic and logic stuffs for the systems.
+Front-end: Is the interface, it is the final contact with the client, it rep=
+resent all the back-end as a simple shapes like buttons.=20
+PM tools: Are the tools for know the flow and the quality of the project.
+=20
+
+Enrique Gamboa
+New York Factory Systems=20
+(646) 830 3874=
+
+--Apple-Mail-25A33E10-AF68-4404-9D3C-AFEEC83BC448
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div><b>Databases</b>:</div><div id=3D"Appl=
+eMailSignature">MySQL&nbsp;</div><div id=3D"AppleMailSignature">Oracle DB</d=
+iv><div id=3D"AppleMailSignature">Mongo DB</div><div id=3D"AppleMailSignatur=
+e"><br></div><div id=3D"AppleMailSignature"><b style=3D"background-color: rg=
+ba(255, 255, 255, 0);">Back-End development:</b></div><div id=3D"AppleMailSi=
+gnature">J2EE</div><div id=3D"AppleMailSignature">PHP</div><div id=3D"AppleM=
+ailSignature">Node JS</div><div id=3D"AppleMailSignature">Express&nbsp;</div=
+><div id=3D"AppleMailSignature">Wordpress&nbsp;</div><div id=3D"AppleMailSig=
+nature"><br></div><div id=3D"AppleMailSignature"><b>Front-End development</b=
+>&nbsp;</div><div id=3D"AppleMailSignature">Bootstrap&nbsp;</div><div id=3D"=
+AppleMailSignature">Angular (Google)&nbsp;</div><div id=3D"AppleMailSignatur=
+e">HTML5</div><div id=3D"AppleMailSignature">Java script&nbsp;</div><div id=3D=
+"AppleMailSignature">JQuery&nbsp;</div><div id=3D"AppleMailSignature">CSS</d=
+iv><div id=3D"AppleMailSignature">Wordpress&nbsp;</div><div id=3D"AppleMailS=
+ignature">--- and a lot of frameworks&nbsp;</div><div id=3D"AppleMailSignatu=
+re"><br></div><div id=3D"AppleMailSignature"><b>Project Management tools</b>=
+:</div><div id=3D"AppleMailSignature">Git&nbsp;</div><div id=3D"AppleMailSig=
+nature">Google development tools</div><div id=3D"AppleMailSignature">FTP</di=
+v><div id=3D"AppleMailSignature"><br></div><div id=3D"AppleMailSignature">De=
+finition of each topic:</div><div id=3D"AppleMailSignature"><br></div><div i=
+d=3D"AppleMailSignature"><u>Databases</u>: Are structures for storage inform=
+ation, you can use it for a simple storage application or in a complex analy=
+tics statistics.</div><div id=3D"AppleMailSignature"><u>Back-end</u>: Is all=
+ the logic and bounds of the system, is in the server and contains all the a=
+rithmetic and logic stuffs for the systems.</div><div id=3D"AppleMailSignatu=
+re"><u>Front-end</u>: Is the interface, it is the final contact with the cli=
+ent, it represent all the back-end as a simple shapes like buttons.&nbsp;</d=
+iv><div id=3D"AppleMailSignature"><u>PM tools</u>: Are the tools for know th=
+e flow and the quality of the project.</div><div id=3D"AppleMailSignature">&=
+nbsp;</div><div id=3D"AppleMailSignature"><br>Enrique Gamboa<div>New York Fa=
+ctory Systems&nbsp;</div><div>(646) 830 3874</div></div></body></html>=
+
+--Apple-Mail-25A33E10-AF68-4404-9D3C-AFEEC83BC448--

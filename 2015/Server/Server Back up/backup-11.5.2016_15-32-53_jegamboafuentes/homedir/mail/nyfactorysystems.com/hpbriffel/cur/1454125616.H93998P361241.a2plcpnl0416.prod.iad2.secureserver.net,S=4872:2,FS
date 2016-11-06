@@ -1,0 +1,86 @@
+Return-path: <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Fri, 29 Jan 2016 20:46:56 -0700
+Received: from m69-169.mailgun.net ([166.78.69.169]:34294)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtp (Exim 4.85)
+	(envelope-from <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>)
+	id 1aPMUy-001Vxc-17
+	for hpbriffel@nyfactorysystems.com; Fri, 29 Jan 2016 20:46:56 -0700
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=github.com; q=dns/txt;
+ s=mailo; t=1454125605; h=Content-Transfer-Encoding: Content-Type:
+ Mime-Version: Subject: Message-ID: To: Reply-To: From: Date: Sender;
+ bh=00js+aIjpVd11RIG9xct2Dsi6E5yqYcebmC9OgckmXo=; b=DTa1tCbi0vZLymZG+RWVO7vnpjDOMZMCtKwx4FxGAf8gFSsrwkDN3JTE7Whlc6Jnk2uyXs3L
+ XkMrOvcL8Kle875RO36EVroDsFB8ngk1M8rEEgyacIeMCsYEgtwhTNSl0DlDib/hWlB5RgLu
+ 1OgJypuySSRvcIfkW5Okly4fXaA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=github.com; s=mailo; q=dns;
+ h=Sender: Date: From: Reply-To: To: Message-ID: Subject: Mime-Version:
+ Content-Type: Content-Transfer-Encoding;
+ b=zmFRJ7h/qYCjGfeMtyYETyx0NiSIoFP67p+cPzwLAqD3kIbXlwZunmKteEmWVyMXlrxdGZ
+ /O+kbb3HJFqx6EDEKk/B+KLoVmMeJlKGQXm6k94L2TUIqXOLYQrdsjbfIQNVhGIYTUPUa19t
+ mDtzpbclRjkQ80CH8bz7v9M4gOOSA=
+Sender: jegamboafuentes=gmail.com@github.com
+X-Mailgun-Sid: WyI4OWEzZSIsICJocGJyaWZmZWxAbnlmYWN0b3J5c3lzdGVtcy5jb20iLCAiNDBmIl0=
+Received: from github.com (Unknown [192.30.252.46])
+ by mxa.mailgun.org with ESMTP id 56ac3225.6227db0-in7;
+ Sat, 30 Jan 2016 03:46:45 -0000 (UTC)
+Date: Fri, 29 Jan 2016 19:46:45 -0800
+From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+Reply-To: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+To: hpbriffel@nyfactorysystems.com
+Message-ID: <56ac32254e14e_69563fcc3a3732a0107144@hookshot-fe4-cp1-prd.iad.github.net.mail>
+Subject: [jegamboafuentes/New-York-Factory-Systems] 7bfcfd: Developing Clients
+ System and Pre client Every Day...
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="--==_mimepart_56ac32254dcc0_69563fcc3a3732a010709b";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_56ac32254dcc0_69563fcc3a3732a010709b
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+  Branch: refs/heads/master
+  Home:   https://github.com/jegamboafuentes/New-York-Factory-Systems
+  Commit: 7bfcfd8d927e5d28caf3b715eeae92d1b6a86bc6
+      https://github.com/jegamboafuentes/New-York-Factory-Systems/commit/7bfcfd8d927e5d28caf3b715eeae92d1b6a86bc6
+  Author: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+  Date:   2016-01-29 (Fri, 29 Jan 2016)
+
+  Changed paths:
+    M .gitignore
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/LICENSE
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/README.md
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/css/bootstrap.css
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/css/bootstrap.min.css
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/css/scrolling-nav.css
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/fonts/glyphicons-halflings-regular.eot
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/fonts/glyphicons-halflings-regular.svg
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/fonts/glyphicons-halflings-regular.ttf
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/fonts/glyphicons-halflings-regular.woff
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/fonts/glyphicons-halflings-regular.woff2
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/index.html
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/js/bootstrap.js
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/js/bootstrap.min.js
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/js/jquery.easing.min.js
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/js/jquery.js
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/js/scrolling-nav.js
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/nbproject/project.properties
+    A New York Factory Systems/clients/everydaynewyorker/proposal1/nbproject/project.xml
+    A New York Factory Systems/nyfactorysystems.com-Jan-2016.gz
+    A New York Factory Systems/sqlConnection.php
+    A New York Factory Systems/sub/clients/bdconexion/dev/sqlData.php
+    A New York Factory Systems/sub/clients/bdconexion/prod/sqlData.php
+    M New York Factory Systems/sub/clients/index.php
+    M New York Factory Systems/sub/clients/login.php
+    M New York Factory Systems/sub/clients/menu/index.php
+
+  Log Message:
+  -----------
+  Developing Clients System and Pre client Every Day New Yorker Proposal 1
+
+
+
+----==_mimepart_56ac32254dcc0_69563fcc3a3732a010709b--

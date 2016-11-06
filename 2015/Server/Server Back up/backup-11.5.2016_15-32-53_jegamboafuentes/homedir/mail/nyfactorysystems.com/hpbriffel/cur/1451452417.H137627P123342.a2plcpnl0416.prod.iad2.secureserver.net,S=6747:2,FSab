@@ -1,0 +1,133 @@
+Return-path: <enrique.gamboa@nyfactorysystems.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Tue, 29 Dec 2015 22:13:37 -0700
+Received: from mobile-166-171-185-171.mycingular.net ([166.171.185.171]:8663 helo=[10.110.86.89])
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.85)
+	(envelope-from <enrique.gamboa@nyfactorysystems.com>)
+	id 1aE94q-000W4h-UB; Tue, 29 Dec 2015 22:13:37 -0700
+From: Enrique Gamboa - New York Factory Systems <enrique.gamboa@nyfactorysystems.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-0E09AAED-25A6-4719-A2A1-22AB0F54DC9F
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Subject: NYFS List of technologies used in systems
+Message-Id: <53D0DAC9-3D35-4C8F-95EC-22C66FAC0475@nyfactorysystems.com>
+Date: Wed, 30 Dec 2015 00:13:29 -0500
+To: "Henry P. Briffel" <hpbriffel@nyfactorysystems.com>,
+ Jorge Megia <sales@nyfactorysystems.com>
+X-Mailer: iPhone Mail (13C75)
+
+
+--Apple-Mail-0E09AAED-25A6-4719-A2A1-22AB0F54DC9F
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Databases:
+MySQL=20
+Oracle DB
+Mongo DB
+
+Back-End development:
+J2EE
+PHP
+Node JS
+Express=20
+Wordpress=20
+
+Front-End development=20
+Bootstrap=20
+Angular (Google)=20
+HTML5
+Java script=20
+JQuery=20
+CSS
+Wordpress=20
+--- and a lot of frameworks=20
+
+Project Management tools:
+Git=20
+Google development tools
+FTP
+
+Definition of each topic:
+
+Databases: Are structures for storage information, you can use it for a simp=
+le storage application or in a complex analytics statistics.
+Back-end: Is all the logic and bounds of the system, is in the server and co=
+ntains all the arithmetic and logic stuffs for the systems.
+Front-end: Is the interface, it is the final contact with the client, it rep=
+resent all the back-end as a simple shapes like buttons.=20
+PM tools: Are the tools for know the flow and the quality of the project.
+
+Enrique Gamboa
+New York Factory Systems=20
+(646) 830 3874=
+
+--Apple-Mail-0E09AAED-25A6-4719-A2A1-22AB0F54DC9F
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div><div><span style=3D"background-color: r=
+gba(255, 255, 255, 0);"><b>Databases</b>:</span></div><div id=3D"AppleMailSi=
+gnature"><span style=3D"background-color: rgba(255, 255, 255, 0);">MySQL&nbs=
+p;</span></div><div id=3D"AppleMailSignature"><span style=3D"background-colo=
+r: rgba(255, 255, 255, 0);">Oracle DB</span></div><div id=3D"AppleMailSignat=
+ure"><span style=3D"background-color: rgba(255, 255, 255, 0);">Mongo DB</spa=
+n></div><div id=3D"AppleMailSignature"><span style=3D"background-color: rgba=
+(255, 255, 255, 0);"><br></span></div><div id=3D"AppleMailSignature"><b styl=
+e=3D"background-color: rgba(255, 255, 255, 0);">Back-End development:</b></d=
+iv><div id=3D"AppleMailSignature"><span style=3D"background-color: rgba(255,=
+ 255, 255, 0);">J2EE</span></div><div id=3D"AppleMailSignature"><span style=3D=
+"background-color: rgba(255, 255, 255, 0);">PHP</span></div><div id=3D"Apple=
+MailSignature"><span style=3D"background-color: rgba(255, 255, 255, 0);">Nod=
+e JS</span></div><div id=3D"AppleMailSignature"><span style=3D"background-co=
+lor: rgba(255, 255, 255, 0);">Express&nbsp;</span></div><div id=3D"AppleMail=
+Signature"><span style=3D"background-color: rgba(255, 255, 255, 0);">Wordpre=
+ss&nbsp;</span></div><div id=3D"AppleMailSignature"><span style=3D"backgroun=
+d-color: rgba(255, 255, 255, 0);"><br></span></div><div id=3D"AppleMailSigna=
+ture"><span style=3D"background-color: rgba(255, 255, 255, 0);"><b>Front-End=
+ development</b>&nbsp;</span></div><div id=3D"AppleMailSignature"><span styl=
+e=3D"background-color: rgba(255, 255, 255, 0);">Bootstrap&nbsp;</span></div>=
+<div id=3D"AppleMailSignature"><span style=3D"background-color: rgba(255, 25=
+5, 255, 0);">Angular (Google)&nbsp;</span></div><div id=3D"AppleMailSignatur=
+e"><span style=3D"background-color: rgba(255, 255, 255, 0);">HTML5</span></d=
+iv><div id=3D"AppleMailSignature"><span style=3D"background-color: rgba(255,=
+ 255, 255, 0);">Java script&nbsp;</span></div><div id=3D"AppleMailSignature"=
+><span style=3D"background-color: rgba(255, 255, 255, 0);">JQuery&nbsp;</spa=
+n></div><div id=3D"AppleMailSignature"><span style=3D"background-color: rgba=
+(255, 255, 255, 0);">CSS</span></div><div id=3D"AppleMailSignature"><span st=
+yle=3D"background-color: rgba(255, 255, 255, 0);">Wordpress&nbsp;</span></di=
+v><div id=3D"AppleMailSignature"><span style=3D"background-color: rgba(255, 2=
+55, 255, 0);">--- and a lot of frameworks&nbsp;</span></div><div id=3D"Apple=
+MailSignature"><span style=3D"background-color: rgba(255, 255, 255, 0);"><br=
+></span></div><div id=3D"AppleMailSignature"><span style=3D"background-color=
+: rgba(255, 255, 255, 0);"><b>Project Management tools</b>:</span></div><div=
+ id=3D"AppleMailSignature"><span style=3D"background-color: rgba(255, 255, 2=
+55, 0);">Git&nbsp;</span></div><div id=3D"AppleMailSignature"><span style=3D=
+"background-color: rgba(255, 255, 255, 0);">Google development tools</span><=
+/div><div id=3D"AppleMailSignature"><span style=3D"background-color: rgba(25=
+5, 255, 255, 0);">FTP</span></div><div id=3D"AppleMailSignature"><span style=
+=3D"background-color: rgba(255, 255, 255, 0);"><br></span></div><div id=3D"A=
+ppleMailSignature"><span style=3D"background-color: rgba(255, 255, 255, 0);"=
+>Definition of each topic:</span></div><div id=3D"AppleMailSignature"><span s=
+tyle=3D"background-color: rgba(255, 255, 255, 0);"><br></span></div><div id=3D=
+"AppleMailSignature"><span style=3D"background-color: rgba(255, 255, 255, 0)=
+;"><u>Databases</u>: Are structures for storage information, you can use it f=
+or a simple storage application or in a complex analytics statistics.</span>=
+</div><div id=3D"AppleMailSignature"><span style=3D"background-color: rgba(2=
+55, 255, 255, 0);"><u>Back-end</u>: Is all the logic and bounds of the syste=
+m, is in the server and contains all the arithmetic and logic stuffs for the=
+ systems.</span></div><div id=3D"AppleMailSignature"><span style=3D"backgrou=
+nd-color: rgba(255, 255, 255, 0);"><u>Front-end</u>: Is the interface, it is=
+ the final contact with the client, it represent all the back-end as a simpl=
+e shapes like buttons.&nbsp;</span></div><div id=3D"AppleMailSignature"><spa=
+n style=3D"background-color: rgba(255, 255, 255, 0);"><u>PM tools</u>: Are t=
+he tools for know the flow and the quality of the project.</span></div><br>E=
+nrique Gamboa<div>New York Factory Systems&nbsp;</div><div>(646) 830 3874</d=
+iv></div></body></html>=
+
+--Apple-Mail-0E09AAED-25A6-4719-A2A1-22AB0F54DC9F--

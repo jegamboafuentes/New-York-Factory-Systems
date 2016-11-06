@@ -1,0 +1,61 @@
+Return-path: <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Mon, 28 Dec 2015 20:32:01 -0700
+Received: from m69-169.mailgun.net ([166.78.69.169]:57500)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtp (Exim 4.85)
+	(envelope-from <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>)
+	id 1aDl0z-002HKs-TB
+	for hpbriffel@nyfactorysystems.com; Mon, 28 Dec 2015 20:32:01 -0700
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=github.com; q=dns/txt;
+ s=mailo; t=1451359911; h=Content-Transfer-Encoding: Content-Type:
+ Mime-Version: Subject: Message-ID: To: Reply-To: From: Date: Sender;
+ bh=iiKTEmczBh64DglAYt5FBQGCGBnkqMnX3lTpNTzgn5M=; b=IgnH/FZEGHf++9Hil52kqrwdw45VAlyusvTwP+t2Ix9BxPX7EEigRGdkWnh2r8Ccfbe+vaj8
+ Ir99ZWn+5izBLys2242/VbMdIhyNUiY46T4NqL4IcMtnUf1leri0YQQzlFZiwA/u1jts+XCs
+ yj3hlYV+deEBnvllNYNn/fNGw2k=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=github.com; s=mailo; q=dns;
+ h=Sender: Date: From: Reply-To: To: Message-ID: Subject: Mime-Version:
+ Content-Type: Content-Transfer-Encoding;
+ b=dwGGLZCXvDyYL3FCkPVSFRFDQJqxFDPlyAZMGxv5lsM32meSTmf/IlYLzObRff0ThEHVKy
+ S76RdckDJHdCb9lvaNgvyuAAmxGa/9HC5U/2uvbxaS1eQyFk2qvF4D5i807/DrDQ8w0fS+7K
+ e2uxLVME0lQ4ZJol4P8YT+9tBZHms=
+Sender: jegamboafuentes=gmail.com@github.com
+X-Mailgun-Sid: WyI4OWEzZSIsICJocGJyaWZmZWxAbnlmYWN0b3J5c3lzdGVtcy5jb20iLCAiNDBmIl0=
+Received: from github.com (Unknown [192.30.252.40])
+ by mxa.mailgun.org with ESMTP id 5681fea7.68a4300-in01;
+ Tue, 29 Dec 2015 03:31:51 -0000 (UTC)
+Date: Mon, 28 Dec 2015 19:31:51 -0800
+From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+Reply-To: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+To: hpbriffel@nyfactorysystems.com
+Message-ID: <5681fea7639c0_1963f93dc1ed2a01085d7@hookshot-fe6-cp1-prd.iad.github.net.mail>
+Subject: [jegamboafuentes/New-York-Factory-Systems] c26c3f: Linked templates
+ at New York Factory systems-Bootr...
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="--==_mimepart_5681fea763569_1963f93dc1ed2a01084db";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_5681fea763569_1963f93dc1ed2a01084db
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+  Branch: refs/heads/master
+  Home:   https://github.com/jegamboafuentes/New-York-Factory-Systems
+  Commit: c26c3f128e971434ae6b32de4468830f4bf68cf9
+      https://github.com/jegamboafuentes/New-York-Factory-Systems/commit/c26c3f128e971434ae6b32de4468830f4bf68cf9
+  Author: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+  Date:   2015-12-27 (Sun, 27 Dec 2015)
+
+  Changed paths:
+    M New York Factory Systems/administration/webdesign/templates/bootsrap/nyfsTemplatesBootsrap.html
+
+  Log Message:
+  -----------
+  Linked templates at New York Factory systems-Bootrsap Templates
+
+
+
+----==_mimepart_5681fea763569_1963f93dc1ed2a01084db--

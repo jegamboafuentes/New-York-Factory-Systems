@@ -1,0 +1,27 @@
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-B78E822E-EED0-4DFC-A00E-96744CDB9986
+Content-Transfer-Encoding: 7bit
+From: Info New York Factory Systems <info@nyfactorysystems.com>
+Mime-Version: 1.0 (1.0)
+Date: Sat, 8 Oct 2016 13:05:17 -0400
+Subject: Hola
+Message-Id: <02517FCD-7D3C-446A-BCBE-53808DD7515C@nyfactorysystems.com>
+To: Jorge Enrique Gamboa Fuentes <snake2209@hotmail.com>
+
+
+--Apple-Mail-B78E822E-EED0-4DFC-A00E-96744CDB9986
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hola
+
+Information 
+New York Factory Systems
+--Apple-Mail-B78E822E-EED0-4DFC-A00E-96744CDB9986
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div><div style="direction: inherit;">Hola</div><br>Information&nbsp;<div>New York Factory Systems</div></div></body></html>
+--Apple-Mail-B78E822E-EED0-4DFC-A00E-96744CDB9986--

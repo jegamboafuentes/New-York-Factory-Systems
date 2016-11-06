@@ -1,0 +1,61 @@
+Return-path: <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Mon, 28 Dec 2015 20:57:16 -0700
+Received: from m69-169.mailgun.net ([166.78.69.169]:54130)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtp (Exim 4.85)
+	(envelope-from <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>)
+	id 1aDlPQ-002JQi-IY
+	for hpbriffel@nyfactorysystems.com; Mon, 28 Dec 2015 20:57:16 -0700
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=github.com; q=dns/txt;
+ s=mailo; t=1451361404; h=Content-Transfer-Encoding: Content-Type:
+ Mime-Version: Subject: Message-ID: To: Reply-To: From: Date: Sender;
+ bh=UnJUHKJSwTzIzmsKzK3yy2jyBRV5wUND3msmjg9drlw=; b=SlEP2VkZYheiXj3pIsnsPaKMpLo2tcC3ukWzmLTYEt1pMbfsg1x1lpIgLTwuJ5jzZfDYzgQR
+ wq6XNhhf8HLYJg96SzwNeA06iFNuBi9riMEUhSVEkj2oI5FnXpIbC1YykH3auJHh71thaN2X
+ Zx/A0W9IjrHP5KmXYCtsObaegKg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=github.com; s=mailo; q=dns;
+ h=Sender: Date: From: Reply-To: To: Message-ID: Subject: Mime-Version:
+ Content-Type: Content-Transfer-Encoding;
+ b=g9snXUBlZlNCQZgghcmhZ7wgzwDb3NTXrA6Yk9YV/lSpbtoX7wH9eknOhcnYMIvO/NvWqV
+ tfMQNzDD9nOMZ3n1nt7mJndtlKxNTg4xPkYXt1od+ErQC5/0XWXcYzEaupHDYaOoP7DfDus6
+ focU0fqGDYRMEuR4iR9RupAenUT4o=
+Sender: jegamboafuentes=gmail.com@github.com
+X-Mailgun-Sid: WyI4OWEzZSIsICJocGJyaWZmZWxAbnlmYWN0b3J5c3lzdGVtcy5jb20iLCAiNDBmIl0=
+Received: from github.com (Unknown [192.30.252.40])
+ by mxa.mailgun.org with ESMTP id 5682047c.6166300-in07;
+ Tue, 29 Dec 2015 03:56:44 -0000 (UTC)
+Date: Mon, 28 Dec 2015 19:56:44 -0800
+From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+Reply-To: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+To: hpbriffel@nyfactorysystems.com
+Message-ID: <5682047c219e6_7bda3fef5402d2c01113ea@hookshot-fe6-cp1-prd.iad.github.net.mail>
+Subject: [jegamboafuentes/New-York-Factory-Systems] 9f5235: Change in email of
+ main Page, Change the email Inf...
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="--==_mimepart_5682047c2157c_7bda3fef5402d2c01112b5";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_5682047c2157c_7bda3fef5402d2c01112b5
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+  Branch: refs/heads/master
+  Home:   https://github.com/jegamboafuentes/New-York-Factory-Systems
+  Commit: 9f5235add96ced661c2e8602b8d4f16e135394cd
+      https://github.com/jegamboafuentes/New-York-Factory-Systems/commit/9f5235add96ced661c2e8602b8d4f16e135394cd
+  Author: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+  Date:   2015-12-28 (Mon, 28 Dec 2015)
+
+  Changed paths:
+    M New York Factory Systems/index.html
+
+  Log Message:
+  -----------
+  Change in email of main Page, Change the email Info, for Sales
+
+
+
+----==_mimepart_5682047c2157c_7bda3fef5402d2c01112b5--

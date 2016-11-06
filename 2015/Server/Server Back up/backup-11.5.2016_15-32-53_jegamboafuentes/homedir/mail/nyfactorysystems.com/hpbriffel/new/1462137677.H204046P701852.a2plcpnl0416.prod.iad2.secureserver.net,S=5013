@@ -1,0 +1,105 @@
+Return-path: <salvatorediana1@gmail.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Sun, 01 May 2016 14:21:17 -0700
+Received: from mail-qg0-f41.google.com ([209.85.192.41]:35249)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <salvatorediana1@gmail.com>)
+	id 1awynl-002wa3-56
+	for hpbriffel@nyfactorysystems.com; Sun, 01 May 2016 14:21:17 -0700
+Received: by mail-qg0-f41.google.com with SMTP id f74so62555591qge.2
+        for <hpbriffel@nyfactorysystems.com>; Sun, 01 May 2016 14:21:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=JizGyNa64yhQgl4VGmM6aGViou5sqfJYBVLdFCxiUaU=;
+        b=H/kiFB3cIqARZQbLXoQxA59Y2ZRoPIXQGeJ8CrHyyodD2U63e1dmqImzoKCrMctV9e
+         bp7mi4t6FniXTlWyB0H0aNpmelWQ6qdaMKNsUFbutO0+8NZJ+QlxxyQ43itkMANsE36v
+         SIiMGejdgGZVRldhCA9Hl8+LEdchibwgQ9irKz7R/gZ6WW/iUZ+29n41rWCLaAkSo91m
+         +Xd/IQKnTv0O3/T9IrQbZY6FtqpYcNEWbnuueCn140p9JN0F78xwnnAMhF5+f9fRNXqC
+         BeR3ohFwB8rwAtSoPFyD/7grT2dPUsve7JfTflInDNtdqtz3IbzWwhyFxdn9cXLVf8qF
+         4lmg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=JizGyNa64yhQgl4VGmM6aGViou5sqfJYBVLdFCxiUaU=;
+        b=PhMcdbrUx6PO7CDId7IGZTusqv+Br0ryKBP0IDrJqlJsLCR050ig+YaeJlq7TAhEUf
+         lVVg67DUv68noYpnhOdR5yfNbB9sNK7ZWzGYtja9RKieo2PJAuMJPvTGbGh1x8K207/u
+         4SMtNbNGAT6Wz9s0E+sIrZrOU+z9U3Ij7eYEMPoFCGs8f8jDppgIYzG9on0/BUL/BpFS
+         hcmlAC2MROKm/PqF4ch6DoHjuRKf00CxDS+X2GL4+VMX/IKcJWqQvRXP5UeVMDApn99g
+         bR1UA88J1K3cDqvhKdpzShPggZgcPlDcyKL8E1XufNCOyDcnvO5loeAp/gry0DJjRIP0
+         vCRQ==
+X-Gm-Message-State: AOPr4FW8rY5uMZQMuQOq3av5jLw15B4LmK84Uya7oDIcBjfLWbsBEtof7exrGdyRcIsbnn4AJPf3AKTKAbA8jQ==
+X-Received: by 10.140.40.231 with SMTP id x94mr29068047qgx.83.1462137676634;
+ Sun, 01 May 2016 14:21:16 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.55.171.142 with HTTP; Sun, 1 May 2016 14:20:37 -0700 (PDT)
+From: Salvatore Diana <salvatorediana1@gmail.com>
+Date: Sun, 1 May 2016 17:20:37 -0400
+Message-ID: <CAMJY=0z8_dkfidE8xyGKSJhbVuqoC28T8OQwUr66puSduhMv9g@mail.gmail.com>
+Subject: Introductions: Zviah Eldar meet Henry Putnam Briffel
+To: Zviah Eldar <ezviah@gmail.com>, "Henry P. Briffel" <hpbriffel@nyfactorysystems.com>
+Content-Type: multipart/alternative; boundary=001a11c11de4d42d990531ce74c0
+
+--001a11c11de4d42d990531ce74c0
+Content-Type: text/plain; charset=UTF-8
+
+Henry,
+
+In addition to being a close friend and fellow Salvatones board member,
+Zviah is a seasoned business leader, entrepreneur and creative marketing
+guru. In short, everything she touches turns to gold and her business
+acumen is sought out the world over. Her new venture is quite promising and
+she's working with partners who equally matched in knowledge, experience,
+and ingenuity.
+
+
+Zviah,
+
+Allow me to introduce you to Henry, a marketing, communications and vendor
+relations specialist. He has extensive experience in developing sales
+channel strategies, corporate branding and digital solutions as well
+as custom-tailored digital marketing and visibility solutions. This doesn't
+even scratch the surface in describing his skills. I'll let him handle that.
+
+
+I'll leave the rest to the two of you to connect over.
+
+
+Cheers,
+
+Sal
+
+--001a11c11de4d42d990531ce74c0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:arial,he=
+lvetica,sans-serif">
+
+
+
+
+
+
+
+<p class=3D""><span class=3D"">Henry,=C2=A0</span></p><p class=3D""><span c=
+lass=3D"">In addition to being a close friend and fellow Salvatones board m=
+ember, Zviah is a seasoned business leader, entrepreneur and creative marke=
+ting guru. In short, everything she touches turns to gold and her business =
+acumen is sought out the world over. Her new venture is quite promising and=
+ she&#39;s working with partners who equally matched in knowledge, experien=
+ce, and ingenuity.=C2=A0</span></p><p class=3D""><span class=3D""><br></spa=
+n></p><p class=3D""><span class=3D"">Zviah,</span></p>
+<p class=3D""><span class=3D"">Allow me to introduce you to Henry, a</span>=
+<span class=3D"">=C2=A0marketing, communications and vendor relations speci=
+alist. He has extensive experience in developing sales channel strategies, =
+corporate branding and digital solutions as well as=C2=A0custom-tailored di=
+gital marketing and visibility solutions. This doesn&#39;t even scratch the=
+ surface in describing his skills. I&#39;ll let him handle that.</span></p>=
+<p class=3D""><span class=3D""><br></span></p><p class=3D"">I&#39;ll leave =
+the rest to the two of you to connect over.=C2=A0</p><p class=3D""><br></p>=
+<p class=3D"">Cheers,</p><p class=3D"">Sal</p><p class=3D""><span class=3D"=
+"></span></p></div></div>
+
+--001a11c11de4d42d990531ce74c0--

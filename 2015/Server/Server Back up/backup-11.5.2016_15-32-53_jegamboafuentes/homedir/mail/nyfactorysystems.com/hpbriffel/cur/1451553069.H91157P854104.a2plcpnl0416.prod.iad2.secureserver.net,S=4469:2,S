@@ -1,0 +1,92 @@
+Return-path: <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>
+Envelope-to: hpbriffel@nyfactorysystems.com
+Delivery-date: Thu, 31 Dec 2015 02:11:09 -0700
+Received: from m69-170.mailgun.net ([166.78.69.170]:50681)
+	by a2plcpnl0416.prod.iad2.secureserver.net with esmtp (Exim 4.85)
+	(envelope-from <bounce+b7bb45.40f-hpbriffel=nyfactorysystems.com@github.com>)
+	id 1aEZGH-003aBS-0n
+	for hpbriffel@nyfactorysystems.com; Thu, 31 Dec 2015 02:11:09 -0700
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=github.com; q=dns/txt;
+ s=mailo; t=1451553052; h=Content-Transfer-Encoding: Content-Type:
+ Mime-Version: Subject: Message-ID: To: Reply-To: From: Date: Sender;
+ bh=H9QE8MavSR8GEMRUb7Qn2hL9trYcbDSPSlGyrLLA/ro=; b=JKn/O6+GCE4Q9SCIL5wolVEVV7qhsbrlWHQzZENi4N/XbiiO7WVEeFr57dNRy7esdgXYtvz5
+ uclK0uFXEfW5OiIrjFttRXbr4Pr8E3qnUVOgAtADilBWMZUASsHnv8HI2ccfqRSLIw1g8kyI
+ sC6u2RGaVmd64tpr0QUDMzJoh4k=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=github.com; s=mailo; q=dns;
+ h=Sender: Date: From: Reply-To: To: Message-ID: Subject: Mime-Version:
+ Content-Type: Content-Transfer-Encoding;
+ b=m9bgL2tMWZtyxFjaDFCmD4f1ZZ9puyXx97ZU0JJcAM7c23JdXxsRIhe7CYST+IocQqfpG9
+ +MQclsmq2yLQuiIZtIo6MN+N1P7LKVbxC0r/c++keI2aHGBd8nrPe1Z6HjjNHtsFxdQgJD03
+ o5lcrja27Tsh2gU9kmFZtF7qYSJcU=
+Sender: jegamboafuentes=gmail.com@github.com
+X-Mailgun-Sid: WyI4OWEzZSIsICJocGJyaWZmZWxAbnlmYWN0b3J5c3lzdGVtcy5jb20iLCAiNDBmIl0=
+Received: from github.com (Unknown [192.30.252.41])
+ by mxa.mailgun.org with ESMTP id 5684f11c.713d1e0-in3;
+ Thu, 31 Dec 2015 09:10:52 -0000 (UTC)
+Date: Thu, 31 Dec 2015 01:10:52 -0800
+From: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+Reply-To: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+To: hpbriffel@nyfactorysystems.com
+Message-ID: <5684f11c342de_609b3fd55c4e72a01055f3@hookshot-fe5-cp1-prd.iad.github.net.mail>
+Subject: [jegamboafuentes/New-York-Factory-Systems] c27039: New Examples
+ module, New module in main page, with...
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="--==_mimepart_5684f11c33e6e_609b3fd55c4e72a01054c8";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_5684f11c33e6e_609b3fd55c4e72a01054c8
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+  Branch: refs/heads/master
+  Home:   https://github.com/jegamboafuentes/New-York-Factory-Systems
+  Commit: c27039d1c28a32fd8f3adf76217a3bf462f2e659
+      https://github.com/jegamboafuentes/New-York-Factory-Systems/commit/c27039d1c28a32fd8f3adf76217a3bf462f2e659
+  Author: Jorge Enrique Gamboa Fuentes <jegamboafuentes@gmail.com>
+  Date:   2015-12-31 (Thu, 31 Dec 2015)
+
+  Changed paths:
+    A New York Factory Systems/css/bootstrap-theme.css
+    A New York Factory Systems/css/bootstrap-theme.css.map
+    A New York Factory Systems/css/bootstrap-theme.min.css
+    A New York Factory Systems/css/bootstrap-theme.min.css.map
+    M New York Factory Systems/css/bootstrap.css
+    A New York Factory Systems/css/bootstrap.css.map
+    M New York Factory Systems/css/bootstrap.min.css
+    A New York Factory Systems/css/bootstrap.min.css.map
+    M New York Factory Systems/css/index.css
+    M New York Factory Systems/css/stylish-portfolio.css
+    A New York Factory Systems/img/loolLike/example1.jpg
+    A New York Factory Systems/img/loolLike/example2.jpg
+    A New York Factory Systems/img/loolLike/example3.jpg
+    A New York Factory Systems/img/loolLike/example4.jpg
+    A New York Factory Systems/img/loolLike/s1.jpg
+    A New York Factory Systems/img/loolLike/s10.jpg
+    A New York Factory Systems/img/loolLike/s11.jpg
+    A New York Factory Systems/img/loolLike/s12.jpg
+    A New York Factory Systems/img/loolLike/s13.jpg
+    A New York Factory Systems/img/loolLike/s2.jpg
+    A New York Factory Systems/img/loolLike/s3.jpg
+    A New York Factory Systems/img/loolLike/s4.jpg
+    A New York Factory Systems/img/loolLike/s5.jpg
+    A New York Factory Systems/img/loolLike/s6.jpg
+    A New York Factory Systems/img/loolLike/s7.jpg
+    A New York Factory Systems/img/loolLike/s8.jpg
+    A New York Factory Systems/img/loolLike/s9.jpg
+    M New York Factory Systems/index.html
+    M New York Factory Systems/js/bootstrap.js
+    M New York Factory Systems/js/bootstrap.min.js
+    M New York Factory Systems/js/index.js
+    A New York Factory Systems/js/npm.js
+
+  Log Message:
+  -----------
+  New Examples module, New module in main page, with some web pages examples
+
+
+
+----==_mimepart_5684f11c33e6e_609b3fd55c4e72a01054c8--
